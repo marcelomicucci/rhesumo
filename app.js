@@ -41,6 +41,7 @@
     return b;
   }
   const fonteLinha = (n) => `<div class="fonte">Fonte: <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.fonte)}</a>${n.publicado_em ? " · publicado em " + curta(n.publicado_em) : ""}</div>`;
+  const tituloLink = (n, html) => n.url ? `<a href="${esc(n.url)}" target="_blank" rel="noopener" title="Abrir a matéria original">${html}</a>` : html;
   function porque(url) {
     if (!DIR || !DIR.interacoes) return "";
     const i = DIR.interacoes[url]; if (!i) return "";
@@ -51,10 +52,10 @@
   function cardNoticia(n) {
     const r1 = DIR && DIR.interacoes && DIR.interacoes[n.url] && DIR.interacoes[n.url].relevancia === 1;
     return `<article class="card${r1 ? " r1" : ""}"><div class="meta">${badges({ tipo: n.tipo, idioma: n.idioma_original })}</div>
-      <h3>${esc(n.titulo)}</h3><p>${esc(n.resumo)}</p>${porque(n.url)}${fonteLinha(n)}</article>`;
+      <h3>${tituloLink(n, esc(n.titulo))}</h3><p>${esc(n.resumo)}</p>${porque(n.url)}${fonteLinha(n)}</article>`;
   }
   function cardAlerta(a) {
-    return `<div class="alerta${a.severo ? " grave" : ""}"><h3>${esc(a.titulo)}</h3>
+    return `<div class="alerta${a.severo ? " grave" : ""}"><h3>${tituloLink(a, esc(a.titulo))}</h3>
       <div class="loc">${esc(a.local)}${a.periodo ? " · " + esc(a.periodo) : ""}</div>
       <p>${esc(a.resumo)}</p>${DIR && DIR.impactos && DIR.impactos[a.url] ? `<div class="impacto"><b>Impacto para o grupo:</b> ${esc(DIR.impactos[a.url])}</div>` : ""}
       ${a.idioma_original && a.idioma_original !== "pt" ? `<div class="meta">${badges({ idioma: a.idioma_original })}</div>` : ""}${porque(a.url)}${fonteLinha(a)}</div>`;
@@ -153,7 +154,7 @@
     const edNum = Object.fromEntries(idx.edicoes.map((e) => [e.id, e]));
     $("#res").innerHTML = `<p class="res-info">${res.length} resultado(s)</p>` + res.slice(0, 300).map((i) => `<article class="card${i.severo ? " r1" : ""}">
       <div class="meta">${badges(i)}<span>${esc(i.secao || "Alertas de viagem")}</span>${i.local ? `<span>· ${esc(i.local)}</span>` : ""}</div>
-      <h3>${marcar(i.titulo, t)}</h3><p>${marcar(i.resumo, p.titulo ? [] : t)}</p>${fonteLinha(i)}
+      <h3>${tituloLink(i, marcar(i.titulo, t))}</h3><p>${marcar(i.resumo, p.titulo ? [] : t)}</p>${fonteLinha(i)}
       <div class="fonte">Na edição: <a href="#/e/${i.ed}">${curta(edNum[i.ed].data)}${edNum[i.ed].semanal ? " (semana)" : ""} — nº ${edNum[i.ed].numero}</a></div></article>`).join("");
   }
 
@@ -165,6 +166,19 @@
       else if (h.startsWith("#/arquivo")) await verArquivo();
       else await verEdicao(null);
     } catch (err) { app.innerHTML = `<p class="vazio">Não foi possível carregar o conteúdo agora. Tente recarregar a página.</p>`; console.error(err); }
+  }
+  // tema claro/escuro: segue o sistema até o leitor escolher
+  const raizHtml = document.documentElement;
+  const lerTema = () => { try { return localStorage.getItem("rhesumo-tema"); } catch (e) { return null; } };
+  const escuroAgora = () => raizHtml.dataset.theme ? raizHtml.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  if (lerTema()) raizHtml.dataset.theme = lerTema();
+  const nav = document.querySelector("header.top nav");
+  if (nav) {
+    const bt = document.createElement("button");
+    bt.className = "tema"; bt.type = "button";
+    const rot = () => { bt.textContent = escuroAgora() ? "☀ Claro" : "☾ Escuro"; bt.setAttribute("aria-label", escuroAgora() ? "Mudar para tema claro" : "Mudar para tema escuro"); };
+    bt.onclick = () => { raizHtml.dataset.theme = escuroAgora() ? "light" : "dark"; try { localStorage.setItem("rhesumo-tema", raizHtml.dataset.theme); } catch (e) {} rot(); };
+    rot(); nav.appendChild(bt);
   }
   window.addEventListener("hashchange", rota);
   rota();

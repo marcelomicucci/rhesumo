@@ -5,9 +5,9 @@
 <p align="center"><b>O que move o turismo, a aviação, os eventos e a Amazônia — todo dia, em poucos minutos de leitura.</b></p>
 
 <p align="center">
-  <a href="https://marcelomicucci.github.io/rhesumo/"><b>📰 Ler a edição de hoje</b></a> ·
-  <a href="https://marcelomicucci.github.io/rhesumo/#/busca"><b>🔎 Busca avançada</b></a> ·
-  <a href="https://marcelomicucci.github.io/rhesumo/#/arquivo"><b>🗂 Arquivo</b></a>
+  <a href="https://rhesumo.rhes.com.br/"><b>📰 Ler a edição de hoje</b></a> ·
+  <a href="https://rhesumo.rhes.com.br/#/busca"><b>🔎 Busca avançada</b></a> ·
+  <a href="https://rhesumo.rhes.com.br/#/arquivo"><b>🗂 Arquivo</b></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 > **Aviação reforça destinos de lazer, enquanto segurança, IA e custos redesenham a operação turística**
 >
-> [Abrir a edição completa →](https://marcelomicucci.github.io/rhesumo/#/e/2026-11-06)
+> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-06)
 
 ---
 
@@ -41,7 +41,7 @@ Pará, Amazônia & Sustentabilidade · Café & Foodservice · Estudos & Pesquisa
 ## Uma memória do turismo
 
 Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **13 edições**, **199 notícias**
-e **50 alertas de viagem**, de **62 fontes**. A [busca avançada](https://marcelomicucci.github.io/rhesumo/#/busca) filtra por palavra,
+e **50 alertas de viagem**, de **62 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
 frase exata, período, seção, fonte, tipo (notícia, estudo, alerta) e idioma original.
 
 ## Dados abertos

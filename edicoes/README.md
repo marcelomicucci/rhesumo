@@ -1,6 +1,6 @@
 # Todas as edições do Rhesumo
 
-[← Voltar](../README.md) · [Abrir no site](https://marcelomicucci.github.io/rhesumo/#/arquivo)
+[← Voltar](../README.md) · [Abrir no site](https://rhesumo.rhes.com.br/#/arquivo)
 
 
 ## Novembro de 2026

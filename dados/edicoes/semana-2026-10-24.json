@@ -1,0 +1,264 @@
+{
+ "id": "semana-2026-10-24",
+ "data": "2026-10-24",
+ "semanal": true,
+ "numero": 4,
+ "manchete": "aviação e IA avançam, enquanto clima, regulação e custos exigem resposta operacional no Grupo Rhes",
+ "resumo_executivo": [
+  "A semana combinou expansão de conectividade e demanda com pressão por paridade e capacidade: a Gol recuou de uma promoção B2C, a American concluiu investimento de US$ 100 milhões na Azul e o BTM estimou 5,1 mil visitantes por dia em Fortaleza.",
+  "A IA passou de experimento a aplicação operacional em viagens: Copastur desenvolve agente para antecipar problemas, e Amadeus, Nvidia e Decolar ampliam busca, atendimento e gestão hoteleira automatizados.",
+  "A estiagem amazônica segue afetando navegação e ecoturismo: a Antaq prevê recuperação a partir do fim de novembro, enquanto o Pará recebeu pacote emergencial de R$ 300 milhões para seca e queimadas.",
+  "Custos e regras pedem monitoramento: o IPCA-15 acumulou 4,62% em 12 meses, o café caiu 14,31% em um ano no Pará e novas regras da Anac para atrasos e cancelamentos entram em vigor em 26/10.",
+  "A distribuição de viagens ficou mais dependente de integração e documentação: IATA levará solicitação de vistos ao Timatic, há limite de três reagendamentos para vistos dos EUA e a captação de startups de viagens caiu pelo segundo trimestre seguido."
+ ],
+ "alertas": [
+  {
+   "titulo": "Novas regras da Anac para atraso e cancelamento entram em vigor",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/legislacao/noticia/2026/10/24/atrasos-e-cancelamento-de-voos-entenda-as-novas-regras-da-anac.ghtml",
+   "publicado_em": "2026-10-24",
+   "categoria": "regulacao",
+   "local": "Brasil, voos regulados pela Anac",
+   "periodo": "A partir de 26/10/2026; vigência sem data final informada",
+   "resumo": "A Resolução Anac nº 813/2026 amplia exigências de informação e detalha assistência em atrasos, cancelamentos e interrupções. Alimentação, hospedagem e transporte continuam previstos conforme o tempo de espera e o pernoite.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Limite de três reagendamentos para visto americano exige cautela",
+   "fonte": "PANROTAS",
+   "url": "https://www.panrotas.com.br/mercado/destinos/2026/10/visto-eua-especialista-orienta-sobre-novas-regras-em-alteracoes-no-agendamento_233127.html",
+   "publicado_em": "2026-10-23",
+   "categoria": "regulacao",
+   "local": "Consulados e Embaixada dos EUA no Brasil",
+   "periodo": "Regra vigente; data de término não informada",
+   "resumo": "A política anunciada limita a três cancelamentos ou reagendamentos de entrevista por processo de visto, ainda com dúvidas sobre alterações anteriores e cancelamentos feitos pelo consulado.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Riyadh Air cancela voos de Madri entre 25/10 e 7/11",
+   "fonte": "Hosteltur",
+   "url": "https://www.hosteltur.com/179462_riyadh-air-cancela-los-vuelos-de-madrid-desde-el-25-de-octubre-hasta-de-7-de-noviembre.html",
+   "publicado_em": "2026-10-23",
+   "categoria": "conflito",
+   "local": "Madri, Espanha; conexões alternativas por Londres Heathrow e Al Qassim/Riad",
+   "periodo": "25/10/2026 a 07/11/2026",
+   "resumo": "A Riyadh Air cancelará os voos com origem em Madri após o ataque de 10/10 ao aeroporto de Riad. Passageiros podem pedir reacomodação por Heathrow, alteração de data ou reembolso integral.",
+   "severo": true,
+   "idioma_original": "es"
+  },
+  {
+   "titulo": "Vazante restringe navegação no Norte até recuperação prevista para novembro",
+   "fonte": "O Liberal",
+   "url": "https://www.oliberal.com/economia/antaq-estima-recuperacao-de-navegabilidade-na-regiao-norte-a-partir-de-novembro-1.1185435",
+   "publicado_em": "2026-10-22",
+   "categoria": "clima",
+   "local": "Região Norte, especialmente Rio Negro, Manaus e trecho Manaus–Itacoatiara",
+   "periodo": "Até a quarta semana de novembro de 2026, no cenário mediano",
+   "resumo": "A vazante do Rio Negro impõe restrições à navegação; a Antaq prevê recuperação gradual a partir do fim de novembro.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Estiagem e queimadas mobilizam medidas emergenciais no Pará",
+   "fonte": "O Liberal",
+   "url": "https://www.oliberal.com/economia/estiagem-e-queimadas-no-para-governo-federal-anuncia-medidas-emergenciais-1.1185468",
+   "publicado_em": "2026-10-22",
+   "categoria": "clima",
+   "local": "Santarém e oeste do Pará",
+   "periodo": "Situação em curso; sem data final informada",
+   "resumo": "Medida provisória abriu crédito de R$ 300 milhões para Defesa Civil, água, alimentos e combate a incêndios florestais, com apoio a comunidades indígenas e tradicionais.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Abastecimento de querosene segue tensionado na Europa",
+   "fonte": "Hosteltur",
+   "url": "https://www.hosteltur.com/179439_el-suministro-de-queroseno-registra-tensiones-pero-de-momento-no-escasez-segun-bruselas.html",
+   "publicado_em": "2026-10-23",
+   "categoria": "sistemas",
+   "local": "Europa, com reflexos operacionais em Frankfurt, Zurique e Genebra",
+   "periodo": "Desde 21/10/2026; sem data final informada",
+   "resumo": "A Comissão Europeia confirmou tensão logística no fornecimento de querosene, sem escassez física, e companhias adotaram medidas preventivas.",
+   "severo": false,
+   "idioma_original": "es"
+  },
+  {
+   "titulo": "Lei Seca será aplicada em nove estados no segundo turno",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/23/lei-seca-vale-em-9-estados-no-segundo-turno-das-eleicoes-2026-veja-onde.ghtml",
+   "publicado_em": "2026-10-22T18:52:52-03:00",
+   "categoria": "regulacao",
+   "local": "Nove estados brasileiros, conforme regras estaduais",
+   "periodo": "25/10/2026",
+   "resumo": "Estados definiram restrições à venda e ao consumo de bebidas alcoólicas no domingo do segundo turno.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Novas regras da Anac para atraso e cancelamento entram em vigor na segunda-feira",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/legislacao/noticia/2026/10/24/atrasos-e-cancelamento-de-voos-entenda-as-novas-regras-da-anac.ghtml",
+     "publicado_em": "2026-10-24",
+     "resumo": "A Resolução nº 813/2026 amplia a informação ao passageiro e detalha assistência em atrasos, cancelamentos e interrupções. Em esperas prolongadas, permanecem as obrigações de alimentação, hospedagem e transporte.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Após reação do trade, Gol recua e termina promoção B2C antes do prazo",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/10/apos-reacao-do-trade-gol-recua-e-termina-promocao-b2c-antes-do-prazo_233072.html",
+     "publicado_em": "2026-10-21",
+     "resumo": "A Gol retomou a paridade tarifária entre canais diretos e intermediados cerca de 24 horas após oferecer descontos de até 20% apenas no B2C.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "American conclui investimento de US$ 100 milhões na Azul e passa a deter 8%",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/aviacao/parcerias/2026/10/american-conclui-investimento-na-azul-e-john-rodgerson-deixa-conselho-da-aerea-americana_233082.html",
+     "publicado_em": "2026-10-21",
+     "resumo": "A American concluiu o investimento de US$ 100 milhões e passou a deter aproximadamente 8% da Azul. John Rodgerson deixou o conselho da companhia brasileira, mas segue como CEO.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Ceará cresce cerca de 30% em turistas internacionais em 2026",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/destinos/2026/10/volume-de-turistas-internacionais-no-ceara-ja-cresce-30-em-2026_233131.html",
+     "publicado_em": "2026-10-23",
+     "resumo": "O fluxo internacional do Ceará cresceu cerca de 30%, com expansão da Iberia de três para até dez frequências semanais e aumento de voos para Lisboa.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Copastur desenvolve agente de IA para antecipar problemas na gestão de viagens",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/10/copastur-desenvolve-agente-de-ia-para-antecipar-problemas-na-gestao-de-viagens_233077.html",
+     "publicado_em": "2026-10-21",
+     "resumo": "O projeto vencedor de um hackathon de IA da Copastur, feito com a CrewAI, pretende antecipar problemas na gestão de viagens e deve ser implementado em 90 dias.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Amadeus, Nvidia e Decolar avançam em IA no turismo",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/tecnologia/2026/10/amadeus-nvidia-e-decolar-avancam-em-ia-pesquisa-revela-tendencias-de-viagens-no-brasil_233153.html",
+     "publicado_em": "2026-10-23",
+     "resumo": "Amadeus e Nvidia ampliaram parceria para acelerar pesquisas de voos, enquanto a Decolar lançou a MARIANA, concierge de IA para hotéis parceiros 24 horas por dia no WhatsApp.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "IATA vai integrar pedido online de vistos ao Timatic para companhias aéreas",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/179448_iata-facilitara-a-los-pasajeros-la-tramitacion-online-de-visados-a-traves-de-las-aerolineas.html",
+     "publicado_em": "2026-10-24",
+     "resumo": "A IATA incorporará ao Timatic um serviço da OneVasco para assistência, pagamentos e acompanhamento de pedidos de visto online dentro das soluções de verificação documental das companhias aéreas.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "BTM 2026 estima 5,1 mil visitantes por dia e pede tarifa aérea acessível para caravanas",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/feiras/2026/10/btm-soma-mais-de-5-mil-visitantes-diarios-em-2026-e-pede-tarifa-aerea-acessivel-para-caravanas_233151.html",
+     "publicado_em": "2026-10-23",
+     "resumo": "A feira em Fortaleza estimou 5,1 mil visitantes únicos em cada um dos dois dias e pediu às companhias aéreas descontos reais para caravanas de agentes e operadores do Nordeste.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Governo vai propor perdão de R$ 15 bilhões de dívidas de 400 mil empreendedores de eventos",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/camilo-governo-vai-propor-perdao-de-r-15-bi-de-dividas-de-400-mil-empreendedores-de-eventos-1.1185897",
+     "publicado_em": "2026-10-23",
+     "resumo": "O governo pretende enviar projeto para tratar dívidas ativas de empresários de eventos, restaurantes e bares do Simples, com alcance estimado de até 400 mil empreendedores e linha subsidiada pelo BNDES.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "IPCA-15 sobe 0,32% em outubro e acumula 4,62% em 12 meses",
+     "fonte": "g1",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/23/ipca-15-previa-da-inflacao-outubro.ghtml",
+     "publicado_em": "2026-10-23",
+     "resumo": "A prévia da inflação oficial avançou 0,32% em outubro e acumulou 4,62% em 12 meses.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Antaq prevê recuperação da navegabilidade no Norte a partir do fim de novembro",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/antaq-estima-recuperacao-de-navegabilidade-na-regiao-norte-a-partir-de-novembro-1.1185435",
+     "publicado_em": "2026-10-22",
+     "resumo": "A vazante do Rio Negro restringe a navegação e a Antaq prevê normalização gradual a partir do fim de novembro, conforme o cenário de recuperação dos níveis dos rios.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Estiagem e queimadas no Pará recebem pacote emergencial de R$ 300 milhões",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/estiagem-e-queimadas-no-para-governo-federal-anuncia-medidas-emergenciais-1.1185468",
+     "publicado_em": "2026-10-22",
+     "resumo": "O governo federal anunciou R$ 300 milhões para Defesa Civil, água, alimentos e combate a incêndios, com apoio a comunidades indígenas e tradicionais em Santarém e no oeste paraense.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Preço do café cai 14,31% em 12 meses no Pará, aponta Dieese",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/preco-do-cafe-cai-mais-de-14-em-12-meses-no-para-aponta-dieese-1.1185779",
+     "publicado_em": "2026-10-23",
+     "resumo": "O quilo do café foi vendido por R$ 60,08 em média nos supermercados de Belém em setembro, queda de 14,31% em 12 meses e de 2,63% ante agosto.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Rodadas de capital para startups de viagens caem pelo segundo trimestre seguido; IA recua à metade",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/10/23/travel-vc-funding-fell-for-the-second-straight-quarter-rounds-for-ai-companies-cut-in-half/",
+     "publicado_em": "2026-10-23",
+     "resumo": "O Skift Venture Capital and Private Equity Tracker contabilizou 12 rodadas de empresas de viagens nativas de IA no terceiro trimestre de 2026, contra 25 no segundo trimestre. A captação caiu pelo segundo trimestre consecutivo, enquanto incumbentes fizeram aquisições pontuais.",
+     "tipo": "estudo",
+     "idioma_original": "en"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 35
+}

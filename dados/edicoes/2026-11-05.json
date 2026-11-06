@@ -1,0 +1,190 @@
+{
+ "id": "2026-11-05",
+ "data": "2026-11-05",
+ "semanal": false,
+ "numero": 12,
+ "manchete": "Clima e greves pressionam a operação de viagens enquanto IA e eventos redesenham a distribuição e a demanda",
+ "resumo_executivo": [
+  "O aeroporto de Chapecó suspendeu pousos e decolagens por tempo indeterminado após um tornado; em Paris, os voos devem ser mantidos, mas a greve pode alongar filas e dificultar o acesso ao CDG.",
+  "A Latam interrompeu preventivamente as vendas da rota Guarulhos–Cabo Frio prevista para dezembro, enquanto a Gol mudou a cobrança do wi-fi a bordo e a Embraer negocia até 150 jatos com a IndiGo.",
+  "Assistentes de IA avançam na descoberta de viagens: a ClickBus integrou busca de ônibus ao Google Gemini e a Expedia negocia a economia de parcerias com o Muse, da Meta, e os AI Overviews do Google.",
+  "A promoção internacional do Brasil segue ativa na WTM Londres, com 54 coexpositores e alta de 11,3% nas chegadas do Reino Unido entre janeiro e setembro de 2026.",
+  "Estudos sobre turismo britânico na Comunidade Valenciana e sobre o GP de São Paulo mostram maior gasto, demanda internacional e forte efeito econômico de eventos."
+ ],
+ "alertas": [
+  {
+   "titulo": "Tornado suspende operações no aeroporto de Chapecó",
+   "fonte": "Brasilturis",
+   "url": "https://brasilturis.com.br/2026/11/04/tornado-danifica-aeroporto-de-chapeco-e-suspende-operacoes-aereas/",
+   "publicado_em": "2026-11-04",
+   "categoria": "aeroporto",
+   "local": "Aeroporto Serafim Enoss Bertaso, Chapecó (SC)",
+   "periodo": "A partir da manhã de 4/11, por tempo indeterminado",
+   "resumo": "Um tornado com rajadas de até 107 km/h arrancou parte da cobertura e danificou estruturas do terminal de passageiros e da área operacional. Pousos e decolagens foram suspensos, sem previsão de reabertura no momento da publicação.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Greve em Paris pode dificultar o acesso a CDG e alongar filas",
+   "fonte": "Sortiraparis",
+   "url": "https://www.sortiraparis.com/pt/noticias/em-paris/articles/357220-greve-de-5-de-novembro-nos-aeroportos-voos-cancelados-em-orly-e-roissy",
+   "publicado_em": "2026-11-04",
+   "categoria": "greve",
+   "local": "Aeroportos Paris-Charles-de-Gaulle e Paris-Orly; RER B ao norte da Gare du Nord",
+   "periodo": "5/11/2026",
+   "resumo": "A DGAC não pediu redução do programa de voos para Roissy e Orly, mas a adesão de trabalhadores de solo, segurança e limpeza pode aumentar as filas. O RER B terá apenas um trem a cada dois ao norte da Gare du Nord.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Latam interrompe vendas para Cabo Frio por questões operacionais",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/04/latam-interrompe-vendas-para-cabo-frio-por-questoes-operacionais-entenda/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A Latam suspendeu preventivamente a venda de passagens entre Guarulhos e Cabo Frio, cuja operação estava prevista para começar em 3 de dezembro. A companhia atribui a medida a dificuldades operacionais no aeroporto e mantém negociações com a concessionária; a rota não foi cancelada definitivamente.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Gol encerra pacote Light de wi-fi e passa a cobrar internet conforme a duração do voo",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/04/gol-altera-pacotes-wifi-bordo-cobranca-tempo-voo/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A Gol encerrou o pacote Light e deixou o Max como única opção paga. O Max custa R$ 36 por uma hora; para todo o voo, os preços variam de R$ 41 em trechos de até duas horas a R$ 103 em voos acima de seis horas. Mensagens continuam gratuitas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Embraer negocia venda de 100 jatos regionais para a IndiGo",
+     "fonte": "Mercado & Eventos",
+     "url": "https://www.mercadoeeventos.com.br/noticias/aviacao/embraer-negocia-venda-de-100-avioes-para-maior-aerea-da-india/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A Embraer negocia com a IndiGo a venda de 100 aeronaves regionais, com possibilidade de mais 50. As tratativas estão em estágio inicial, o modelo ainda não foi definido e, se o acordo avançar, as entregas poderão começar a partir de 2030.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "TAAG abre vendas para voos entre Luanda e Cidade da Praia",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/04/taag-inicia-vendas-de-voos-entre-luanda-e-cabo-verde/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A TAAG iniciou a venda de passagens para a rota Luanda–Cidade da Praia, prevista para começar em 12 de dezembro com duas frequências semanais. A companhia avalia estender a ligação até Dakar, no Senegal, em 2027.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Brasil leva 54 coexpositores à WTM Londres e cresce 11,3% em turistas britânicos",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/04/o-mundo-quer-viver-o-brasil-afirma-ministro-do-turismo-na-wtm-londres/",
+     "publicado_em": "2026-11-04",
+     "resumo": "O estande brasileiro na WTM London 2026 reúne 54 coexpositores. Entre janeiro e setembro de 2026, o Brasil recebeu 148,5 mil visitantes do Reino Unido, alta de 11,3% sobre o mesmo período de 2025.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "ClickBus integra serviços ao Google Gemini para busca de passagens de ônibus",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/04/clickbus-integra-servicos-google-gemini-busca-passagens-onibus/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A ClickBus passou a integrar o ecossistema de Apps Conectados do Google Gemini e se tornou a primeira empresa do setor rodoviário a disponibilizar suas soluções na plataforma. Usuários podem consultar rotas, horários, assentos e preços por linguagem natural; a compra termina no site da ClickBus.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Expedia avalia publicidade em IA e parcerias com Muse e AI Overviews",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/04/expedia-expects-attractive-deals-from-metas-muse-and-googles-ai-overviews/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A CEO da Expedia, Ariane Gorin, disse que a economia das parcerias com o Muse, da Meta, e os AI Overviews, do Google, ainda está sendo definida. Ela afirmou que a empresa espera usar grandes plataformas tecnológicas como canais de aquisição de clientes em condições comerciais atrativas.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "TGK World reúne 100 agentes de 27 cidades e 58 marcas expositoras",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/04/tgk-world-destaca-brasil-e-diversificacao-de-destinos-em-sua-6a-edicao/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A sexta edição do TGK World foi realizada em 4 de novembro no Rosewood São Paulo e colocou o Brasil no centro da programação pela primeira vez. O encontro reuniu 100 agentes de viagens de 27 cidades e 58 marcas expositoras.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "IAAPA Expo 2026 terá mais de 1.350 expositores e agenda para a América Latina",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/04/iaapa-expo-2026-mais-de-1350-expositores-programacao-america-latina/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A IAAPA Expo 2026 ocorrerá de 16 a 20 de novembro em Orlando, com mais de 1.350 expositores e mais de 170 sessões educativas. A programação inclui encontros direcionados a profissionais da América Latina e do Caribe.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "CNC questiona no STF o prazo para o fim da escala 6×1",
+     "fonte": "Supremo Tribunal Federal",
+     "url": "https://noticias.stf.jus.br/postsnoticias/confederacao-do-comercio-questiona-no-stf-prazo-para-fim-da-escala-6x1/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A CNC acionou o STF contra as regras de transição da Emenda Constitucional 141/2026, que extinguiu a escala 6×1 e estabeleceu jornada de até 40 horas semanais com dois dias de repouso remunerado. A entidade considera desproporcional o prazo de 60 dias para a primeira redução, de 44 para 42 horas, e propõe implementação até 16 de outubro de 2027 e limite de 40 horas em outubro de 2028.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Pará lança protocolo escolar para queimadas e estiagem, com três níveis de alerta",
+     "fonte": "Agência Pará",
+     "url": "https://agenciapara.com.br/noticia/80400/seduc-lanca-protocolo-para-orientar-escolas-publicas-sobre-impactos-de-queimadas-e-estiagem-no-para",
+     "publicado_em": "2026-11-04",
+     "resumo": "A Seduc lançou protocolo elaborado com o BID para orientar escolas públicas diante de queimadas, fumaça, calor e redução da disponibilidade de água associados aos efeitos do El Niño. O documento estabelece alertas verde, amarelo e vermelho e prevê adaptação de atividades e avaliação de suspensão presencial quando não houver condições seguras.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Turismo britânico na Comunidade Valenciana prevê mais gasto e estadas mais curtas",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/179704_mas-gasto-y-estancias-mas-cortas-asi-cambia-el-turismo-britanico-en-la-comunidad-valenciana.html",
+     "publicado_em": "2026-11-04",
+     "resumo": "Estimativas da Hosbec apresentadas na WTM projetam 3,05 milhões de turistas britânicos e € 3,350 bilhões em gasto na Comunidade Valenciana em 2026. O gasto fica 36% acima de 2019, enquanto as pernoitações devem somar 21,2 milhões, abaixo dos 21,7 milhões de 2019; a capacidade aérea do Reino Unido para Alicante-Elche cai 4,7% entre novembro de 2026 e abril de 2027. O uso de IA para inspirar viagens subiu 6 pontos, para 14%, chegando a 29% entre jovens de 25 a 34 anos.",
+     "tipo": "estudo",
+     "idioma_original": "es"
+    },
+    {
+     "titulo": "Estudo da FGV estima impacto de R$ 2,3 bilhões do GP de São Paulo",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/04/gp-sao-paulo-impacto-economico-turismo-2026/",
+     "publicado_em": "2026-11-04",
+     "resumo": "Estudo da FGV aponta que o GP de São Paulo movimentou R$ 2,3 bilhões em 2025, alta real de 9,7% sobre 2024, com R$ 1,4 bilhão de impacto direto e R$ 894,2 milhões de impacto indireto. O evento reuniu 303.627 espectadores, 75% de fora da capital, e cada R$ 1 investido retornou R$ 7,14 à economia local.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 23
+}

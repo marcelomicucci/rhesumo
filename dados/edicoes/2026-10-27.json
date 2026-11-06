@@ -1,0 +1,226 @@
+{
+ "id": "2026-10-27",
+ "data": "2026-10-27",
+ "semanal": false,
+ "numero": 6,
+ "manchete": "Instabilidade financeira e geopolítica elevam o risco operacional, enquanto conectividade e IA avançam",
+ "resumo_executivo": [
+  "Greves, tempestades, conflito no Oriente Médio e novas exigências sanitárias exigem revisão imediata de itinerários e comunicação preventiva aos viajantes.",
+  "A Latam tornou diária a rota São Paulo–Punta Cana; hotel dentro do Salgado Filho e programação de Réveillon mostram oferta se preparando para a alta temporada.",
+  "A queda de 13,88% do Ibovespa e a alta de 8,25% do dólar aumentam a pressão sobre preços, contratos e orçamentos internacionais.",
+  "O fim da escala 6x1, a aceitação ampla de vale-alimentação e ferramentas de IA operacional trazem mudanças práticas para hotelaria, eventos e foodservice.",
+  "Estudos apontam geopolítica e capacidade aérea como gargalos do incentivo, enquanto a Ásia-Pacífico se aproxima dos níveis pré-pandemia."
+ ],
+ "alertas": [
+  {
+   "titulo": "Greve geral de 24 horas na Itália pode afetar voos e aeroportos em Pisa e Florença",
+   "fonte": "VolClaim",
+   "url": "https://www.volclaim.com/en/air-travel-news/italy-strike-30-october-2026-flights-pisa-florence.html",
+   "publicado_em": "2026-10-26",
+   "categoria": "greve",
+   "local": "Itália; aeroportos de Pisa e Florença",
+   "periodo": "30/10/2026",
+   "resumo": "O sindicato USB convocou paralisação geral de 24 horas e há uma paralisação específica de equipes dos aeroportos de Pisa e Florença.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "EUA exigirão declaração sanitária sobre passagem recente pela República Democrática do Congo",
+   "fonte": "VisaVerge",
+   "url": "https://www.visaverge.com/travelrequirements/us-bound-flights-require-ebola-attestations-from-congo-within-21-days/",
+   "publicado_em": "2026-10-26",
+   "categoria": "saude",
+   "local": "Todos os voos internacionais com destino ou conexão nos Estados Unidos",
+   "periodo": "A partir de 03/11/2026; previsão de vigência até 18/12/2026",
+   "resumo": "Passageiros deverão declarar, antes do embarque, que não estiveram na República Democrática do Congo nos 21 dias anteriores. A regra alcança viajantes de qualquer nacionalidade e companhias deverão conferir e guardar a declaração.",
+   "severo": false,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Riyadh Air transfere operações para Al-Qassim após ataques ao aeroporto de Riad",
+   "fonte": "AirlineGeeks",
+   "url": "https://airlinegeeks.com/2026/10/26/riyadh-air-moves-flight-operations-to-new-airport/",
+   "publicado_em": "2026-10-26",
+   "categoria": "conflito",
+   "local": "Riad e Aeroporto Prince Naif/Al-Qassim, Arábia Saudita",
+   "periodo": "Até nova informação; operação reduzida desde 25/10",
+   "resumo": "A companhia transferiu temporariamente o hub para Al-Qassim, a cerca de quatro horas de Riad, após ataques ao King Khalid. O cronograma foi reduzido e rotas como Madri, Manchester, Bangkok e Dubai foram suspensas.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Novas regras da Anac para atrasos, cancelamentos e preterição entram em vigor",
+   "fonte": "Pontos Pra Voar",
+   "url": "https://pontospravoar.com/novas-regras-da-anac-para-atrasos-e-cancelamentos-de-voos-entram-em-vigor-veja-o-que-muda/",
+   "publicado_em": "2026-10-26",
+   "categoria": "regulacao",
+   "local": "Brasil",
+   "periodo": "A partir de 26/10/2026",
+   "resumo": "Entraram em vigor mudanças da Anac sobre os procedimentos aplicáveis a atrasos, cancelamentos e preterição de embarque.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Alerta de tempestade atinge Feira de Santana e municípios da Bahia",
+   "fonte": "G1 Bahia",
+   "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/26/cidades-da-bahia-estao-sob-alerta-de-tempestade.ghtml",
+   "publicado_em": "2026-10-26",
+   "categoria": "clima",
+   "local": "Feira de Santana e outros municípios da Bahia",
+   "periodo": "Até 23h59 de 27/10/2026",
+   "resumo": "O Inmet prevê até 50 mm de chuva por dia, ventos de 40 a 60 km/h e possibilidade de granizo, com baixo risco estimado de alagamentos e cortes de energia.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Latam amplia para diária a rota São Paulo–Punta Cana",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/10/latam-amplia-voos-entre-sao-paulo-e-punta-cana-e-rota-passa-a-ser-diaria_233182.html",
+     "publicado_em": "2026-10-26",
+     "resumo": "A Latam passou de cinco para sete frequências semanais entre São Paulo e Punta Cana. A operação diária está programada até 27 de março de 2027, com Airbus A321.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Laghetto abre hotel dentro do Aeroporto Salgado Filho, em Porto Alegre",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/10/laghetto-inicia-operacao-de-novo-hotel-dentro-do-aeroporto-salgado-filho-em-porto-alegre_233165.html",
+     "publicado_em": "2026-10-26",
+     "resumo": "O Laghetto Stilo Aeroporto iniciou operação em soft opening dentro do terminal de Porto Alegre, com tarifa de seis horas para hóspedes em escalas prolongadas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Abracorp lançará guia de boas práticas para eventos corporativos",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/mice/2026/10/abracorp-lancara-guia-de-boas-praticas-para-eventos-corporativos_233170.html",
+     "publicado_em": "2026-10-26",
+     "resumo": "O guia será lançado no encontro MICE da Abracorp, de 28 a 31 de outubro, em Foz do Iguaçu. O material reunirá recomendações para clientes, agências e fornecedores, do planejamento à avaliação dos resultados.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "IA operacional ganha espaço em restaurantes independentes para compensar falta de equipe",
+     "fonte": "4Hoteliers",
+     "url": "https://www.4hoteliers.com/news/story/26601",
+     "publicado_em": "2026-10-26",
+     "resumo": "A plataforma europeia Choice passou a usar IA para criar sites, campanhas, respostas a avaliações e ajustes de cardápio e preços. A empresa captou US$ 7,1 milhões; pesquisa citada aponta que 82% dos executivos pretendem aumentar gastos com IA e 48% veem a integração como principal obstáculo.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Ibovespa desaba 13,88% e dólar sobe 8,25% após reeleição de Lula",
+     "fonte": "InfoMoney",
+     "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+     "publicado_em": "2026-10-26",
+     "resumo": "O Ibovespa fechou aos 176.608,23 pontos, com acionamento do circuit breaker; o dólar terminou a R$ 5,403, alta de 8,25%, e os juros futuros de 2031 superaram 15% ao ano.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Intenção de consumo das famílias cai pelo terceiro mês seguido",
+     "fonte": "Panrotas / CNC",
+     "url": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/10/intencao-de-consumo-das-familias-cai-pelo-3o-mes-consecutivo-aponta-cnc_233168.html",
+     "publicado_em": "2026-10-26",
+     "resumo": "O ICF recuou 0,8% em outubro, para 103,6 pontos, menor nível do ano, embora ainda esteja 2,2% acima de outubro de 2025. A intenção de compra de bens duráveis subiu 14% na comparação anual.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Fim da escala 6x1 exigirá redesenho de turnos e custos na hotelaria",
+     "fonte": "Hotelier News",
+     "url": "https://hoteliernews.com.br/o-5x2-chegou-a-hotelaria-tera-de-reinventar-sua-equacao/",
+     "publicado_em": "2026-10-26",
+     "resumo": "Com o fim da escala 6x1 promulgado e válido a partir de 16 de dezembro, a análise aponta que a hotelaria terá de redistribuir turnos, rever contratações e repensar a produtividade em operações 24 horas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Queimadas no Pará podem levar fumaça ao Amazonas nos próximos dias",
+     "fonte": "G1 Amazonas",
+     "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/26/queimadas-no-para-podem-levar-fumaca-ao-amazonas-nos-proximos-dias-diz-governador-roberto-cidade.ghtml",
+     "publicado_em": "2026-10-26",
+     "resumo": "O governador do Amazonas afirmou que a fumaça de queimadas no Pará pode atingir o estado. Mais de 3 mil focos de queimadas foram identificados no Amazonas em 2026, segundo o relato.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "ICMBio leva alimentos de helicóptero a famílias isoladas por incêndio em Altamira",
+     "fonte": "G1 Pará",
+     "url": "https://g1.globo.com/pa/para/noticia/2026/10/26/icmbio-leva-alimentos-de-helicoptero-a-familias-atingidas-por-incendio-ha-quase-20-dias-em-reserva-de-altamira.ghtml",
+     "publicado_em": "2026-10-26",
+     "resumo": "O incêndio na Reserva Extrativista Riozinho do Anfrísio, iniciado em 7 de outubro, destruiu casas e plantações. O ICMBio prevê distribuir 154 cestas básicas a famílias isoladas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café recua mais de 2% em Nova York e robusta também cai em Londres",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/430337-cafe-fecha-segunda-feira-com-queda-de-mais-de-2-em-nova-york-robusta-tambem-recua-em-londres.html",
+     "publicado_em": "2026-10-26",
+     "resumo": "O arábica dezembro/26 fechou a 300,95 cents por libra-peso, queda de 6,50 cents, enquanto o robusta também recuou em Londres. O mercado acompanha maior disponibilidade e estoques certificados.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Taxas dificultam aceitação de vale-alimentação em restaurantes antes de nova regra",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/taxas-ainda-dificultam-aceitacao-de-vale-alimentacao-em-restaurantes-1.1185961",
+     "publicado_em": "2026-10-27",
+     "resumo": "A partir de novembro, cartões de vale-alimentação e vale-refeição poderão ser aceitos em qualquer maquininha. Restaurantes ainda relatam preocupação com taxas e prazos de repasse.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Índice de Viagens de Incentivo 2026: 60% dos compradores já têm destinos afetados por instabilidade geopolítica",
+     "fonte": "4Hoteliers / IRF e SITE",
+     "url": "https://www.4hoteliers.com/news/story/26595",
+     "publicado_em": "2026-10-27",
+     "resumo": "O estudo ouviu 2.100 profissionais: 60% dizem que a instabilidade geopolítica já afeta seus destinos, 62% esperam atividade de incentivo estável em 2027 e 26% preveem alta. Capacidade aérea é o principal gargalo para 40% dos compradores americanos, contra 12% no ano anterior; segurança pessoal é o primeiro critério de exclusão para 53%.",
+     "tipo": "estudo",
+     "idioma_original": "en"
+    },
+    {
+     "titulo": "Monitor de Turismo da PATA: Ásia-Pacífico chega a 96,3% do nível de 2019",
+     "fonte": "4Hoteliers / PATA",
+     "url": "https://www.4hoteliers.com/news/story/26610",
+     "publicado_em": "2026-10-27",
+     "resumo": "O Annual Tourism Monitor 2026 registra 239 milhões de chegadas internacionais em 44 destinos no início de 2026, alta de 2,9% sobre 2025 e 96,3% do nível de 2019. Em 2025, a região somou 700,2 milhões; Coreia do Sul cresceu 21,4% e Vietnã 14,9%, enquanto EUA recuaram 1,0% e Tailândia 4,9%.",
+     "tipo": "estudo",
+     "idioma_original": "en"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 29
+}

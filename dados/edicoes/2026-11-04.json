@@ -1,0 +1,263 @@
+{
+ "id": "2026-11-04",
+ "data": "2026-11-04",
+ "semanal": false,
+ "numero": 11,
+ "manchete": "Risco operacional e pressão de custos entram no radar, enquanto novas rotas, IA e demanda turística sustentam oportunidades",
+ "resumo_executivo": [
+  "Novos alertas de segurança, clima e saúde atingem Europa, Estados Unidos e Brasil, exigindo comunicação proativa aos viajantes.",
+  "A Azul abriu a ligação direta Macapá–Confins com quatro frequências semanais, ampliando a conectividade do Norte com Minas Gerais e conexões nacionais.",
+  "O fim da escala 6x1 tende a exigir replanejamento de equipes de solo e terceirizados; a discussão se soma à pressão tributária da CBS de referência em 11,3%.",
+  "Turismo global pode atingir 1,57 bilhão de chegadas internacionais em 2026, enquanto pesquisas mostram que segurança e experiências de natureza influenciam a escolha dos viajantes."
+ ],
+ "alertas": [
+  {
+   "titulo": "Greve geral na França pode afetar trens e voos em 5 de novembro",
+   "fonte": "TourMaG",
+   "url": "https://www.tourmag.com/Greve-5-novembre-SNCF-aerien-RATP-quelles-perturbations-dans-les-transports_a133883.html",
+   "publicado_em": "2026-11-03",
+   "categoria": "greve",
+   "local": "França; SNCF, Île-de-France e aeroportos sob coordenação da DGAC",
+   "periodo": "05/11/2026; previsões de tráfego atualizadas em 04/11",
+   "resumo": "Sindicatos convocaram greve interprofissional, com adesão dos sindicatos representativos da SNCF. Trens regionais, TER, Intercités e RER podem sofrer perturbações, e a DGAC pode exigir redução de programas de voos.",
+   "severo": true,
+   "idioma_original": "fr"
+  },
+  {
+   "titulo": "Oito ameaças de bomba provocam desvios e inspeções em voos europeus",
+   "fonte": "Hosteltur",
+   "url": "https://www.hosteltur.com/179679_oleada-de-amenazas-de-bomba-en-vuelos-europeos-ocho-en-48-horas-uno-aterriza-en-murcia.html",
+   "publicado_em": "2026-11-03",
+   "categoria": "conflito",
+   "local": "Polônia, Itália, Bulgária, Espanha e Hungria",
+   "periodo": "02–03/11/2026; acompanhar novos protocolos e desvios",
+   "resumo": "Oito ameaças contra voos comerciais em cerca de 48 horas acionaram protocolos de segurança em cinco países. Todas foram consideradas falsas, mas houve desvios, inspeções, restrições aeroportuárias e escoltas militares.",
+   "severo": true,
+   "idioma_original": "es"
+  },
+  {
+   "titulo": "EUA exigem declaração sobre possível exposição ao ebola",
+   "fonte": "PANROTAS",
+   "url": "https://www.panrotas.com.br/mercado/destinos/2026/11/eua-passam-a-exigir-declaracao-sobre-ebola-de-passageiros-nesta-terca-3_233335.html",
+   "publicado_em": "2026-11-03",
+   "categoria": "saude",
+   "local": "Estados Unidos, em voos de chegada e conexões",
+   "periodo": "Desde 03/11/2026; declaração cobre os 21 dias anteriores à viagem",
+   "resumo": "Todos os passageiros com destino aos Estados Unidos devem preencher declaração digital ou em papel informando se estiveram na República Democrática do Congo nos 21 dias anteriores, inclusive quem nunca esteve no país.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Ciclone extratropical e frente fria trazem chuva forte e queda de temperatura",
+   "fonte": "O Liberal",
+   "url": "https://www.oliberal.com/variedades/ciclone-e-frente-fria-mudam-o-tempo-no-brasil-com-chuva-forte-e-queda-de-temperatura-1.1189936",
+   "publicado_em": "2026-11-03",
+   "categoria": "clima",
+   "local": "Sul, Sudeste e Centro-Oeste do Brasil, com impactos também em deslocamentos nacionais",
+   "periodo": "04–05/11/2026, com queda de temperatura ao longo da semana",
+   "resumo": "Uma área de baixa pressão entre Paraguai, Argentina e Sul do Brasil deve formar frente fria e ciclone, com chuva forte, temporais e queda de temperatura.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Brightline suspende trecho entre Orlando e West Palm Beach por nível de água",
+   "fonte": "PANROTAS",
+   "url": "https://www.panrotas.com.br/mercado/transporte/2026/11/brightline-suspende-temporariamente-servico-entre-orlando-e-west-palm-beach_233336.html",
+   "publicado_em": "2026-11-03",
+   "categoria": "clima",
+   "local": "Condado de Brevard, Flórida; trecho Orlando–West Palm Beach",
+   "periodo": "03/11/2026; retomada sujeita às condições do corredor",
+   "resumo": "A Brightline interrompeu temporariamente o serviço por causa do elevado nível de água no corredor ferroviário. O trecho Miami–West Palm Beach continuou operando.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Corredor ferroviário Madrid–Andaluzia voltará com menos frequências",
+   "fonte": "Hosteltur",
+   "url": "https://www.hosteltur.com/179674_el-corredor-de-alta-velocidad-madrid-andalucia-se-reactivara-con-una-reduccion-de-frecuencias.html",
+   "publicado_em": "2026-11-03",
+   "categoria": "outro",
+   "local": "Espanha, corredor Madrid–Sevilha/Andaluzia",
+   "periodo": "Até a conclusão da revisão extraordinária de segurança; data de normalização não informada",
+   "resumo": "O corredor será reativado com menos circulações após o acidente de Urda, enquanto o governo revisa protocolos e implanta o ERTMS; trens em composição dupla devem limitar a perda de assentos.",
+   "severo": true,
+   "idioma_original": "es"
+  },
+  {
+   "titulo": "Falha no desembarque fecha parte do Terminal 1 de Lisboa",
+   "fonte": "Brasilturis",
+   "url": "https://brasilturis.com.br/2026/11/03/aeroporto-de-lisboa-fecha-parte-do-terminal-1-apos-falha-no-desembarque-de-voo-do-brasil",
+   "publicado_em": "2026-11-03",
+   "categoria": "aeroporto",
+   "local": "Terminal 1 do Aeroporto de Lisboa, Portugal",
+   "periodo": "03/11/2026; fechamento temporário, com impactos residuais",
+   "resumo": "Passageiros de um voo procedente do Brasil foram encaminhados por engano a uma área Schengen, levando ao fechamento temporário de parte do terminal e à repetição de inspeções por cerca de dez pessoas.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Grupo Latam lucra US$ 441 milhões no terceiro trimestre, alta de 16,3%",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/grupo-latam-lucra-us-441-milhoes-no-3t26-alta-de-163-apesar-da-crise-de-combustivel_233359.html",
+     "publicado_em": "2026-11-03",
+     "resumo": "O Grupo Latam registrou lucro líquido de US$ 441 milhões no terceiro trimestre de 2026, alta de 16,3%, receita de US$ 4,567 bilhões e EBITDA ajustado de US$ 1,095 bilhão. A margem operacional recuou para 12,5% em meio à crise global de combustível.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Azul inicia rota direta entre Macapá e Confins com quatro frequências semanais",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/11/azul-inicia-rota-direta-entre-macapa-e-confins-mg-com-quatro-frequencias-semanais_233339.html",
+     "publicado_em": "2026-11-03",
+     "resumo": "A Azul começou a operar a rota Macapá–Confins aos domingos, segundas, quartas e sextas-feiras. São cerca de 35 voos mensais e mais de 6 mil assentos entre os dois sentidos, em Airbus A320.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Governo inclui 13 aeroportos regionais no PPI",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/03/governo-abre-caminho-para-concessao-de-13-aeroportos-regionais-veja-lista",
+     "publicado_em": "2026-11-03",
+     "resumo": "Decreto inclui 13 aeroportos regionais de nove estados no Programa de Parcerias de Investimentos, com possibilidade de incorporação a concessões existentes por processo competitivo simplificado da Anac.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Lufthansa registra receita trimestral recorde, mas reduz previsão anual",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/179668_lufthansa-bate-record-de-ingresos-trimestrales-pese-al-queroseno-caro-9.html",
+     "publicado_em": "2026-11-03",
+     "resumo": "O Lufthansa Group teve receita de € 12,2 bilhões no terceiro trimestre, alta de 9%, e lucro operacional ajustado de € 1,4 bilhão. Mesmo com lucro líquido de € 1,3 bilhão, o grupo reduziu em € 200 milhões o teto da previsão anual de EBIT devido aos custos de combustível.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Copastur investe R$ 130 milhões em tecnologia e lança solução de IA com MCP",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/11/copastur-investe-r-130-milhoes-em-tecnologia-e-anuncia-nova-solucao-de-ia_233338.html",
+     "publicado_em": "2026-11-03",
+     "resumo": "A Biosfera Copastur lançou o C+ Maestro, baseado no protocolo MCP, para conectar assistentes de IA a serviços de viagens, dados, mobilidade, segurança e despesas. O grupo prevê R$ 130 milhões em investimentos tecnológicos em 2026.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Marriott eleva lucro a US$ 794 milhões e cresce em taxas de gestão",
+     "fonte": "Hotelier News",
+     "url": "https://hoteliernews.com.br/marriott-ganha-escala-eleva-lucro-e-mira-um-2026-mais-forte",
+     "publicado_em": "2026-11-03",
+     "resumo": "A Marriott registrou lucro líquido de US$ 794 milhões, alta anual de 9%, e EBITDA ajustado de US$ 1,512 bilhão. A receita de taxas de franquia e gestão subiu 13%, para US$ 1,341 bilhão, com RevPAR maior, sobretudo nos Estados Unidos e Canadá.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "HFN reúne hotelaria e fornecedores em Olinda com expectativa de 32 mil visitantes",
+     "fonte": "Hotelier News",
+     "url": "https://hoteliernews.com.br/hfn-comeca-amanha-4-e-conecta-hotelaria-a-fornecedores-em-olinda",
+     "publicado_em": "2026-11-03",
+     "resumo": "A HFN começa em 4 de novembro, simultaneamente à Super Mix, com expectativa de mais de 1,5 mil marcas e 32 mil visitantes. O evento conecta hotelaria, food service, indústria, distribuição e varejo.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Discussão sobre fim da escala 6x1 avança e deve exigir ajustes operacionais",
+     "fonte": "Poder360",
+     "url": "https://www.poder360.com.br/poder-governo/lula-emplaca-vitoria-tripla-no-congresso-6-x-1-seguranca-e-mei",
+     "publicado_em": "2026-11-04",
+     "resumo": "A agenda do governo no Congresso inclui o fim da escala 6x1, a PEC da Segurança Pública e o aumento do teto de faturamento do MEI. A mudança trabalhista aparece como uma das pautas com avanço político no período.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Alíquota de referência de 11,3% da CBS provoca audiência no Senado",
+     "fonte": "InfoMoney",
+     "url": "https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113",
+     "publicado_em": "2026-11-03",
+     "resumo": "O relator da CBS no Senado afirmou que a alíquota de referência de 11,3% surpreendeu os envolvidos. A Comissão de Assuntos Econômicos aprovou audiência pública com TCU, Receita Federal e contribuintes antes da votação.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "PF monitora e investiga incêndios florestais em regiões do Pará",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/para/policia-federal-monitora-e-investiga-incendios-florestais-em-regioes-do-para-1.1190208",
+     "publicado_em": "2026-11-04",
+     "resumo": "A Polícia Federal mantém pontos focais em Santarém, Altamira, Redenção e Marabá para monitorar e investigar queimadas ilegais no Pará.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Cup of Excellence Brazil 2026 premia 27 cafés especiais",
+     "fonte": "Revista Cafeicultura",
+     "url": "https://revistacafeicultura.com.br/brasil-revela-ao-mundo-seus-melhores-cafes-especiais-da-safra-2026",
+     "publicado_em": "2026-11-03",
+     "resumo": "O concurso nacional premiou 27 cafés arábica da safra 2026; oito amostras superaram 90 pontos. O campeão da categoria Experimental, um lote Geisha da Ipanema Agrícola, marcou 92,25 pontos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Turismo mundial pode atingir recorde de 1,57 bilhão de chegadas internacionais em 2026",
+     "fonte": "PANROTAS/WTM London",
+     "url": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/11/turismo-deve-registrar-recorde-de-157-bilhao-de-chegadas-internacionais-em-2026_233351.html",
+     "publicado_em": "2026-11-03",
+     "resumo": "Relatório apresentado na WTM London projeta 1,57 bilhão de chegadas internacionais em 2026 e aponta cinco tendências para os próximos anos, incluindo a busca por experiências de natureza e desconexão.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Pernoites em alojamentos turísticos da UE crescem 4,1% em 2025",
+     "fonte": "Hosteltur/Eurostat",
+     "url": "https://www.hosteltur.com/179659_las-pernoctaciones-en-alojamientos-turisticos-de-la-ue-crecieron-un-41-en-2025.html",
+     "publicado_em": "2026-11-04",
+     "resumo": "A União Europeia registrou 3,144 bilhões de pernoites em 2025, alta de 4,1%. Aluguéis de temporada cresceram 9,2%, campings 5,8% e hotéis 1,7%; hotéis ainda responderam por 61,4% das estadas.",
+     "tipo": "estudo",
+     "idioma_original": "es"
+    },
+    {
+     "titulo": "Pesquisa mostra que segurança e golpes pesam na decisão de mulheres que viajam sozinhas",
+     "fonte": "PANROTAS/Mozio e Ministério do Turismo/Unesco",
+     "url": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/11/mulheres-temem-inseguranca-e-golpes-ao-realizar-viagens-sozinhas-veja-pesquisa_233348.html",
+     "publicado_em": "2026-11-03",
+     "resumo": "44% das mulheres entrevistadas temem golpes e 34% se preocupam com a própria segurança; 37% já escolheram voos diurnos para evitar chegada à noite. No Brasil, 62% das 2.712 entrevistadas já desistiram de viajar sozinhas por segurança.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 24
+}

@@ -1,0 +1,205 @@
+{
+ "id": "2026-10-29",
+ "data": "2026-10-29",
+ "semanal": false,
+ "numero": 7,
+ "manchete": "Aviação recalibra capacidade enquanto IA e demanda internacional redesenham a distribuição turística",
+ "resumo_executivo": [
+  "A Latam pretende ajustar mais de 2,4 mil voos no segundo trimestre de 2027, enquanto a Air France amplia frequências no Brasil; a combinação exige acompanhamento de malha, conexões e tarifas.",
+  "O turismo internacional trouxe US$ 8,3 bilhões ao Brasil entre janeiro e setembro, alta de 9,1% sobre 2025, reforçando a oportunidade para receptivo, hotelaria e serviços turísticos.",
+  "IA avança da inspiração para a distribuição e a operação: CNT e Volaris anunciaram produtos voltados a agentes, inventário aéreo e canal B2B.",
+  "A CBS terá alíquota de referência de 11,3% e começa a ser cobrada em teste em 2027; empresas de serviços devem acompanhar o impacto da transição tributária.",
+  "Há riscos operacionais imediatos em viagens: acidente ferroviário interrompe corredor Madrid-Andaluzia, chuvas atingem o Paraná e o trapiche de Icoaraci voltou a prejudicar o embarque em Belém."
+ ],
+ "alertas": [
+  {
+   "titulo": "Colisão ferroviária interrompe corredor Madrid-Andaluzia",
+   "fonte": "Panrotas",
+   "url": "https://www.panrotas.com.br/mercado/destinos/2026/10/acidente-com-trens-na-espanha-deixa-ao-menos-68-mortos-e-58-feridos_233226.html",
+   "publicado_em": "2026-10-28",
+   "categoria": "outro",
+   "local": "Toledo, no corredor ferroviário de alta velocidade entre Madri e a Andaluzia, Espanha",
+   "periodo": "A partir de 28/10, até a normalização da operação",
+   "resumo": "A colisão de dois trens deixou ao menos 68 mortos e 58 hospitalizados; o corredor de alta velocidade foi interrompido.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Alerta amarelo de chuvas intensas no Paraná",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/28/previsao-tempo-parana-chuva.ghtml",
+   "publicado_em": "2026-10-28",
+   "categoria": "clima",
+   "local": "399 municípios do Paraná",
+   "periodo": "00h de 29/10 a 23h59 de 30/10",
+   "resumo": "O Inmet emitiu alerta amarelo de perigo potencial por chuvas intensas em todo o Paraná.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Trapiche de Icoaraci volta a apresentar problemas",
+   "fonte": "G1 Pará",
+   "url": "https://g1.globo.com/pa/para/noticia/2026/10/28/apos-reparos-trapiche-de-icoaraci-volta-a-apresentar-problemas-e-prejudica-trabalhadores-em-belem.ghtml",
+   "publicado_em": "2026-10-28",
+   "categoria": "outro",
+   "local": "Trapiche de Icoaraci, Belém (PA)",
+   "periodo": "Em vigor em 28/10, sem previsão informada de normalização",
+   "resumo": "O flutuante voltou a ficar submerso e prejudica embarque e desembarque de passageiros e mercadorias.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Senacon monitora mercado de seguro viagem",
+   "fonte": "Panrotas",
+   "url": "https://www.panrotas.com.br/mercado/cartoes-de-assistencia/2026/10/monitoramento-da-senacon-preocupa-intermediarias-do-setor-de-seguro-viagem_233250.html",
+   "publicado_em": "2026-10-28",
+   "categoria": "regulacao",
+   "local": "Brasil",
+   "periodo": "Monitoramento em andamento, sem prazo informado",
+   "resumo": "A Senacon informou que acompanha o mercado de seguro viagem; intermediárias aguardam eventual definição de novas exigências.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Latam deve ajustar 2,4 mil voos previstos para o segundo trimestre de 2027",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/10/latam-deve-ajustar-24-mil-voos-previstos-para-o-segundo-trimestre-de-2027-segundo-valor_233247.html",
+     "publicado_em": "2026-10-28",
+     "resumo": "A Latam pretende ajustar mais de 2,4 mil voos no segundo trimestre de 2027, cerca de 5% da programação. As mudanças se concentram principalmente em Brasília e Guarulhos e ocorrem em meio à alta do combustível de aviação.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Air France ampliará frequências no Brasil durante o inverno europeu 2026-2027",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/10/air-france-ampliara-frequencias-no-brasil-durante-inverno-europeu-2026-2027_233212.html",
+     "publicado_em": "2026-10-28",
+     "resumo": "A Air France aumentará frequências em Salvador, Fortaleza e Rio de Janeiro entre novembro de 2026 e abril de 2027. A companhia projeta alta de 3% na capacidade da América do Sul ante o inverno anterior.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Turismo internacional gera receita recorde de US$ 8,3 bilhões no Brasil",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/10/turismo-internacional-gera-receita-recorde-de-us-83-bilhoes-no-brasil_233235.html",
+     "publicado_em": "2026-10-28",
+     "resumo": "Visitantes estrangeiros geraram US$ 8,3 bilhões no Brasil entre janeiro e setembro de 2026, alta de 9,1% sobre o mesmo período de 2025. Só setembro respondeu por US$ 904,7 milhões.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Booking.com inicia pagamento parcelado nas vendas para hospedagens no Brasil",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/hotelaria/tecnologia/2026/10/bookingcom-inicia-pagamento-parcelado-nas-vendas-para-hospedagens-no-brasil_233242.html",
+     "publicado_em": "2026-10-28",
+     "resumo": "A Booking.com passou a permitir que viajantes dividam reservas nacionais em até seis parcelas sem juros em cartões elegíveis. Os parceiros de acomodação continuam recebendo o valor integral.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Com nova IA para agências, CNT almeja ser top 3 na consolidação do turismo",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/10/com-nova-ia-para-agencias-cnt-almeja-ser-top-3-na-consolidacao-entenda-a-estrategia_233243.html",
+     "publicado_em": "2026-10-28",
+     "resumo": "A CNT apresentou a Novvia, operação de inteligência artificial para agências, com objetivo declarado de ficar entre as três maiores consolidadoras. A estratégia busca reduzir a comoditização e reforçar a especialidade do agente.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "YA VAS, agência da Volaris, lançará plataforma de distribuição para agências de viagens",
+     "fonte": "Inversión Turística",
+     "url": "https://inversion-turistica.com/2026/10/28/volaris-lanzara-plataforma-de-distribucion-dirigida-a-agencias-de-viajes-minoristas/",
+     "publicado_em": "2026-10-28",
+     "resumo": "A YA VAS, agência da Volaris, incorporará em 2027 uma plataforma de distribuição para agências minoristas, combinando atendimento direto ao consumidor e canal B2B.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "TCU aprova alíquota de referência da CBS em 11,3%",
+     "fonte": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tcu-aprova-calculo-da-aliquota-de-referencia-da-cbs-em-113",
+     "publicado_em": "2026-10-28",
+     "resumo": "O TCU aprovou alíquota de referência da CBS de 11,3468%, arredondada para 11,3%, e redutor de 44,16% para compras da administração pública direta, autarquias e fundações. A cobrança de teste começa em 2027, substituindo gradualmente PIS/Pasep e Cofins.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Senacon monitora mercado de seguro viagem e preocupa empresas intermediárias",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/cartoes-de-assistencia/2026/10/monitoramento-da-senacon-preocupa-intermediarias-do-setor-de-seguro-viagem_233250.html",
+     "publicado_em": "2026-10-28",
+     "resumo": "A Senacon esclareceu que acompanha o mercado de seguro viagem, enquanto intermediárias aguardam eventual definição de novas exigências para comercialização de apólices.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Fiepa destaca inovação para a Amazônia em conferência em Portugal",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/fiepa-destaca-inovacao-para-a-amazonia-em-conferencia-em-portugal-1.1188056",
+     "publicado_em": "2026-10-28",
+     "resumo": "A Fiepa apresentou em Portugal uma posição sobre inovação para a Amazônia durante a 6ª Conferência Internacional InSuRe.hub, no Porto.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café arábica cai mais de 2% em Nova York com oferta e câmbio no radar",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/430493-com-expectativa-de-maior-oferta-e-cambio-no-radar-cafe-arabica-cai-mais-de-2-em-ny-nesta-quarta-feira.html",
+     "publicado_em": "2026-10-28",
+     "resumo": "O arábica caiu mais de 2% na ICE Futures US; o grão acumula desvalorização de 6,73% desde a sexta-feira (23/10). Operadores acompanham oferta, câmbio, estoques certificados e clima nas origens.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Indicação de conhecidos define a escolha do seguro viagem para 48% dos consumidores",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/cartoes-de-assistencia/2026/10/indicacao-influencia-escolha-do-seguro-viagem-para-48-dos-consumidores_233231.html",
+     "publicado_em": "2026-10-28",
+     "resumo": "Levantamento da Real Seguro Viagem aponta que 48% dos consumidores escolhem o seguro por indicação de conhecidos. O estudo também identificou diferenças na recompra conforme o uso da cobertura contratada.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Ranking da TEA: Disney ocupa 8 das 10 posições entre os parques mais visitados do mundo",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/disney-tem-8-dos-10-parques-tematicos-mais-visitados-do-mundo-veja-ranking_233216.html",
+     "publicado_em": "2026-10-28",
+     "resumo": "O TEA Global Experience Index registrou 245,4 milhões de visitas nos 25 parques mais visitados em 2025, queda de 0,2% ante 2024; a Disney ocupou oito das dez primeiras posições.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 36
+}

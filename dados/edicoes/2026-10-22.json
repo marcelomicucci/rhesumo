@@ -1,0 +1,125 @@
+{
+ "id": "2026-10-22",
+ "data": "2026-10-22",
+ "semanal": false,
+ "numero": 2,
+ "manchete": "Aviação e distribuição entram em disputa por previsibilidade, enquanto IA, café e infraestrutura amazônica abrem frentes para o Rhes",
+ "resumo_executivo": [
+  "A Abracorp mantém a pressão sobre a Gol após o recuo da promoção exclusiva no canal direto; a paridade tarifária segue como risco comercial para TMCs e agências.",
+  "American Airlines concluiu aporte de US$ 100 milhões na Azul, e a Ancoradouro amplia a distribuição de hotéis e serviços terrestres em OBTs, elevando a importância de alianças e integração de conteúdo.",
+  "Três oportunidades do PNCP conectam agenciamento fluvial no Amazonas e buffet em Santarém a frentes comerciais do Grupo Rhes; prazos só são indicados quando constam na coleta."
+ ],
+ "alertas": [],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Abracorp questiona autonomia da Gol no Brasil após recuo em política tarifária",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/aviacao/2026/10/abracorp-questiona-autonomia-da-gol-no-brasil-apos-recuo-em-politica-tarifaria_233084.html",
+     "publicado_em": "2026-10-21",
+     "resumo": "Após retirar o desconto de 20% exclusivo para vendas diretas, a Gol retomou a paridade entre canais. A Abracorp afirma que o recuo não elimina o desgaste nem a preocupação com previsibilidade e autonomia das decisões comerciais no Brasil."
+    },
+    {
+     "titulo": "American conclui investimento de US$ 100 milhões na Azul e passa a deter 8%",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/parcerias/2026/10/american-conclui-investimento-na-azul-e-john-rodgerson-deixa-conselho-da-aerea-americana_233082.html",
+     "publicado_em": "2026-10-21",
+     "resumo": "A American Airlines concluiu o aporte e passou a deter aproximadamente 8% da Azul. John Rodgerson deixou o Conselho e o Comitê Estratégico, mas continua como CEO; a operação ocorre após aprovação do Cade."
+    },
+    {
+     "titulo": "Brazil Travel Market 2026 começa em Fortaleza com dois dias de programação",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/feiras/2026/10/brazil-travel-market-2026-comeca-nesta-quinta-feira-22-em-fortaleza-saiba-tudo_233035.html",
+     "publicado_em": "2026-10-22",
+     "resumo": "O BTM 2026 começa em 22 de outubro no Centro de Eventos do Ceará e reúne profissionais de Turismo por dois dias. A edição celebra 15 anos e é apresentada como a maior feira do Nordeste."
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Ancoradouro amplia integração do Online com OBTs para viagens corporativas",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/gestao-de-viagens/2026/10/ancoradouro-amplia-integracao-do-online-com-obts-para-viagens-corporativas_233080.html",
+     "publicado_em": "2026-10-21",
+     "resumo": "A Ancoradouro amplia a distribuição de hotéis e outros serviços terrestres por meio de OBTs. O movimento busca facilitar o acesso de empresas e TMCs a reservas fora do transporte aéreo."
+    },
+    {
+     "titulo": "Copastur desenvolve agente de IA para antecipar problemas na gestão de viagens",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/10/copastur-desenvolve-agente-de-ia-para-antecipar-problemas-na-gestao-de-viagens_233077.html",
+     "publicado_em": "2026-10-21",
+     "resumo": "A Copastur criou um agente de inteligência artificial para dar previsibilidade e antecipar problemas na gestão de viagens corporativas. O projeto vencedor de um hackathon interno deve ser implementado em 90 dias."
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Governadores recém-eleitos acendem alerta em concessões",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/empresas/noticia/2026/10/22/governadores-recem-eleitos-acendem-alerta-em-concessoes.ghtml",
+     "publicado_em": "2026-10-21",
+     "resumo": "Governadores recém-eleitos sinalizam revisão de contratos de concessão. A reportagem cita suspensão de reajuste em Minas Gerais e ameaça de rompimento de contrato de saneamento no Pará."
+    },
+    {
+     "titulo": "Energia mais barata deve frear prévia da inflação em outubro",
+     "fonte": "InfoMoney",
+     "url": "https://www.infomoney.com.br/economia/projecao-ipca-15-outubro-previa-inflacao/",
+     "publicado_em": "2026-10-22",
+     "resumo": "Projeções apontam perda de força do IPCA-15 de outubro com a bandeira verde na tarifa de energia. Alimentos e transportes ainda aparecem como fontes de pressão."
+    },
+    {
+     "titulo": "Desconfiança dificulta adoção da IA, diz CEO do GPTW",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/carreira/noticia/2026/10/22/desconfianca-dificulta-adocao-da-ia-diz-ceo-do-gptw.ghtml",
+     "publicado_em": "2026-10-21",
+     "resumo": "Michael Bush, do Great Place to Work, afirma que a desconfiança dos trabalhadores é um obstáculo à adoção da IA. Para avançar, empresas precisam explicitar benefícios e reconhecer riscos."
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Data center em Belém expõe desafios da infraestrutura digital no Norte",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/belem/data-center-em-belem-expoe-desafios-da-infraestrutura-digital-no-norte-1.1185374",
+     "publicado_em": "2026-10-22",
+     "resumo": "A reportagem apresenta o projeto BEL1 em Belém em um contexto de expansão da economia digital, mas com 17% dos domicílios do Norte sem internet e baixa presença regional de fibra."
+    },
+    {
+     "titulo": "Redução no desmate diminui emissão de gases-estufa em 6%",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/brasil/noticia/2026/10/22/reducao-no-desmate-diminui-emissao-de-gases-estufa-em-6.ghtml",
+     "publicado_em": "2026-10-21",
+     "resumo": "Dados do SEEG indicam queda de 6,1% nas emissões brasileiras em 2025, com a maior parte do resultado associada a florestas protegidas e vegetação secundária."
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café recua mais de 2% em Nova York e Londres com oferta no radar",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/430093-cafe-despenca-mais-de-2-em-nova-york-e-londres-nesta-quinta-feira-com-oferta-no-radar.html",
+     "publicado_em": "2026-10-22",
+     "resumo": "Os principais contratos de arábica e robusta recuaram mais de 2%, diante do aumento dos estoques certificados e de perspectivas melhores de abastecimento."
+    },
+    {
+     "titulo": "Keeta é processada por listar restaurantes sem autorização",
+     "fonte": "InfoMoney",
+     "url": "https://www.infomoney.com.br/business/keeta-da-chinesa-meituan-e-processada-por-listar-restaurantes-sem-autorizacao/",
+     "publicado_em": "2026-10-21",
+     "resumo": "A Associação Nacional de Restaurantes processou a Keeta, da Meituan, alegando listagem de estabelecimentos sem autorização e pedindo a suspensão de compras intermediadas."
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 7
+}

@@ -1,0 +1,240 @@
+{
+ "id": "2026-10-23",
+ "data": "2026-10-23",
+ "semanal": false,
+ "numero": 3,
+ "manchete": "Aviação enfrenta pressão de custos enquanto a conectividade regional e a operação amazônica exigem planejamento",
+ "resumo_executivo": [
+  "O abastecimento de querosene segue tensionado na Europa, sem escassez física, e a alta do combustível já pesa nas perspectivas financeiras de companhias aéreas.",
+  "A Iberia ampliará frequências de Recife e Fortaleza; a Air Peace programou uma ligação semanal Lagos–Guarulhos a partir de dezembro, ainda sujeita a confirmação.",
+  "A vazante continua restringindo a navegação no Norte; a Antaq projeta recuperação a partir da quarta semana de novembro, enquanto o Pará mobiliza R$ 300 milhões contra estiagem e queimadas.",
+  "O IPCA-15 desacelerou para 0,32% em outubro, mas alimentação subiu 0,88%; café, câmbio e custos operacionais continuam relevantes para foodservice e viagens.",
+  "Para eventos e viagens corporativas, ganham peso a adaptação à escala 5x2, a acessibilidade neurodivergente e a segurança de sistemas após falhas críticas no PHP."
+ ],
+ "alertas": [
+  {
+   "titulo": "Museus de Paris fecham no sábado por temor de novos confrontos",
+   "fonte": "InfoMoney (Estadão Conteúdo)",
+   "url": "https://www.infomoney.com.br/mundo/louvre-e-outros-museus-de-paris-fecham-no-sabado-por-temor-de-novos-confrontos/",
+   "publicado_em": "2026-10-23",
+   "categoria": "conflito",
+   "local": "Paris, França",
+   "periodo": "24/10/2026",
+   "resumo": "O Louvre e outras instituições culturais fecharão no sábado por receio de novos episódios de violência durante protestos previstos na capital francesa.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Abastecimento de querosene segue tensionado na Europa, sem escassez física",
+   "fonte": "Hosteltur",
+   "url": "https://www.hosteltur.com/179439_el-suministro-de-queroseno-registra-tensiones-pero-de-momento-no-escasez-segun-bruselas.html",
+   "publicado_em": "2026-10-23",
+   "categoria": "sistemas",
+   "local": "Europa, com reflexos operacionais em Frankfurt, Zurique e Genebra",
+   "periodo": "A partir de 21/10/2026; sem data final informada",
+   "resumo": "A Comissão Europeia confirmou tensão logística no fornecimento de querosene e mantém diálogo com refinarias; companhias já adotaram medidas preventivas de abastecimento.",
+   "severo": false,
+   "idioma_original": "es"
+  },
+  {
+   "titulo": "Vazante restringe navegação no Norte até a recuperação prevista para novembro",
+   "fonte": "O Liberal",
+   "url": "https://www.oliberal.com/economia/antaq-estima-recuperacao-de-navegabilidade-na-regiao-norte-a-partir-de-novembro-1.1185435",
+   "publicado_em": "2026-10-22",
+   "categoria": "clima",
+   "local": "Região Norte, especialmente Rio Negro, Manaus e trecho Manaus–Itacoatiara",
+   "periodo": "Até a quarta semana de novembro de 2026, no cenário mediano",
+   "resumo": "O Rio Negro segue em vazante e já impõe restrições; a Antaq prevê normalização gradual a partir do fim de novembro.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Estiagem e queimadas mobilizam medidas emergenciais no Pará",
+   "fonte": "O Liberal",
+   "url": "https://www.oliberal.com/economia/estiagem-e-queimadas-no-para-governo-federal-anuncia-medidas-emergenciais-1.1185468",
+   "publicado_em": "2026-10-22",
+   "categoria": "clima",
+   "local": "Santarém e oeste do Pará",
+   "periodo": "Sem data final informada; situação em curso",
+   "resumo": "A MP 1.398/2026 abriu crédito de R$ 300 milhões para ações de Defesa Civil, água, alimentos e combate a incêndios florestais.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Lei Seca será aplicada em nove estados no segundo turno",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/23/lei-seca-vale-em-9-estados-no-segundo-turno-das-eleicoes-2026-veja-onde.ghtml",
+   "publicado_em": "2026-10-23",
+   "categoria": "regulacao",
+   "local": "Nove estados brasileiros, conforme regras estaduais",
+   "periodo": "25/10/2026",
+   "resumo": "Restrições à venda e ao consumo de bebidas alcoólicas foram definidas para o domingo do segundo turno em nove estados.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Nordeste supera expectativas da Iberia e amplia potencial no mercado europeu",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/10/nordeste-supera-expectativas-da-iberia-e-amplia-potencial-no-mercado-europeu_233120.html",
+     "publicado_em": "2026-10-22",
+     "resumo": "A Iberia operará até 11 frequências semanais entre Recife e Madri e dez entre Fortaleza e Madri no verão de dezembro de 2026 a fevereiro de 2027. A empresa afirma que o desempenho das rotas superou as expectativas e alcança destinos além das cidades atendidas diretamente.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Air Peace programa voo semanal entre Lagos e Guarulhos a partir de dezembro",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/10/air-peace-da-nigeria-programa-voos-entre-lagos-e-sao-paulo-a-partir-de-dezembro_233098.html",
+     "publicado_em": "2026-10-22",
+     "resumo": "A companhia nigeriana cadastrou no Siros uma frequência semanal entre Lagos e São Paulo a partir de 15 de dezembro, com Boeing 777-200 e previsão de operação até março de 2027. Datas e horários ainda podem mudar.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "American Airlines prevê prejuízo em 2026 e mira lucro em 2027",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/10/22/american-airlines-expects-a-2026-loss-how-it-plans-to-turn-a-profit-in-2027/",
+     "publicado_em": "2026-10-22",
+     "resumo": "O CEO Robert Isom disse que a empresa espera voltar ao lucro em 2027, embora os gastos com combustível tenham crescido US$ 7 bilhões no ano. A companhia projeta pagar até US$ 4,70 por galão no quarto trimestre e aposta em investimentos para atrair passageiros premium.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    },
+    {
+     "titulo": "Novo aeroporto 24 horas de Western Sydney começa a operar em 25 de outubro",
+     "fonte": "Simple Flying",
+     "url": "https://simpleflying.com/sydney-new-24-hour-airport-region-impact/",
+     "publicado_em": "2026-10-23",
+     "resumo": "O aeroporto internacional de Western Sydney iniciará voos de passageiros sem toque de recolher, como alternativa ao Kingsford Smith, que atende cerca de 42,5 milhões de passageiros e se aproxima da capacidade. A capacidade inicial será de 10 milhões de passageiros por ano.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Falhas críticas no PHP levam tribunais e Anatel a suspender sistemas",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/falhas-no-php-levam-tribunais-no-brasil-e-anatel-a-suspender-sistemas-governo-emite-alerta.ghtml",
+     "publicado_em": "2026-10-22",
+     "resumo": "Vulnerabilidades no PHP podem permitir controle de servidores sem login ou senha. Órgãos públicos suspenderam preventivamente sistemas e receberam orientação para atualizar a linguagem, cuja correção já está disponível.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Alagev identifica neurociência, neurodivergência e bem-estar como tendências do MICE para 2027",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/mice/2026/10/neurociencia-e-bem-estar-alagev-identifica-tendencias-para-o-mice-em-2027-na-imex-america_233111.html",
+     "publicado_em": "2026-10-23",
+     "resumo": "Após a Imex America 2026, com mais de 17,8 mil participantes e 96 mil reuniões de negócios, a Alagev apontou práticas de neurociência, adaptações para neurodivergência e integração de saúde e bem-estar à programação.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "IPCA-15 sobe 0,32% em outubro e acumula 4,62% em 12 meses",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/23/ipca-15-previa-da-inflacao-outubro.ghtml",
+     "publicado_em": "2026-10-23",
+     "resumo": "A prévia da inflação desacelerou de 0,70% em setembro para 0,32% em outubro, acumulando 4,15% no ano e 4,62% em 12 meses. Alimentação e Bebidas avançou 0,88% e oito dos nove grupos tiveram alta.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "FecomercioRJ orienta empresas sobre adaptação à escala 5x2",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/10/fecomerciorj-orienta-empresarios-sobre-adaptacao-a-escala-5x2_233109.html",
+     "publicado_em": "2026-10-23",
+     "resumo": "A entidade orientou empresários sobre impactos e preparação para a escala 5x2, com efeitos em jornadas, custos e organização do trabalho.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Antaq prevê recuperação da navegabilidade no Norte a partir do fim de novembro",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/antaq-estima-recuperacao-de-navegabilidade-na-regiao-norte-a-partir-de-novembro-1.1185435",
+     "publicado_em": "2026-10-22",
+     "resumo": "A queda do nível dos rios diminuiu de 13 cm para 7 cm ao dia, mas o Rio Negro ainda está em vazante e há restrições à navegação. No cenário mediano, a normalização começa na quarta semana de novembro.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Estiagem e queimadas no Pará recebem pacote emergencial de R$ 300 milhões",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/estiagem-e-queimadas-no-para-governo-federal-anuncia-medidas-emergenciais-1.1185468",
+     "publicado_em": "2026-10-22",
+     "resumo": "A MP 1.398/2026 abriu crédito de R$ 300 milhões para ações de Defesa Civil e apoio a municípios, comunidades indígenas e populações tradicionais afetadas pela estiagem e pelos incêndios.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Pacote para MEIs pode alcançar 235 mil empreendedores no Pará",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/pacote-para-meis-pode-beneficiar-235-mil-no-para-veja-mudancas-1.1185539",
+     "publicado_em": "2026-10-22",
+     "resumo": "A Lei Complementar 238/2026 prevê remissão de débitos, teto do MEI de R$ 110 mil em 2027 e R$ 140 mil em 2028, até dois empregados e maior acesso a compras públicas. O Sebrae estima que 45% dos MEIs paraenses já atrasaram ao menos uma guia.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café recua 2,94% em Nova York, mas dólar limita alívio no Brasil",
+     "fonte": "Portal do Agronegócio",
+     "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-cai-2-94-em-nova-york-e-dolar-em-alta-limita-pressao-sobre-precos-no-brasil",
+     "publicado_em": "2026-10-22",
+     "resumo": "O contrato de arábica para dezembro caiu 2,94%, para 306,85 centavos de dólar por libra-peso, enquanto o dólar subiu 0,46%, a R$ 5,0490. A combinação deixa produtores cautelosos e pode restringir negócios físicos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Calor recorde, majoritariamente ligado à mudança climática, matou 50.391 pessoas na Europa",
+     "fonte": "Associated Press",
+     "url": "https://apnews.com/article/killer-heat-climate-change-europe-deaths-d57dac06335203107caba8ae6ef67185",
+     "publicado_em": "2026-10-22",
+     "resumo": "Estudo a ser publicado na Nature Health estima 50.391 mortes atribuíveis ao calor em 854 cidades europeias entre junho e agosto de 2026; 32.619 seriam ligadas ao calor adicional de combustíveis fósseis. O total foi 71% maior que o recorde anterior, de 2022.",
+     "tipo": "estudo",
+     "idioma_original": "en"
+    },
+    {
+     "titulo": "Hotéis espanhóis aumentam faturamento 7,4% com pernoites quase estáveis",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/179443_la-facturacion-de-los-hoteles-avanza-un-74-pese-al-moderado-aumento-de-las-pernoctaciones.html",
+     "publicado_em": "2026-10-23",
+     "resumo": "Dados do INE apontam 40,1 milhões de pernoites em setembro, alta de 1,7%, enquanto as tarifas subiram 7,4% e o índice de preços hoteleiros avançou 6,7%. Pernoites de estrangeiros cresceram 3,2% e as de residentes caíram 1,9%.",
+     "tipo": "estudo",
+     "idioma_original": "es"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 32
+}

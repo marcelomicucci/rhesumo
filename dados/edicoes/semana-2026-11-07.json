@@ -1,0 +1,210 @@
+{
+ "id": "semana-2026-11-07",
+ "data": "2026-11-07",
+ "semanal": true,
+ "numero": 14,
+ "manchete": "IA entra na jornada de viagens, a conectividade regional avança e custos, regras e riscos operacionais pressionam decisões",
+ "resumo_executivo": [
+  "A conectividade aérea combinou novas rotas entre o Norte e o Sudeste e entre Rio de Janeiro e Lima com a retomada das vendas para Cabo Frio e a reabertura do aeroporto de Chapecó após o tornado.",
+  "A inteligência artificial avançou da pesquisa à distribuição e à reserva de viagens, com iniciativas da Copastur, ClickBus e Airbnb.",
+  "Custos e capacidade seguem no centro da operação: a Air France-KLM reduziu a previsão de crescimento e empresas pagam mais quando compram passagens em cima da hora.",
+  "O debate sobre o calendário da reforma tributária mantém incerteza para preços, contratos e margens das operações de turismo, eventos e alimentação.",
+  "Patrimônio cultural amazônico, a permanência da Fórmula 1 em São Paulo e uma licitação de agenciamento na Paraíba ampliam oportunidades para turismo, eventos e viagens corporativas."
+ ],
+ "alertas": [
+  {
+   "titulo": "Aeroporto de Chapecó é reaberto após tornado, mas a malha ainda está em ajuste",
+   "fonte": "Panrotas",
+   "url": "https://www.panrotas.com.br/aviacao/aeroportos/2026/11/aeroporto-de-chapeco-sc-e-reaberto-e-retomada-dos-voos-sera-nos-proximos-dias_233461.html",
+   "publicado_em": "2026-11-07",
+   "categoria": "aeroporto",
+   "local": "Aeroporto de Chapecó (SC)",
+   "periodo": "07/11/2026 e dias seguintes",
+   "resumo": "O terminal foi reaberto após a recuperação da infraestrutura atingida por um tornado em 4 de novembro. As companhias aéreas ainda ajustam a malha para atender passageiros afetados, e a retomada dos voos ocorre nos próximos dias.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Corazul cancela embarques do Buenavista até 10 de novembro",
+   "fonte": "Panrotas",
+   "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/corazul-suspende-2-saidas-do-buenavista-para-ajustes-no-navio-antes-da-alta-temporada_233455.html",
+   "publicado_em": "2026-11-06",
+   "categoria": "outro",
+   "local": "Santos (SP) e Rio de Janeiro (RJ)",
+   "periodo": "06–10/11/2026; retomada prevista para 13/11/2026",
+   "resumo": "Questões técnicas e operacionais levaram à suspensão de duas saídas do navio Buenavista. Foram cancelados embarques previstos para 6 e 9 de novembro em Santos e 7 e 10 de novembro no Rio de Janeiro; a companhia oferece reembolso integral aos afetados.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Iberia amplia voos entre Madrid e Andaluzia durante a redução dos serviços ferroviários",
+   "fonte": "Hosteltur",
+   "url": "https://www.hosteltur.com/179797_50000-asientos-mas-de-iberia-para-compensar-la-menor-oferta-de-alta-velocidad-madrid-andalucia.html",
+   "publicado_em": "2026-11-06",
+   "categoria": "outro",
+   "local": "Madrid e Andaluzia, Espanha",
+   "periodo": "09–30/11/2026",
+   "resumo": "A Iberia acrescentará 50.000 assentos em novembro, incluindo 39.164 lugares em 208 voos extraordinários entre 9 e 30 de novembro, para compensar a redução dos serviços ferroviários de alta velocidade após o acidente de Urda. A companhia manterá preço máximo de 99 euros por trecho em classe econômica até 30 de novembro.",
+   "severo": false,
+   "idioma_original": "es"
+  },
+  {
+   "titulo": "Greve ferroviária de 17 de novembro é ampliada a Iryo e Ouigo na Espanha",
+   "fonte": "Hosteltur",
+   "url": "https://www.hosteltur.com/179760_ccoo-suma-a-iryo-y-ouigo-a-la-huelga-ferroviaria-del-17-de-noviembre.html",
+   "publicado_em": "2026-11-06",
+   "categoria": "greve",
+   "local": "Rede ferroviária da Espanha, incluindo Adif, Renfe, Iryo e Ouigo",
+   "periodo": "17/11/2026, com concentração em 16/11 e reunião do comitê da Adif em 18/11",
+   "resumo": "O sindicato CCOO estendeu a Iryo e Ouigo a greve já prevista em Adif e Renfe para 17 de novembro, enquanto o sindicato de maquinistas Semaf anunciou paralisação de todo o setor na mesma data.",
+   "severo": false,
+   "idioma_original": "es"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Azul inicia rota direta entre Macapá e Confins com quatro frequências semanais",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/11/azul-inicia-rota-direta-entre-macapa-e-confins-mg-com-quatro-frequencias-semanais_233339.html",
+     "publicado_em": "2026-11-03",
+     "resumo": "A Azul começou a operar a rota Macapá–Confins aos domingos, segundas, quartas e sextas-feiras. São cerca de 35 voos mensais e mais de 6 mil assentos entre os dois sentidos, em Airbus A320.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Latam retoma vendas para Cabo Frio após acordo com a concessionária do aeroporto",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/05/latam-retoma-vendas-para-cabo-frio-apos-acordo-com-concessionaria-do-aeroporto/",
+     "publicado_em": "2026-11-05",
+     "resumo": "A Latam retomou a venda de passagens entre São Paulo/Guarulhos e Cabo Frio após concluir negociações com a concessionária e superar os entraves técnicos apontados pela companhia. A inauguração da rota permanece prevista para 3 de dezembro de 2026, com quatro frequências semanais em aeronaves Embraer E195-E2.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Sky Airline terá voos diretos entre Rio de Janeiro e Lima a partir de dezembro",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/sky-airline-tera-voos-diretos-entre-rio-de-janeiro-e-lima-a-partir-de-dezembro_233427.html",
+     "publicado_em": "2026-11-06",
+     "resumo": "A Sky Airline vai operar voos diretos entre o Galeão e Lima a partir de dezembro, com quatro frequências semanais e operação diária em janeiro e fevereiro. A companhia informa que a rota será operada durante todo o ano.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Air France-KLM lucra € 1,346 bilhão, mas freia crescimento de capacidade",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/179726_air-france-klm-logra-un-beneficio-operativo-de-1346-meur-pero-frena-su-crecimiento-y-klm-reorganiza-su-flota.html",
+     "publicado_em": "2026-11-05",
+     "resumo": "A Air France-KLM registrou lucro operacional ajustado de € 1,346 bilhão no terceiro trimestre de 2026, alta de 10%, e lucro líquido de € 938 milhões. O grupo reduziu para cerca de 2% a previsão de crescimento de capacidade para 2026, enquanto o custo do combustível subiu € 436 milhões após as coberturas.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Copastur investe R$ 130 milhões em tecnologia e lança solução de IA com MCP",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/11/copastur-investe-r-130-milhoes-em-tecnologia-e-anuncia-nova-solucao-de-ia_233338.html",
+     "publicado_em": "2026-11-03",
+     "resumo": "A Biosfera Copastur lançou o C+ Maestro, baseado no protocolo MCP, para conectar assistentes de IA a serviços de viagens, dados, mobilidade, segurança e despesas. O grupo prevê R$ 130 milhões em investimentos tecnológicos em 2026.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "ClickBus integra serviços ao Google Gemini para busca de passagens de ônibus",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/04/clickbus-integra-servicos-google-gemini-busca-passagens-onibus/",
+     "publicado_em": "2026-11-04",
+     "resumo": "A ClickBus passou a integrar o ecossistema de Apps Conectados do Google Gemini e se tornou a primeira empresa do setor rodoviário a disponibilizar suas soluções na plataforma. Usuários podem consultar rotas, horários, assentos e preços por linguagem natural; a compra termina no site da ClickBus.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Airbnb prevê lançar agente de viagens com IA no primeiro semestre de 2027",
+     "fonte": "PhocusWire",
+     "url": "https://www.phocuswire.com/news/finance/airbnb-q3-2026-earnings",
+     "publicado_em": "2026-11-05",
+     "resumo": "O Airbnb planeja começar a lançar seu agente de viagens com inteligência artificial no primeiro semestre de 2027. A interface deverá compor mapas, fotos, comparativos, calendários e itinerários em tempo real, com integrações via MCP e APIs; no terceiro trimestre, a receita cresceu 19%, para US$ 4,9 bilhões, e noites e assentos reservados subiram 16%, para 155 milhões.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Fórmula 1 renova com São Paulo e garante GP em Interlagos até 2035",
+     "fonte": "Exame",
+     "url": "https://exame.com/esporte/formula-1-renova-contrato-com-sao-paulo-e-garante-gp-em-interlagos-ate-2035/",
+     "publicado_em": "2026-11-07",
+     "resumo": "A Fórmula 1 renovou o contrato com São Paulo e o Grande Prêmio seguirá no Autódromo de Interlagos até pelo menos 2035. A renovação antecipada foi anunciada neste sábado (7); o contrato anterior, firmado em 2023, tinha validade até 2030.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "OAB e CNI pedem ao governo adiamento da reforma tributária para 2028",
+     "fonte": "Poder360",
+     "url": "https://www.poder360.com.br/poder-economia/oab-e-cni-pedem-adiamento-da-reforma-tributaria-para-2028/",
+     "publicado_em": "2026-11-05",
+     "resumo": "OAB e CNI pediram o adiamento da entrada em vigor da reforma tributária, prevista para 1º de janeiro de 2027. A OAB defende que a cobrança da CBS comece em 1º de janeiro de 2028 e cita alíquota de referência de 11,3% para a CBS em 2027, acima dos 9,21% estimados inicialmente pela Fazenda.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Teatros Amazonas e da Paz recebem título de Patrimônio Mundial da Unesco",
+     "fonte": "Brasilturis",
+     "url": "https://brasilturis.com.br/2026/11/05/teatros-amazonas-paz-patrimonio-mundial-unesco/",
+     "publicado_em": "2026-11-05",
+     "resumo": "O título de Patrimônio Mundial Cultural concedido em 27 de junho passou a contemplar o Teatro Amazonas e o Teatro da Paz sob a denominação de Teatros da Amazônia. Eles se tornam o primeiro patrimônio cultural reconhecido pela Unesco na Região Norte e o 26º do Brasil; a cerimônia de entrega ao Teatro da Paz estava prevista para 6 de novembro, em Belém.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Açúcar acumula alta de 28,8% em um ano, enquanto alimentos ficam mais baratos, aponta FAO",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/07/acucar-acumula-alta-de-quase-30percent-em-um-ano-enquanto-alimentos-ficam-mais-baratos-aponta-fao.ghtml",
+     "publicado_em": "2026-11-07",
+     "resumo": "O preço internacional do açúcar subiu 28,8% em outubro na comparação com o ano anterior, informou a FAO, enquanto os preços globais de alimentos caíram 1,2%. Chuvas no Centro-Sul do Brasil prejudicaram a colheita e a moagem da cana; o índice geral da FAO ficou 5,9% acima do registrado em 2025.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Empresas pagam R$ 1 mil a mais por passagens de última hora, aponta Paytrack",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/pesquisas-e-estatisticas/2026/11/empresas-pagam-r-1-mil-a-mais-por-passagens-de-ultima-hora-veja-outros-dados-da-paytrack_233445.html",
+     "publicado_em": "2026-11-06",
+     "resumo": "Levantamento da Paytrack aponta que empresas pagam cerca de R$ 1 mil a mais por passagens aéreas compradas em cima da hora. O custo médio das diárias de hotel em viagens a trabalho subiu 15% desde 2022 e chegou a R$ 404 no terceiro trimestre de 2026; a plataforma lançou um índice que acompanha passagens, hospedagem, alimentação e mobilidade.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 126
+}

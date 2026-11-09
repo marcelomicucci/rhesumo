@@ -1,0 +1,261 @@
+{
+ "id": "2026-11-09",
+ "data": "2026-11-09",
+ "semanal": false,
+ "numero": 15,
+ "manchete": "Greves e clima elevam a atenção operacional enquanto turismo, IA e gestão de custos avançam",
+ "resumo_executivo": [
+  "Greves em Manaus e na Espanha, além de alertas meteorológicos no Brasil, exigem monitoramento operacional dos deslocamentos.",
+  "O turismo registra demanda e expansão: o Club Med recebeu 32 mil brasileiros em resorts de neve em 2026, e a AmaWaterways cresceu 92% no mercado brasileiro.",
+  "A inteligência artificial passa a disputar a intermediação de viagens, enquanto o congresso da ICCA reúne 1.268 participantes de 80 países no Panamá.",
+  "O ambiente macro combina maior expectativa de juros nos Estados Unidos com endividamento recorde das famílias brasileiras, cenário que pode afetar câmbio, crédito e consumo.",
+  "Pesquisas apontam pressão sobre retenção de talentos e avanço da digitalização nas pequenas empresas turísticas, com números relevantes para gestão e distribuição."
+ ],
+ "alertas": [
+  {
+   "titulo": "Greve dos rodoviários de Manaus paralisa ônibus por tempo indeterminado",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/09/greve-de-onibus-em-manaus-rodoviarios-paralisam-servicos-por-tempo-indeterminado-nesta-segunda.ghtml",
+   "publicado_em": "2026-11-09",
+   "categoria": "greve",
+   "local": "Manaus (AM), transporte rodoviário urbano",
+   "periodo": "9/11/2026, por tempo indeterminado",
+   "resumo": "Os rodoviários de Manaus iniciaram greve por tempo indeterminado por causa de atrasos salariais, e o sindicato pediu a manutenção de 50% da frota. A Ufam suspendeu as atividades presenciais da manhã. A paralisação ocorre em meio ao bloqueio judicial de R$ 5 milhões do Sinetram.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Mais de 500 cidades de Minas Gerais têm alerta de tempestade com frente fria",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/09/frente-fria-derruba-temperaturas-e-traz-risco-de-tempestades-para-mais-de-500-municipios-de-mg.ghtml",
+   "publicado_em": "2026-11-09",
+   "categoria": "clima",
+   "local": "Mais de 500 municípios de Minas Gerais, incluindo seis regiões de Belo Horizonte",
+   "periodo": "9 a 11/11/2026",
+   "resumo": "Uma frente fria colocou mais de 500 municípios de Minas Gerais sob alerta para tempestades e queda acentuada de temperatura em 9 de novembro. A massa de ar frio polar pode atuar até 11 de novembro, e a Defesa Civil emitiu alerta de risco geológico forte para seis regiões de Belo Horizonte.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Defesa Civil alerta para chuvas potencialmente perigosas no Piauí em 48 horas",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/09/chuvas-atingir-piaui.ghtml",
+   "publicado_em": "2026-11-09",
+   "categoria": "clima",
+   "local": "Nove territórios do Piauí",
+   "periodo": "Próximas 48 horas a partir de 8/11/2026",
+   "resumo": "A Defesa Civil alertou sobre previsão de chuvas potencialmente perigosas em nove territórios do Piauí. As chuvas ocorrerão em pancadas e podem causar alagamentos, segundo a avaliação da quantidade prevista e do potencial de danos em cada localidade.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Terremoto de magnitude 5,3 atinge o norte do Peru",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/mundo/noticia/2026/11/09/terremoto-atinge-o-norte-do-peru.ghtml",
+   "publicado_em": "2026-11-09",
+   "categoria": "outro",
+   "local": "Lagunas, norte do Peru, próximo de Chiclayo",
+   "periodo": "9/11/2026; sem danos ou vítimas registrados até a última atualização",
+   "resumo": "Um terremoto de magnitude 5,3 atingiu o norte do Peru, com epicentro em Lagunas, a 80 quilômetros de profundidade. A região fica próxima de Chiclayo, e não havia registro de danos ou vítimas até a última atualização da reportagem.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Greve de maquinistas da Renfe terá serviços mínimos de 50% a 75% na Espanha",
+   "fonte": "Hosteltur",
+   "url": "https://www.hosteltur.com/179827_renfe-afronta-tres-jornadas-consecutivas-de-huelga-de-maquinistas-con-servicios-minimos-de-hasta-el-75.html",
+   "publicado_em": "2026-11-09",
+   "categoria": "greve",
+   "local": "Rede ferroviária da Espanha",
+   "periodo": "10 a 12/11/2026",
+   "resumo": "O Ministério dos Transportes da Espanha fixou serviços mínimos de 50% a 75% para a greve de maquinistas da Renfe em 10, 11 e 12 de novembro. Nos serviços de Cercanías, os mínimos serão de 75% nos horários de pico e 50% fora deles; em Alta Velocidade e Longa Distância, ficarão entre 72% e 73%.",
+   "severo": false,
+   "idioma_original": "es"
+  },
+  {
+   "titulo": "Greve nacional de 24 horas pode afetar voos, trens e transporte local na Espanha",
+   "fonte": "Fox News",
+   "url": "https://www.foxnews.com/travel/urgent-travel-alert-nationwide-strike-threatens-widespread-disruption-delays",
+   "publicado_em": "2026-11-07",
+   "categoria": "greve",
+   "local": "Espanha, com manifestações esperadas em grandes cidades",
+   "periodo": "11/11/2026, por 24 horas",
+   "resumo": "As centrais UGT e CCOO convocaram uma paralisação nacional de 24 horas em 11 de novembro. Trabalhadores de diferentes setores, incluindo transporte e hospitalidade, foram chamados a participar; voos, trens e transporte local podem sofrer interrupções, embora nem todos os impactos específicos tenham sido confirmados.",
+   "severo": false,
+   "idioma_original": "en"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Club Med recebeu 32 mil brasileiros em resorts de neve em 2026",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/11/club-med-recebeu-32-mil-brasileiros-em-resorts-de-neve-em-2026_233470.html",
+     "publicado_em": "2026-11-07",
+     "resumo": "O Brasil é o segundo maior mercado emissor de clientes para os resorts de neve do Club Med, atrás apenas da França, com 32 mil brasileiros recebidos em 2026. A rede prepara um novo resort no Canadá e amplia a presença do produto de esqui no mercado nacional.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "AmaWaterways cresce 92% no Brasil e amplia distribuição por operadoras",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-de-luxo/cruzeiros/2026/11/amawaterways-cresce-92-no-brasil-e-contrata-isabella-antikaci-ex-oceania_233460.html",
+     "publicado_em": "2026-11-07",
+     "resumo": "A AmaWaterways registrou crescimento de 92% no mercado brasileiro. A estratégia inclui parcerias com sete operadoras para distribuição e relacionamento direto com agências selecionadas, incluindo membros da rede Virtuoso; Isabella Antikaci foi contratada para reforçar a operação no Brasil.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Brasil lança plataforma Bandeira Azul para 75 praias e marinas premiadas",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/sustentabilidade/2026/11/brasil-tem-75-praias-e-marinas-premiadas-e-lanca-plataforma-bandeira-azul_233467.html",
+     "publicado_em": "2026-11-07",
+     "resumo": "O Brasil lançou a Plataforma Bandeira Azul, desenvolvida em parceria com a Embratur para centralizar a gestão do programa e promover destinos certificados. O país tem 75 praias e marinas premiadas; a plataforma reúne dados operacionais e o cumprimento de 34 critérios internacionais para a temporada 2026/2027.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Agentes de IA ainda precisam de intermediários, mas podem mudar o papel da Amadeus",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/08/ai-agents-still-need-middlemen-but-will-they-need-amadeus/",
+     "publicado_em": "2026-11-08",
+     "resumo": "Agentes de IA podem mudar a forma como clientes pesquisam viagens, embora ainda seja necessário encontrar voos, concluir reservas e tratar alterações. Em uma chamada de resultados do terceiro trimestre de 2026, a Amadeus foi questionada sobre a Meta usar a Duffel em seu Muse; a diretora financeira disse que a parceria reforça a visão de que plataformas de IA usarão agregadores em vez de construir sistemas de reserva.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Congresso da ICCA reúne 1.268 participantes de 80 países no Panamá",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/11/de-volta-a-america-latina-congresso-da-icca-reune-representantes-de-80-paises-no-panama_233474.html",
+     "publicado_em": "2026-11-09",
+     "resumo": "A 65ª edição do Congresso da ICCA começou em 8 de novembro e vai até 11 de novembro no Centro de Eventos do Panamá, com 1.268 participantes de 80 países. O congresso voltou à América Latina após cinco anos; a última edição regional havia sido em 2021, em Cartagena das Índias.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Endividamento recorde deve limitar vendas da Black Friday",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/08/endividamento-recorde-deve-limitar-vendas-da-black-friday.ghtml",
+     "publicado_em": "2026-11-08",
+     "resumo": "Com o endividamento das famílias em nível recorde, a Black Friday deve concentrar vendas em produtos de menor valor, enquanto bens duráveis tendem a enfrentar mais dificuldade. O IEMI projeta faturamento de R$ 296,8 bilhões no varejo restrito em novembro, queda de 2,5% ante novembro de 2025; o mês deve responder por 8,7% do faturamento do varejo em 2026, abaixo dos 9% de 2025.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Dados de emprego nos EUA elevam expectativa de nova alta de juros do Fed",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/09/cresce-expectativa-de-que-fed-voltara-a-subir-os-juros.ghtml",
+     "publicado_em": "2026-11-09",
+     "resumo": "Os Estados Unidos criaram 165 mil empregos em outubro, ante expectativa de 59 mil, e a taxa de desemprego caiu de 4,2% para 4,1%. Os dados de setembro foram revisados de 29 mil para 60 mil empregos; as apostas em alta de pelo menos 0,25 ponto percentual em dezembro subiram para cerca de 80%.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "STF mantém acordo sobre folga de mulheres aos domingos",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/legislacao/noticia/2026/11/09/stf-mantem-acordo-sobre-folga-de-mulheres-aos-domingos.ghtml",
+     "publicado_em": "2026-11-09",
+     "resumo": "O STF afastou a obrigatoriedade de folga no domingo a cada 15 dias para mulheres em um caso envolvendo o Sindicato de Hotéis, Restaurantes, Bares e Similares da Baixada Santista e Vale do Ribeira. A decisão reconheceu a validade de acordo coletivo que prevê um domingo por mês, mesma regra aplicada aos homens.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Construção civil no Pará projeta novos empregos em 2027",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/emprego/construc-o-civil-no-para-projeta-novos-empregos-em-2027-1.1190932",
+     "publicado_em": "2026-11-09",
+     "resumo": "A construção civil paraense abriu 6.430 vagas formais entre janeiro e setembro de 2026. Em cinco municípios, levantamento da Brain identificou cerca de 3,2 mil unidades lançadas e 3,2 mil vendidas até setembro, com alta de 21% nos lançamentos e de 50% nas vendas ante o mesmo período de 2025. Há 42 empreendimentos em construção, com custo do crédito, materiais e falta de mão de obra qualificada entre os desafios citados.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Proteção das florestas exigirá US$ 300 bilhões até 2030",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/09/protecao-das-florestas-exige-us-300-bilhoes-ate-2030.ghtml",
+     "publicado_em": "2026-11-09",
+     "resumo": "O Mapa do Caminho para Parar e Reverter o Desmatamento e a Degradação Florestal até 2030 será apresentado na COP31, em Antália. O documento aponta necessidade de US$ 300 bilhões em 2030; em 2023, o Pnuma mapeou US$ 84 bilhões disponíveis para ações florestais, dos quais US$ 75 bilhões eram recursos domésticos. O texto também cobra métricas internacionais e estruturas contra crimes ambientais transnacionais.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Guerras e clima pressionam custos e elevam em 14% o preço do hambúrguer nos EUA desde 2023",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/09/o-que-a-guerra-no-oriente-medio-e-as-mudancas-climaticas-tem-a-ver-com-o-preco-do-hamburguer.ghtml",
+     "publicado_em": "2026-11-09",
+     "resumo": "A alta de combustíveis, alimentos e custos de produção pressiona a cadeia do hambúrguer em meio a tensões geopolíticas e impactos climáticos sobre a produção agrícola. Nos Estados Unidos, o preço médio do hambúrguer subiu 14% desde 2023, segundo levantamento citado pela reportagem, que usa o índice Big Mac como referência informal dos preços.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Michael Page: falta de crescimento e liderança desmotivadora puxam demissões em 2027",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/09/chefe-ruim-e-falta-de-crescimento-estudo.ghtml",
+     "publicado_em": "2026-11-09",
+     "resumo": "Pesquisa da Michael Page aponta falta de crescimento como motivo para deixar o emprego para 69% dos profissionais e liderança desmotivadora para 60%. A relação com o chefe pesa para 90% na decisão de buscar outra oportunidade, mas apenas 4% das empresas priorizam a liderança para reter talentos; 57% não receberam aumento nos últimos 12 meses.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Ipsos: 44% dos brasileiros pretendem mudar de emprego em 2027",
+     "fonte": "Exame",
+     "url": "https://exame.com/carreira/44-dos-brasileiros-querem-mudar-de-emprego-em-2027-revela-pesquisa-da-ipsos/",
+     "publicado_em": "2026-11-09",
+     "resumo": "Pesquisa da Ipsos revela que 44% dos profissionais brasileiros pretendem procurar outro emprego nos próximos 12 meses, acima da média global de 38%. A reportagem também aponta insatisfação quando a empresa encontrada após a contratação é diferente daquela apresentada no processo seletivo.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "OMM: 2026 deve ficar entre os quatro anos mais quentes já registrados",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/09/2026-4-anos-mais-quentes-ja-registrados-onu.ghtml",
+     "publicado_em": "2026-11-09",
+     "resumo": "Relatório da Organização Meteorológica Mundial indica que 2026 deve ficar entre os quatro anos mais quentes já registrados. De janeiro a setembro, a temperatura média global ficou 1,47°C acima do nível pré-industrial; o El Niño ganha força desde agosto e pode se tornar o mais forte já registrado.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Estudo espanhol: agências de viagens lideram digitalização entre PMEs turísticas",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/179777_las-agencias-de-viajes-encabezan-la-digitalizacion-entre-las-pymes-turisticas.html",
+     "publicado_em": "2026-11-09",
+     "resumo": "Estudo com 2.700 empresas coloca as agências de viagens à frente da digitalização entre as PMEs turísticas da Espanha, com nível de 54,91%, seguidas pelas atividades turísticas, com 50,90%. A maturidade digital do conjunto de micro e pequenas empresas turísticas passou de 31,39% em 2022 para 47,6% em 2024 e 49,07% em 2026.",
+     "tipo": "estudo",
+     "idioma_original": "es"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 28
+}

@@ -12,11 +12,11 @@
 
 ---
 
-### Hoje no Rhesumo · 09/11/2026
+### Hoje no Rhesumo · 10/11/2026
 
-> **Greves e clima elevam a atenção operacional enquanto turismo, IA e gestão de custos avançam**
+> **Interrupções de viagem e transição trabalhista exigem atenção, enquanto IA, cruzeiros e eventos ampliam oportunidades**
 >
-> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-09)
+> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-10)
 
 ---
 
@@ -40,8 +40,8 @@ Pará, Amazônia & Sustentabilidade · Café & Foodservice · Estudos & Pesquisa
 
 ## Uma memória do turismo
 
-Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **15 edições**, **227 notícias**
-e **60 alertas de viagem**, de **64 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
+Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **16 edições**, **246 notícias**
+e **66 alertas de viagem**, de **75 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
 frase exata, período, seção, fonte, tipo (notícia, estudo, alerta) e idioma original.
 
 ## Dados abertos
@@ -56,13 +56,13 @@ Tudo está disponível em formatos simples, para ler ou reutilizar:
 
 ## Últimas edições
 
+- [10/11/2026](edicoes/2026/11/2026-11-10.md) — Interrupções de viagem e transição trabalhista exigem atenção, enquanto IA, cruzeiros e eventos ampliam oportunidades
 - [09/11/2026](edicoes/2026/11/2026-11-09.md) — Greves e clima elevam a atenção operacional enquanto turismo, IA e gestão de custos avançam
 - [07/11/2026 · Rhesumo da Semana](edicoes/2026/11/semana-2026-11-07.md) — IA entra na jornada de viagens, a conectividade regional avança e custos, regras e riscos operacionais pressionam decisões
 - [06/11/2026](edicoes/2026/11/2026-11-06.md) — Aviação reforça destinos de lazer, enquanto segurança, IA e custos redesenham a operação turística
 - [05/11/2026](edicoes/2026/11/2026-11-05.md) — Clima e greves pressionam a operação de viagens enquanto IA e eventos redesenham a distribuição e a demanda
 - [04/11/2026](edicoes/2026/11/2026-11-04.md) — Risco operacional e pressão de custos entram no radar, enquanto novas rotas, IA e demanda turística sustentam oportunidades
 - [03/11/2026](edicoes/2026/11/2026-11-03.md) — Conflitos e restrições de transporte elevam o risco operacional das viagens, enquanto turismo, eventos e custos de insumos exigem recalibração
-- [02/11/2026](edicoes/2026/11/2026-11-02.md) — Combustível mais caro e clima instável pressionam a operação, enquanto IA e turismo de experiências ampliam oportunidades
 
 [Ver todas as edições →](edicoes/README.md)
 

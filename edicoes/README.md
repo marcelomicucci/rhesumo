@@ -5,6 +5,7 @@
 
 ## Novembro de 2026
 
+- [10/11/2026](2026/11/2026-11-10.md) — Interrupções de viagem e transição trabalhista exigem atenção, enquanto IA, cruzeiros e eventos ampliam oportunidades
 - [09/11/2026](2026/11/2026-11-09.md) — Greves e clima elevam a atenção operacional enquanto turismo, IA e gestão de custos avançam
 - [07/11/2026 · Rhesumo da Semana](2026/11/semana-2026-11-07.md) — IA entra na jornada de viagens, a conectividade regional avança e custos, regras e riscos operacionais pressionam decisões
 - [06/11/2026](2026/11/2026-11-06.md) — Aviação reforça destinos de lazer, enquanto segurança, IA e custos redesenham a operação turística

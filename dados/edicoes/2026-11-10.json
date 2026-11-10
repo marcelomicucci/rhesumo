@@ -1,0 +1,243 @@
+{
+ "id": "2026-11-10",
+ "data": "2026-11-10",
+ "semanal": false,
+ "numero": 16,
+ "manchete": "Interrupções de viagem e transição trabalhista exigem atenção, enquanto IA, cruzeiros e eventos ampliam oportunidades",
+ "resumo_executivo": [
+  "Greve geral na Espanha em 11 de novembro, suspensões de voos entre Emirados e Arábia Saudita, risco geo-hidrológico no Brasil e retomada gradual do aeroporto de Chapecó exigem reconfirmação de itinerários.",
+  "O fim da escala 6x1 entra em audiência no STF; a primeira etapa está prevista para 16 de dezembro, com jornada máxima de 42 horas e dois dias de descanso remunerado.",
+  "Agências e consolidadoras estão integrando IA, WhatsApp, self-booking e automação financeira; a Expedia já vende hotéis pelo Muse, mas o tráfego de IA ainda é residual.",
+  "Belém inicia a temporada de cruzeiros 2026/2027 no Terminal de Outeiro, e eventos em Itajaí e Brasília mostram demanda por gastronomia, hotelaria e experiências corporativas.",
+  "A queda do arábica em Nova York e a nova API de apuração da CBS afetam, respectivamente, custos de foodservice e preparação operacional para a reforma tributária."
+ ],
+ "alertas": [
+  {
+   "titulo": "Companhias mantêm suspensões entre Emirados e destinos da Arábia Saudita",
+   "fonte": "The Economic Times",
+   "url": "https://economictimes.indiatimes.com/nri/latest-updates/uae-flight-cancellations-continue-as-airlines-suspend-saudi-routes-until-november-19/articleshow/135674725.cms",
+   "publicado_em": "2026-11-09",
+   "categoria": "conflito",
+   "local": "Aeroportos de Dubai, Abu Dhabi e Sharjah; rotas para Riade, Dammam, Abha e Jidá",
+   "periodo": "9 a 19/11/2026, conforme a rota",
+   "resumo": "As interrupções de voos continuaram nos Emirados em 9 de novembro. A Etihad retomou os voos diários para Jidá, mas manteve suspensos os serviços para Riade e Dammam até 19 de novembro; a flydubai manteve Dammam suspenso até 10 de novembro e Abha e Riade até 17 de novembro.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Greve geral de 24 horas afeta voos e trens na Espanha",
+   "fonte": "Travel News Radar",
+   "url": "https://travelnewsradar.com/news/spain-general-strike-madrid-barcelona-flights/",
+   "publicado_em": "2026-11-10",
+   "categoria": "greve",
+   "local": "Espanha, especialmente Madrid-Barajas e Barcelona-El Prat",
+   "periodo": "11/11/2026, da 0h às 24h no horário local; maquinistas também têm paralisações em 10 e 12/11",
+   "resumo": "CCOO e UGT convocaram greve geral de 24 horas para 11 de novembro. Os serviços mínimos incluem 57% dos voos internacionais em Madrid-Barajas e 56% em Barcelona-El Prat; a Renfe prevê 75% dos trens de Cercanías nos horários de pico e 73% dos trens de alta velocidade.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Cemaden aponta risco moderado de inundações e deslizamentos em quatro áreas",
+   "fonte": "Cemaden",
+   "url": "https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/10-11-2026-previsao-de-riscos-geo-hidrologicos-1",
+   "publicado_em": "2026-11-10",
+   "categoria": "clima",
+   "local": "Uruguaiana (RS), Goiânia (GO), Distrito Federal e Ilhéus-Itabuna (BA)",
+   "periodo": "10/11/2026",
+   "resumo": "O Cemaden classificou como moderada a possibilidade de inundação em Uruguaiana, Goiânia, Distrito Federal e Ilhéus-Itabuna. Na Bahia, também foi considerado moderado o risco de movimentos de massa por causa dos acumulados de chuva e da previsão de pancadas moderadas a fortes.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Aeroporto de Chapecó retoma voos, mas opera com reorganização gradual",
+   "fonte": "UOL / Agência Estado",
+   "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/09/aeroporto-de-chapeco-retoma-voos-comerciais-apos-estragos-causados-por-tornado.htm",
+   "publicado_em": "2026-11-09",
+   "categoria": "aeroporto",
+   "local": "Aeroporto Serafim Enoss Bertaso, Chapecó (SC)",
+   "periodo": "Retomada em 8/11; normalização prevista até 10/11/2026",
+   "resumo": "O aeroporto voltou a receber voos comerciais em 8 de novembro, quatro dias após a suspensão causada por um tornado. A retomada ocorre de forma gradual, com companhias reorganizando horários e a administração esperando restabelecer a programação normal até 10 de novembro.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Cazaquistão implementa autorização eletrônica de viagem em fases",
+   "fonte": "PANROTAS",
+   "url": "https://www.panrotas.com.br/mercado/destinos/2026/11/cazaquistao-implementa-autorizacao-eletronica-de-viagem-obrigatoria-para-estrangeiros_233490.html",
+   "publicado_em": "2026-11-09",
+   "categoria": "regulacao",
+   "local": "Pontos de entrada do Cazaquistão, incluindo Aktau, Astana e Almaty",
+   "periodo": "1/11/2026 a 1/7/2027",
+   "resumo": "A autorização QazETA começou a ser implementada em 1º de novembro no aeroporto de Aktau e em quatro fronteiras terrestres. Ela chega a Astana e Almaty em 1º de janeiro de 2027, aos demais pontos em 1º de março de 2027 e será obrigatória para todos os estrangeiros em 1º de julho de 2027; o pedido deve ser feito com pelo menos 72 horas de antecedência.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Aeroviários rejeitam proposta de escala 5x2 e voltam a negociar",
+   "fonte": "Mercado & Eventos",
+   "url": "https://www.mercadoeeventos.com.br/noticias/aviacao/aeroviarios-rejeitam-proposta-de-escala-5x2-com-semanas-de-ate-seis-dias-de-trabalho/",
+   "publicado_em": "2026-11-09",
+   "categoria": "greve",
+   "local": "Setor aéreo brasileiro",
+   "periodo": "Nova reunião em 12/11/2026; data-base em 1/12/2026",
+   "resumo": "Aeroviários rejeitaram a primeira proposta das empresas aéreas para adequação à escala 5x2. O SNA afirmou que a proposta não é negociável, e a próxima reunião foi marcada para 12 de novembro, às vésperas da alta temporada.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Air China manterá quatro voos semanais entre Pequim, Madri e São Paulo em 2027",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/air-china-mantera-quatro-voos-semanais-entre-pequim-madri-e-sao-paulo-em-2027_233493.html",
+     "publicado_em": "2026-11-09",
+     "resumo": "A Air China manterá quatro voos semanais na rota Pequim–Madri–São Paulo (Guarulhos) durante todo o ano de 2027. A operação é feita com Boeing 787-9, com escala em Madri e conexões para a China e outros mercados asiáticos pelo hub de Pequim.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Volotea abre quatro rotas nacionais a partir de Madri",
+     "fonte": "Crónica Global",
+     "url": "https://cronicaglobal.elespanol.com/business/20261109/volotea-aprovecha-ave-barcelona-madrid-problemas-economicos/1003742810432_0.html",
+     "publicado_em": "2026-11-09",
+     "resumo": "A Volotea anunciou quatro novas rotas nacionais a partir de Madri para Barcelona, Granada, A Coruña e Córdoba. As três primeiras começam em 27 de novembro, e Córdoba em 4 de dezembro; a companhia oferecerá dois voos diários na rota Madri–Barcelona, apesar dos problemas econômicos mencionados na reportagem.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    },
+    {
+     "titulo": "Belém estreia temporada de cruzeiros em Outeiro e país projeta R$ 4,76 bilhões no ciclo 2026/2027",
+     "fonte": "Diário do Pará",
+     "url": "https://diariodopara.com.br/belem/cruzeiros-devem-movimentar-r-476-bi-no-brasil-belem-estreia-temporada-com-navio-em-outeiro-apos-legado-da-cop30/",
+     "publicado_em": "2026-11-09",
+     "resumo": "A temporada brasileira de cruzeiros 2026/2027 prevê movimentar R$ 4,76 bilhões. O Terminal Portuário de Outeiro receberá o MS Vasco da Gama, e oito navios já estão confirmados para Belém; o terminal foi modernizado para a COP30.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Agências levam busca de voos por IA ao WhatsApp e automatizam a prestação de contas",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/tecnologia/2026/11/agencias-mudam-rotina-apos-busca-de-voos-por-ia-e-automacao-na-prestacao-de-contas_233479.html",
+     "publicado_em": "2026-11-09",
+     "resumo": "O HubWTS passou a oferecer pesquisa de voos por inteligência artificial diretamente pelo WhatsApp e prestação de contas integrada em um único fluxo. A reportagem relata que o viajante pode consultar opções sem aprender a usar a ferramenta de reservas, enquanto a equipe se concentra nos casos que exigem acompanhamento.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "SkyTeam lançará Portal do Agente para concentrar faturas, vendas e reembolsos",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/consolidadoras/2026/11/skyteam-lancara-nova-solucao-para-agencias-de-viagens-durante-o-festuris_233496.html",
+     "publicado_em": "2026-11-09",
+     "resumo": "A SkyTeam lançará no Festuris, em Gramado, uma plataforma que reúne consultas de faturas, vendas, reembolsos, cadastros, limites, atendimento e grupos em um único ambiente digital. O lançamento está previsto para a semana do evento, que começa em 13 de novembro.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Expedia passa a vender hotéis pelo Muse, da Meta, mas tráfego de IA ainda é residual",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/09/expedia-goes-live-on-muse-but-its-ai-wins-are-inside-its-own-apps/",
+     "publicado_em": "2026-11-09",
+     "resumo": "O agente Muse, da Meta, já permite pesquisar e reservar hotéis da Expedia nos Estados Unidos, mas apenas tarifas com pagamento imediato; cancelamentos e alterações seguem pelo atendimento da Expedia. A Expedia ainda não vê tráfego relevante de IA, e indicações de modelos de linguagem representam bem menos de 1% das diárias do Booking.com, segundo a reportagem.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Congresso de Gastronomia Entre Nós reúne 40 mil visitantes esperados em Itajaí",
+     "fonte": "Corrivus",
+     "url": "https://corrivus.com.br/santa-catarina/itajai/congresso-de-gastronomia-entre-nos-2026-segue-ate-terca-10-em-itajai",
+     "publicado_em": "2026-11-09",
+     "resumo": "A sexta edição do congresso segue até 10 de novembro em Itajaí, com mais de 70 palestrantes, expectativa de 40 mil visitantes e R$ 1,5 milhão em negócios. A programação inclui feira de produtores, festival gastronômico gratuito, inteligência artificial, gestão de restaurantes e rodada de negócios do Sebrae.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Luxo de Festa reúne 23 marcas e coloca eventos corporativos no centro do debate em Brasília",
+     "fonte": "Dicas da Capital",
+     "url": "https://dicasdacapital.com.br/brasilia-recebe-a-3a-edicao-do-congresso-nacional-de-festas-e-eventos/",
+     "publicado_em": "2026-11-09",
+     "resumo": "A terceira edição do congresso ocorre de 9 a 11 de novembro no Unique Palace, em Brasília, com 23 marcas expositoras e participantes das cinco regiões do país. O programa aborda casamentos, festas sociais, eventos corporativos e destination wedding, com feira de negócios voltada a hotelaria e fornecedores de alto padrão.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "STF discute implementação do fim da escala 6x1 em audiência nesta terça-feira",
+     "fonte": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/stf-promove-audiencia-nesta-terca-10-para-discutir-fim-da-escala-6x1/",
+     "publicado_em": "2026-11-10",
+     "resumo": "O STF realiza audiência de conciliação em 10 de novembro, às 14h, sobre a implementação do fim da escala 6x1. A primeira etapa está prevista para 16 de dezembro, quando a jornada máxima cai para 42 horas semanais e os trabalhadores passam a ter dois dias de descanso remunerado; o limite de 40 horas entra em vigor em dezembro de 2027.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Receita Federal libera novas APIs de apuração da CBS e exige nova credencial",
+     "fonte": "Ministério da Fazenda",
+     "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
+     "publicado_em": "2026-11-09",
+     "resumo": "As versões 2.0 das APIs de consulta à apuração de débitos e créditos de CBS estão disponíveis desde 28 de outubro em produção restrita e produção beta. Para usar os serviços, contribuintes ou procuradores digitais precisam gerar uma chave de acesso; quem já tinha chave deve cancelá-la e emitir outra.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Belém obtém mais de R$ 500 milhões para infraestrutura e saúde",
+     "fonte": "PIM Amazônia",
+     "url": "https://pimamazonia.balponte.com.br/belem-milhoes-governo-estrutura-saude/",
+     "publicado_em": "2026-11-09",
+     "resumo": "A Prefeitura de Belém informou ter garantido mais de R$ 500 milhões em recursos federais, principalmente para obras de drenagem. A bacia da Ilha Bela recebe R$ 90 milhões, e o Ministério da Saúde destinou R$ 20 milhões para ampliar o financiamento de média e alta complexidade; o Canal Mata-Fome deve começar no início de 2027.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Arábica cai 640 pontos em Nova York e recua também no mercado físico",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431060-cafe-mercado-fecha-no-vermelho-em-ny-e-derruba-precos-tambem-no-fisico-brasileiro-nesta-2-9.html",
+     "publicado_em": "2026-11-09",
+     "resumo": "O contrato dezembro/26 do arábica encerrou a sessão a 273,60 centavos de dólar por libra-peso, queda de 640 pontos. O mercado foi pressionado pela expectativa de maior disponibilidade global e pela produção brasileira; os estoques certificados permanecem próximos das mínimas observadas em 27 anos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "GBTA e Cvent: 62% dos gestores de viagens consideram seus programas subdimensionados",
+     "fonte": "TTGmice",
+     "url": "https://www.ttgmice.com/2026/11/09/corporate-travel-teams-face-staffing-crunch-as-responsibilities-broaden-gbta-and-cvent-report/",
+     "publicado_em": "2026-11-09",
+     "resumo": "Pesquisa da GBTA com a Cvent aponta que 62% dos gestores de viagens consideram seus programas sem equipe suficiente; a proporção sobe para 68% entre programas com gasto anual de US$ 30 milhões ou mais. As equipes têm média de 4,9 profissionais em tempo integral, mas a mediana é de três; 39% dos compradores dizem que viagens e eventos estão mais integrados.",
+     "tipo": "estudo",
+     "idioma_original": "en"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 24
+}

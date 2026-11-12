@@ -1,0 +1,219 @@
+{
+ "id": "2026-11-12",
+ "data": "2026-11-12",
+ "semanal": false,
+ "numero": 18,
+ "manchete": "Aviação ajusta distribuição enquanto clima e COP31 pressionam a operação",
+ "resumo_executivo": [
+  "A greve geral na Espanha cancelou 289 voos e 24% dos comboios de alta velocidade, enquanto o Paraná, o Amapá e o Pará registram alertas climáticos ou de qualidade do ar.",
+  "A Turkish Airlines restringirá a emissão de bilhetes SOTO por agências brasileiras a partir de 13 de novembro; Gol e Azul ampliam ou consolidam operações ligadas a destinos de lazer e negócios.",
+  "A United Airlines restringirá agentes pessoais de IA de terceiros, e o Citi defende que as empresas responsáveis pelos agentes assumam prejuízos quando houver erro de reserva.",
+  "O setor de serviços variou -0,1% em setembro e as atividades turísticas recuaram 1,6% no mês; a Receita confirmou a CBS para janeiro de 2027 e propôs adiar o pagamento em um mês.",
+  "Na COP31, o Brasil colocou a Amazônia no centro do debate, enquanto o Programa AMABIO abriu R$ 7,5 milhões para projetos de bioeconomia na Amazônia Legal."
+ ],
+ "alertas": [
+  {
+   "titulo": "Greve geral na Espanha cancela 289 voos e afeta trens e transporte local",
+   "fonte": "RTP",
+   "url": "https://www.rtp.pt/noticias/mundo/habitacao-e-salarios-na-rua-greve-geral-em-espanha-com-mais-adesao-do-que-esperado-pelos-sindicatos_n1778505",
+   "publicado_em": "2026-11-11",
+   "categoria": "greve",
+   "local": "Espanha; com impactos visíveis na Catalunha, em Madrid, na Andaluzia e em outras regiões",
+   "periodo": "11/11/2026, por 24 horas",
+   "resumo": "A greve geral perturbou transportes e indústrias. Houve suspensão dos transportes públicos na Catalunha desde as 9h30, cancelamento de 24% dos comboios de alta velocidade da Renfe e de 289 voos em todo o país, além de estradas cortadas e perturbações em portos do Mediterrâneo.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Paraná tem 379 municípios sob alerta amarelo de tempestade",
+   "fonte": "G1 Paraná",
+   "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/12/parana-tem-cidades-fora-dos-alertas-de-tempestade.ghtml",
+   "publicado_em": "2026-11-12",
+   "categoria": "clima",
+   "local": "Paraná; 379 dos 399 municípios",
+   "periodo": "Até 12/11/2026",
+   "resumo": "O Inmet colocou 379 dos 399 municípios do Paraná sob alerta amarelo, com previsão de ventos de até 60 km/h, queda de granizo e chuva de até 50 milímetros por dia. Apenas 20 cidades ficaram fora das áreas abrangidas pelos dois avisos.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Queimadas e fumaça afetam a qualidade do ar no Amapá",
+   "fonte": "G1 Amapá",
+   "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/11/amapa-registra-1951-focos-de-incendio-e-especialista-faz-alerta-sobre-qualidade-do-ar.ghtml",
+   "publicado_em": "2026-11-11",
+   "categoria": "clima",
+   "local": "Amapá, especialmente Mazagão, Oiapoque e Macapá",
+   "periodo": "Até os primeiros 11 dias de novembro de 2026",
+   "resumo": "O Amapá registrou 1.951 focos de incêndio até novembro, com mais de 600 ocorrências nos primeiros 11 dias do mês. A umidade relativa ficou abaixo de 30%, e em Macapá o material particulado fino PM2,5 apresentou alterações; pneumologistas alertaram para o agravamento de problemas respiratórios.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Pará lidera focos de calor e Belém amanhece sob fumaça densa",
+   "fonte": "G1 Pará",
+   "url": "https://g1.globo.com/pa/para/noticia/2026/11/11/para-lidera-queimadas-no-brasil-diz-inpe.ghtml",
+   "publicado_em": "2026-11-11",
+   "categoria": "clima",
+   "local": "Pará, com impacto reportado em Belém",
+   "periodo": "Dados divulgados em 11/11/2026; registros acumulados em cinco dias e no ano de 2026",
+   "resumo": "O Pará liderou o ranking nacional de focos de calor, com 2.295 registros em cinco dias segundo o Inpe, e Belém amanheceu encoberta por fumaça densa. O estado somou 28.518 focos em 2026 e superou 11,7 mil registros em outubro, o pior resultado para o mês em 29 anos.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Turkish Airlines suspende venda de bilhetes SOTO por agências brasileiras a partir de 13/11",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/turkish-airlines-restringe-venda-de-passagens-aereas-sem-origem-ou-destino-no-brasil_233573.html",
+     "publicado_em": "2026-11-11",
+     "resumo": "A Turkish Airlines suspenderá, a partir de 13 de novembro, a venda no Brasil de bilhetes ponto a ponto que não tenham o país como origem ou destino. Bilhetes com origem ou destino no Brasil continuam autorizados; reembolsos de passagens já emitidas podem ser processados por NDC ou GDS, e reemissões devem ser tratadas com o Help Desk Agências.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Gol amplia em 18% a oferta de assentos no Galeão no verão",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/gol-amplia-em-18-a-oferta-de-assentos-no-rio-galeao-no-verao_233569.html",
+     "publicado_em": "2026-11-11",
+     "resumo": "A Gol ampliará em 18% a oferta de assentos no Galeão na temporada de verão 2026/2027 em comparação com a baixa temporada de 2026. A rota para Lisboa passará de quatro para cinco frequências semanais a partir de 23 de novembro; a companhia também estreia operação regular para Salta e sazonal para Mendoza. Na malha total, prevê crescimento de 5% nas decolagens e de 8% nos assentos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Azul transforma rota Corumbá-Campinas em operação regular",
+     "fonte": "Panrotas",
+     "url": "http://www.panrotas.com.br/aviacao/empresas/2026/11/azul-transforma-voos-entre-corumba-ms-e-campinas-sp-em-operacao-regular_233575.html",
+     "publicado_em": "2026-11-11",
+     "resumo": "A Azul transformará em regular a operação entre Corumbá e Campinas, antes sazonal, com três frequências semanais em cada sentido, às segundas, quartas e sextas-feiras. A ligação direta com Viracopos atende, segundo a companhia, ao turismo de natureza, à pesca esportiva e à demanda de negócios da região.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "CVC Corp fecha o terceiro trimestre com R$ 4,5 bilhões em reservas",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/operadoras/2026/11/vendas-da-cvc-corp-aumentam-72-no-brasil-no-3o-trimestre-veja-destaques-do-balanco_233576.html",
+     "publicado_em": "2026-11-11",
+     "resumo": "A CVC Corp encerrou o terceiro trimestre com R$ 4,5 bilhões em reservas confirmadas, alta de 4,9% na comparação anual. No Brasil, as reservas cresceram 7,2%, para R$ 3,6 bilhões, com avanço de 9% no B2B e de 4,8% no B2C; a receita líquida consolidada somou R$ 382,4 milhões.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Britânicos desaceleram gasto com viagens e com agências em outubro",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/179881_los-britanicos-se-aprietan-el-bolsillo-cae-el-gasto-en-viajes-y-en-la-confianza-economica.html",
+     "publicado_em": "2026-11-12",
+     "resumo": "Segundo o relatório de consumo do Barclays, o gasto com cartão em viagens no Reino Unido cresceu 1,7% em outubro, abaixo dos 2% de setembro e 3,1% de agosto. O gasto em agências avançou 2,4%, também desacelerando ante setembro, agosto e julho; entre janeiro e agosto de 2026, a Espanha recebeu 13,9 milhões de turistas do Reino Unido, alta de 5,3% sobre o mesmo período do ano anterior.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "United Airlines restringirá agentes pessoais de IA nas reservas de voos",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/11/united-airlines-moves-to-block-personal-ai-agents-from-booking-flights/",
+     "publicado_em": "2026-11-11",
+     "resumo": "A United Airlines informou que restringirá o acesso de agentes pessoais de IA de terceiros em suas plataformas digitais e também via agências online e agregadores. A companhia citou riscos de segurança e regulação, incluindo o compartilhamento de credenciais e compras automatizadas que podem desrespeitar regras da FAA e do Departamento de Transportes.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    },
+    {
+     "titulo": "Citi defende que empresas de IA assumam o prejuízo quando o agente erra a reserva",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/11/citi-says-ai-companies-should-pay-when-their-agents-book-the-wrong-travel/",
+     "publicado_em": "2026-11-11",
+     "resumo": "O Citi defende que a responsabilidade por erros de agentes de IA em reservas recaia sobre a empresa que criou o agente, e não sobre hotéis, companhias aéreas ou emissores de cartão. O executivo citou um estudo da Visa com mais de 75 agentes, no qual 43% cometeram erros e cerca de metade concluiu a compra mesmo assim.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Cruise360 Brasil confirma edição de 2027 para 13 de março, em Santos",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/cruise360-brasil-confirma-edicao-de-2027-para-marco-em-santos-sp_233555.html",
+     "publicado_em": "2026-11-11",
+     "resumo": "A Clia no Brasil realizará a quarta edição do Cruise360 Brasil em 13 de março de 2027, no Santos Convention Center. O evento reunirá agentes para capacitação, contato com companhias marítimas e networking, com visitas técnicas nos dias 12 e 14 de março a uma de três opções de navios.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Setor de serviços varia -0,1% em setembro e atividades turísticas recuam 1,6%",
+     "fonte": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/setor-de-servicos-varia-01-em-setembro-impactado-pelos-transportes",
+     "publicado_em": "2026-11-11",
+     "resumo": "O setor de serviços variou -0,1% em setembro ante agosto e também na comparação com setembro de 2025, interrompendo uma sequência de 29 resultados positivos. Transportes e informação e comunicação recuaram 0,5%; o índice de atividades turísticas caiu 1,6% no mês e 0,5% ante setembro de 2025, ainda 11,7% acima do patamar pré-pandemia.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Receita mantém CBS em janeiro de 2027 e propõe adiar o pagamento em um mês",
+     "fonte": "Convergência Digital",
+     "url": "https://convergenciadigital.com.br/governo/reforma-tributaria-empresarios-reclamam-de-falhas-no-sistema-receita-admite-adiar-por-um-mes/",
+     "publicado_em": "2026-11-11",
+     "resumo": "A Receita Federal confirmou o início da vigência da CBS em janeiro de 2027, mas proporá ao Congresso adiar o pagamento para fevereiro. Entidades empresariais pedem que 2027 seja mantido como período de testes e que a cobrança efetiva comece em janeiro de 2028, citando instabilidade das plataformas do Fisco, atualizações de notas técnicas e limitações do split payment.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Lula abre Cúpula de Líderes da COP31 e coloca a Amazônia no centro do discurso",
+     "fonte": "Amazônia Vox",
+     "url": "https://www.amazoniavox.com/noticias/view/747/pt-br/acoes_na_amazonia_ganham_espaco_central_em_discurso_de_lula_na_cop31",
+     "publicado_em": "2026-11-11",
+     "resumo": "Lula abriu a Cúpula de Líderes da COP31, em Antália, e dedicou o discurso à Amazônia e ao legado da COP30 em Belém. Ele citou queda de 71% do desmatamento na região entre 2022 e 2026, a retomada do Fundo Amazônia e o Fundo Florestas Tropicais para Sempre, além de cobrar ação dos países desenvolvidos sobre os mapas do caminho apresentados pelo Brasil.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Alta em Nova York e dólar devem movimentar o mercado físico brasileiro de café",
+     "fonte": "Canal Pecuarista",
+     "url": "https://canalpecuarista.com.br/noticia/28020/mercado-de-cafe-pode-ter-negocios-mais-movimentados-com-alta-em-nova-york-e",
+     "publicado_em": "2026-11-11",
+     "resumo": "A valorização dos contratos em Nova York e a alta do dólar frente ao real podem aumentar a movimentação do mercado físico brasileiro de café. No sul de Minas, o arábica de bebida boa foi negociado entre R$ 1.680 e R$ 1.685 a saca, enquanto o contrato de dezembro em Nova York subia 0,25%, a 274,30 centavos de dólar por libra-peso.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "IBGE: 74,3% dos municípios enfrentaram seca, queimada ou enxurrada",
+     "fonte": "O Globo",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/11/ibge-743percent-dos-municipios-brasileiros-enfrentaram-secas-queimadas-e-enxurradas.ghtml",
+     "publicado_em": "2026-11-11",
+     "resumo": "Pesquisa do IBGE mostra que 74,3% dos municípios brasileiros enfrentaram secas, queimadas ou enxurradas e que apenas 14,9%, ou 831 municípios, contam com algum sistema de alerta antecipado de desastres. A seca atingiu 59% dos municípios em 2025, alta de 5,6 pontos percentuais frente a 2020, enquanto os alagamentos passaram de 38% para 59,9% das cidades no Sul.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 26
+}

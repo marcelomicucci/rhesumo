@@ -12,11 +12,11 @@
 
 ---
 
-### Hoje no Rhesumo · 11/11/2026
+### Hoje no Rhesumo · 12/11/2026
 
-> **Greves e clima pressionam a mobilidade, enquanto IA avança nas viagens corporativas**
+> **Aviação ajusta distribuição enquanto clima e COP31 pressionam a operação**
 >
-> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-11)
+> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-12)
 
 ---
 
@@ -40,8 +40,8 @@ Pará, Amazônia & Sustentabilidade · Café & Foodservice · Estudos & Pesquisa
 
 ## Uma memória do turismo
 
-Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **17 edições**, **265 notícias**
-e **74 alertas de viagem**, de **75 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
+Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **18 edições**, **282 notícias**
+e **78 alertas de viagem**, de **82 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
 frase exata, período, seção, fonte, tipo (notícia, estudo, alerta) e idioma original.
 
 ## Dados abertos
@@ -56,13 +56,13 @@ Tudo está disponível em formatos simples, para ler ou reutilizar:
 
 ## Últimas edições
 
+- [12/11/2026](edicoes/2026/11/2026-11-12.md) — Aviação ajusta distribuição enquanto clima e COP31 pressionam a operação
 - [11/11/2026](edicoes/2026/11/2026-11-11.md) — Greves e clima pressionam a mobilidade, enquanto IA avança nas viagens corporativas
 - [10/11/2026](edicoes/2026/11/2026-11-10.md) — Interrupções de viagem e transição trabalhista exigem atenção, enquanto IA, cruzeiros e eventos ampliam oportunidades
 - [09/11/2026](edicoes/2026/11/2026-11-09.md) — Greves e clima elevam a atenção operacional enquanto turismo, IA e gestão de custos avançam
 - [07/11/2026 · Rhesumo da Semana](edicoes/2026/11/semana-2026-11-07.md) — IA entra na jornada de viagens, a conectividade regional avança e custos, regras e riscos operacionais pressionam decisões
 - [06/11/2026](edicoes/2026/11/2026-11-06.md) — Aviação reforça destinos de lazer, enquanto segurança, IA e custos redesenham a operação turística
 - [05/11/2026](edicoes/2026/11/2026-11-05.md) — Clima e greves pressionam a operação de viagens enquanto IA e eventos redesenham a distribuição e a demanda
-- [04/11/2026](edicoes/2026/11/2026-11-04.md) — Risco operacional e pressão de custos entram no radar, enquanto novas rotas, IA e demanda turística sustentam oportunidades
 
 [Ver todas as edições →](edicoes/README.md)
 

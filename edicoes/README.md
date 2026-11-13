@@ -5,6 +5,7 @@
 
 ## Novembro de 2026
 
+- [13/11/2026](2026/11/2026-11-13.md) — Alertas de clima, sistemas e cruzeiros dividem espaço com ajustes regulatórios e demanda do turismo
 - [12/11/2026](2026/11/2026-11-12.md) — Aviação ajusta distribuição enquanto clima e COP31 pressionam a operação
 - [11/11/2026](2026/11/2026-11-11.md) — Greves e clima pressionam a mobilidade, enquanto IA avança nas viagens corporativas
 - [10/11/2026](2026/11/2026-11-10.md) — Interrupções de viagem e transição trabalhista exigem atenção, enquanto IA, cruzeiros e eventos ampliam oportunidades

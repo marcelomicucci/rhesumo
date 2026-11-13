@@ -1,0 +1,242 @@
+{
+ "id": "2026-11-13",
+ "data": "2026-11-13",
+ "semanal": false,
+ "numero": 19,
+ "manchete": "Alertas de clima, sistemas e cruzeiros dividem espaço com ajustes regulatórios e demanda do turismo",
+ "resumo_executivo": [
+  "Instabilidades digitais e um ataque de cadeia de suprimentos elevam a atenção operacional para empresas de viagens e serviços.",
+  "Incêndios no Pará, temporais no Sudeste e Centro-Oeste e a suspensão do Buenavista exigem revisão de itinerários e atendimento aos viajantes.",
+  "A transição para a jornada 5x2 e a alta do dólar reforçam a necessidade de revisar escalas, custos e propostas comerciais.",
+  "Festuris, pesquisas sobre comportamento do viajante e editais de turismo, alimentação e eventos apontam demanda e oportunidades para o ecossistema Rhes."
+ ],
+ "alertas": [
+  {
+   "titulo": "Outlook e serviços de IA da Microsoft seguem instáveis",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-e-ia-da-microsoft-seguem-instaveis-nesta-sexta-feira.ghtml",
+   "publicado_em": "2026-11-13",
+   "categoria": "sistemas",
+   "local": "Serviços Microsoft, com uso global",
+   "periodo": "Desde 12/11 à manhã de 13/11",
+   "resumo": "Usuários relataram dificuldades para acessar o Outlook e outros serviços da Microsoft desde a tarde de 12 de novembro, por volta das 14h30; as queixas continuaram na madrugada de 13 de novembro. A instabilidade também atingiu recursos de IA, enquanto a empresa trabalhava para restabelecer a operação na manhã de 13 de novembro.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Calor intenso e temporais são previstos para o fim de semana",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/13/fim-de-semana-veja-previsao.ghtml",
+   "publicado_em": "2026-11-13",
+   "categoria": "clima",
+   "local": "Sudeste, Centro-Oeste e outras áreas do Brasil citadas na previsão",
+   "periodo": "14–15/11, principalmente da tarde de 14/11 ao domingo",
+   "resumo": "A previsão indica temperaturas acima de 30°C em vários estados, máximas de até 38°C em Mato Grosso do Sul e chuva forte entre a tarde de sábado, 14 de novembro, e domingo, 15 de novembro. Há possibilidade de temporais com raios e rajadas acima de 50 km/h em algumas localidades.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Incêndios em Alter do Chão e emergência ambiental no Pará",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/13/incendios-florestais-seguem-mobilizando-brigadistas-em-alter-do-chao-para-decreta-emergencia.ghtml",
+   "publicado_em": "2026-11-13",
+   "categoria": "clima",
+   "local": "Alter do Chão, Santarém (PA), e todo o Pará",
+   "periodo": "Incêndios registrados em 12/11; emergência por 120 dias",
+   "resumo": "Incêndios mobilizaram equipes em áreas próximas a Pindobal, Irurama e Areia Branca, na vila balneária de Alter do Chão, em 12 de novembro. O governo do Pará decretou emergência ambiental e climática em todo o estado por 120 dias e suspendeu permissões de queima em 31 municípios.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Corazul suspende cruzeiros do Buenavista no Brasil até 30 de novembro",
+   "fonte": "PANROTAS",
+   "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/corazul-suspende-cruzeiros-no-buenavista-no-brasil-ate-30-de-novembro-entenda_233595.html",
+   "publicado_em": "2026-11-12",
+   "categoria": "outro",
+   "local": "Porto de Santos (SP) e roteiros do navio Buenavista no Brasil",
+   "periodo": "Até 30/11; saídas de 13 e 14/11 canceladas",
+   "resumo": "A Corazul ampliou até 30 de novembro o período de ajustes técnicos e operacionais do Buenavista no Brasil. As saídas previstas para 13 e 14 de novembro foram canceladas; passageiros podem remarcar ou cancelar com reembolso integral e devem informar a opção à agência em até 15 dias após o comunicado.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Expedia confirma ataque cibernético por fornecedor terceirizado",
+   "fonte": "Skift",
+   "url": "https://skift.com/2026/11/12/expedia-confirms-cyberattack-through-third-party-vendor/",
+   "publicado_em": "2026-11-12",
+   "categoria": "sistemas",
+   "local": "Sistemas da Expedia Group e fornecedor terceirizado de plataforma de dados",
+   "periodo": "Reconhecimento em 12/11; extensão da exposição ainda não divulgada",
+   "resumo": "A Expedia Group confirmou que atacantes chegaram a seus sistemas por meio de um fornecedor comprometido, em um ataque de cadeia de suprimentos que atingiu outras empresas. A companhia não divulgou o fornecedor, os dados eventualmente expostos ou a escala da violação; informou que conteve o problema e que suas plataformas permaneciam seguras para viajantes e parceiros.",
+   "severo": false,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Ataques afetam aeroportos e percepção de segurança na Arábia Saudita",
+   "fonte": "Skift",
+   "url": "https://skift.com/2026/11/12/saudi-hotel-builders-keep-going-as-attacks-scare-off-foreign-visitors/",
+   "publicado_em": "2026-11-12",
+   "categoria": "conflito",
+   "local": "Aeroporto principal de Riade e destinos da Arábia Saudita",
+   "periodo": "Situação relatada em 12/11, após ataque ocorrido cerca de um mês antes",
+   "resumo": "Um míssil houthi matou 13 pessoas no aeroporto principal de Riade cerca de um mês antes da reportagem. Os ataques fecharam aeroportos e cancelaram os maiores eventos do reino, enquanto a Arábia Saudita mantinha 401 projetos hoteleiros em desenvolvimento, alta de 15% em um ano.",
+   "severo": true,
+   "idioma_original": "en"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Corazul suspende cruzeiros do Buenavista no Brasil até 30 de novembro",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/corazul-suspende-cruzeiros-no-buenavista-no-brasil-ate-30-de-novembro-entenda_233595.html",
+     "publicado_em": "2026-11-12",
+     "resumo": "A Corazul suspendeu os cruzeiros do Buenavista no Brasil até 30 de novembro, ampliando em mais de duas semanas o período de ajustes técnicos e operacionais. As saídas de 13 e 14 de novembro foram canceladas; passageiros podem remarcar ou cancelar com reembolso integral.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Buser começa a vender passagens aéreas em seis rotas do Sudeste",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/transporte/2026/11/buser-comeca-a-vender-passagens-aereas-em-seis-rotas-do-sudeste_233589.html",
+     "publicado_em": "2026-11-12",
+     "resumo": "A Buser iniciou em 13 de novembro a venda de passagens aéreas em sua plataforma digital, além do transporte rodoviário. A operação experimental reúne seis rotas entre capitais do Sudeste, com voos operados por Azul, Gol e Latam, exclusivamente em classe econômica.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Expedia confirma ataque cibernético por fornecedor terceirizado",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/12/expedia-confirms-cyberattack-through-third-party-vendor/",
+     "publicado_em": "2026-11-12",
+     "resumo": "A Expedia Group confirmou que atacantes chegaram a seus sistemas por meio de um fornecedor comprometido, em um ataque de cadeia de suprimentos que também atingiu outras empresas. A empresa não divulgou a extensão de eventual exposição de dados e informou que suas plataformas permaneciam seguras para viajantes e parceiros.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Festuris projeta R$ 600 milhões em negócios em sua 38ª edição",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/feiras/2026/11/festuris-projeta-r-600-milhoes-em-negocios-em-sua-38a-edicao-veja-fotos-da-abertura_233611.html",
+     "publicado_em": "2026-11-13",
+     "resumo": "A 38ª edição do Festuris foi aberta em 12 de novembro, em Gramado, com expectativa de gerar R$ 600 milhões em negócios, ante R$ 552 milhões em 2025. A feira projeta 18 mil participantes, cerca de 2,6 mil marcas, 65 destinos internacionais, 834 compradores e 8.040 reuniões de negócios pré-agendadas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Bangcoc recebe a primeira edição do Eurovision Ásia e testa aposta em eventos",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/12/one-night-in-bangkok-eurovision-asia-tests-thailands-bet-on-events/",
+     "publicado_em": "2026-11-12",
+     "resumo": "Bangcoc sedia em 14 de novembro o primeiro Eurovision Song Contest Ásia, com 11 países no One Bangkok Forum. O evento testa a estratégia da Tailândia de usar uma agenda de eventos para compensar a estagnação na chegada de turistas; para especialistas, o retorno inicial tende a ser de visibilidade, não de gasto imediato.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Dino mantém início do fim da escala 6x1 em dezembro e flexibiliza folgas",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/legislacao/noticia/2026/11/12/fim-da-jornada-6x1-veja-os-principais-pontos-da-liminar-concedida-por-flavio-dino.ghtml",
+     "publicado_em": "2026-11-12",
+     "resumo": "A transição para a jornada 5x2 prevê 42 horas semanais a partir de 16 de dezembro de 2026 e 40 horas a partir de 16 de dezembro de 2027. A liminar permite distribuir as 42 horas em cinco dias de até 8h24, sem adicional de hora extra pelos 24 minutos excedentes, e dá 90 dias para revisar contrapartidas de acordos em vigor.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Dólar sobe 1,62% e fecha a R$ 5,6518",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/12/dolar-ibovespa.ghtml",
+     "publicado_em": "2026-11-12",
+     "resumo": "O dólar subiu 1,62% em 12 de novembro e fechou a R$ 5,6518, maior nível desde 2 de junho de 2025. A alta veio após reação negativa dos investidores ao pacote de medidas fiscais anunciado pelo governo; o Ibovespa recuou.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "IPCA desacelera para 0,14% em outubro, mas segue acima do teto da meta",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/12/ipca-inflacao-outubro-2026.ghtml",
+     "publicado_em": "2026-11-12",
+     "resumo": "O IPCA subiu 0,14% em outubro, após avanço de 0,82% em setembro, a maior alta para o mês desde 2021, segundo o IBGE. O índice oficial de inflação continuou acima do teto da meta.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Incêndios em Alter do Chão mobilizam brigadistas e Pará decreta emergência ambiental",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/13/incendios-florestais-seguem-mobilizando-brigadistas-em-alter-do-chao-para-decreta-emergencia.ghtml",
+     "publicado_em": "2026-11-13",
+     "resumo": "Incêndios florestais mobilizaram equipes em áreas próximas a Pindobal, Irurama e Areia Branca, em Alter do Chão, em 12 de novembro. O governo do Pará decretou emergência ambiental e climática em todo o estado por 120 dias e suspendeu permissões de queima em 31 municípios.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Parque das Árvores Gigantes da Amazônia ganha base e trilha de 5 km",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/13/parque-das-arvores-gigantes-da-amazonia-ganha-base-e-trilha-de-5-km-em-almeirim-no-pa.ghtml",
+     "publicado_em": "2026-11-13",
+     "resumo": "O Parque Estadual Ambiental das Árvores Gigantes da Amazônia, em Almeirim (PA), ganhou uma base operacional e uma trilha de aproximadamente 5 quilômetros. As estruturas foram inauguradas em 30 de outubro e devem ampliar as condições de fiscalização e visitação.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Preço do açaí volta a subir em Belém após cinco meses de queda",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/preco-do-acai-volta-a-subir-em-belem-apos-cinco-meses-de-queda-1.1193411",
+     "publicado_em": "2026-11-12",
+     "resumo": "O litro do açaí médio subiu 1,59% em outubro, para R$ 26,87, e o tipo grosso teve reajuste de 1,51%, chegando a R$ 43,14, segundo o Dieese/PA. O movimento é associado ao fim da safra regional, à elevação de custos de produção e transporte, ao crescimento da demanda e a fatores climáticos como o El Niño.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "CNC projeta alta de 1,8% nas vendas da Black Friday, para R$ 11,5 bilhões",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/13/projecao-para-black-friday-nao-entusiasma-diz-cnc.ghtml",
+     "publicado_em": "2026-11-13",
+     "resumo": "A CNC projeta alta de 1,8% nas vendas relacionadas à Black Friday em comparação com 2025, para R$ 11,5 bilhões. A estimativa é da Confederação Nacional do Comércio de Bens, Serviços e Turismo.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Interesse em assumir cargo de liderança cai com a idade, aponta pesquisa da Catho",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/carreira/noticia/2026/11/13/interesse-em-ser-chefe-diminui-com-a-idade-aponta-pesquisa.ghtml",
+     "publicado_em": "2026-11-13",
+     "resumo": "Pesquisa da Catho com 1.146 pessoas mostra que 58,7% dos profissionais de 18 a 24 anos querem assumir um cargo de liderança no futuro, percentual que recua para 49% na faixa de 25 a 34 anos. O levantamento também abordou qualificação e inteligência artificial.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 32
+}

@@ -1,0 +1,238 @@
+{
+ "id": "semana-2026-11-14",
+ "data": "2026-11-14",
+ "semanal": true,
+ "numero": 20,
+ "manchete": "mobilidade e tecnologia em ajuste, com oportunidades na Amazônia e nos eventos",
+ "resumo_executivo": [
+  "A oferta e a distribuição turística se movem, com novas frequências, restrições de emissão e reacomodações de cruzeiros.",
+  "A inteligência artificial avança em planejamento e gestão de viagens, mas enfrenta controles de acesso, responsabilidade e segurança.",
+  "Interrupções aéreas, clima extremo e incêndios elevaram a necessidade de reconfirmação de itinerários e revisão de roteiros.",
+  "Mudanças na jornada de trabalho e a preparação da CBS exigem revisão de escalas, contratos, credenciais e sistemas.",
+  "A semana combinou demanda para eventos, oportunidade de bioeconomia e editais de viagens e alimentação no Norte e Nordeste."
+ ],
+ "alertas": [
+  {
+   "titulo": "Suspensão de voos nos EUA ainda afeta Galeão e Guarulhos no sábado",
+   "fonte": "CBN",
+   "url": "https://cbn.globo.com/brasil/noticia/2026/11/14/veja-os-impacto-do-cancelamento-de-voos-nos-eua-nos-aeroportos-do-brasil.ghtml",
+   "publicado_em": "2026-11-14",
+   "categoria": "sistemas",
+   "local": "Aeroportos do Galeão (GIG) e Guarulhos (GRU), com origem ou destino nos EUA",
+   "periodo": "14/11/2026 e reflexos no fim de semana",
+   "resumo": "Mais de 3 mil voos com origem ou destino nos Estados Unidos foram cancelados neste sábado (14), segundo o FlightAware. No Galeão, ao menos três chegadas de cidades americanas foram canceladas e um voo de Houston chegou com mais de quatro horas de atraso. Em Guarulhos, entre 9h e 10h, oito voos vindos dos EUA estavam atrasados, entre eles um da United procedente de Newark com previsão de cerca de 12 horas de atraso.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Corazul suspende cruzeiros do Buenavista no Brasil até 30 de novembro",
+   "fonte": "PANROTAS",
+   "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/corazul-suspende-cruzeiros-no-buenavista-no-brasil-ate-30-de-novembro-entenda_233595.html",
+   "publicado_em": "2026-11-12",
+   "categoria": "outro",
+   "local": "Porto de Santos (SP) e roteiros do navio Buenavista no Brasil",
+   "periodo": "Até 30/11; saídas de 13 e 14/11 canceladas",
+   "resumo": "A Corazul ampliou até 30 de novembro o período de ajustes técnicos e operacionais do Buenavista no Brasil. As saídas previstas para 13 e 14 de novembro foram canceladas; passageiros podem remarcar ou cancelar com reembolso integral e devem informar a opção à agência em até 15 dias após o comunicado.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Calor intenso e temporais são previstos para o fim de semana",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/13/fim-de-semana-veja-previsao.ghtml",
+   "publicado_em": "2026-11-13",
+   "categoria": "clima",
+   "local": "Sudeste, Centro-Oeste e outras áreas do Brasil citadas na previsão",
+   "periodo": "14–15/11, principalmente da tarde de 14/11 ao domingo",
+   "resumo": "A previsão indica temperaturas acima de 30°C em vários estados, máximas de até 38°C em Mato Grosso do Sul e chuva forte entre a tarde de sábado, 14 de novembro, e domingo, 15 de novembro. Há possibilidade de temporais com raios e rajadas acima de 50 km/h em algumas localidades.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Incêndios em Alter do Chão e emergência ambiental no Pará",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/13/incendios-florestais-seguem-mobilizando-brigadistas-em-alter-do-chao-para-decreta-emergencia.ghtml",
+   "publicado_em": "2026-11-13",
+   "categoria": "clima",
+   "local": "Alter do Chão, Santarém (PA), e todo o Pará",
+   "periodo": "Incêndios registrados em 12/11; emergência por 120 dias",
+   "resumo": "Incêndios mobilizaram equipes em áreas próximas a Pindobal, Irurama e Areia Branca, na vila balneária de Alter do Chão, em 12 de novembro. O governo do Pará decretou emergência ambiental e climática em todo o estado por 120 dias e suspendeu permissões de queima em 31 municípios.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Expedia confirma ataque cibernético por fornecedor terceirizado",
+   "fonte": "Skift",
+   "url": "https://skift.com/2026/11/12/expedia-confirms-cyberattack-through-third-party-vendor/",
+   "publicado_em": "2026-11-12",
+   "categoria": "sistemas",
+   "local": "Sistemas da Expedia Group e fornecedor terceirizado de plataforma de dados",
+   "periodo": "Reconhecimento em 12/11; extensão da exposição ainda não divulgada",
+   "resumo": "A Expedia Group confirmou que atacantes chegaram a seus sistemas por meio de um fornecedor comprometido, em um ataque de cadeia de suprimentos que atingiu outras empresas. A companhia não divulgou o fornecedor, os dados eventualmente expostos ou a escala da violação; informou que conteve o problema e que suas plataformas permaneciam seguras para viajantes e parceiros.",
+   "severo": false,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Ataques afetam aeroportos e percepção de segurança na Arábia Saudita",
+   "fonte": "Skift",
+   "url": "https://skift.com/2026/11/12/saudi-hotel-builders-keep-going-as-attacks-scare-off-foreign-visitors/",
+   "publicado_em": "2026-11-12",
+   "categoria": "conflito",
+   "local": "Aeroporto principal de Riade e destinos da Arábia Saudita",
+   "periodo": "Situação relatada em 12/11, após ataque ocorrido cerca de um mês antes",
+   "resumo": "Um míssil houthi matou 13 pessoas no aeroporto principal de Riade cerca de um mês antes da reportagem. Os ataques fecharam aeroportos e cancelaram os maiores eventos do reino, enquanto a Arábia Saudita mantinha 401 projetos hoteleiros em desenvolvimento, alta de 15% em um ano.",
+   "severo": true,
+   "idioma_original": "en"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Air China manterá quatro voos semanais entre Pequim, Madri e São Paulo em 2027",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/air-china-mantera-quatro-voos-semanais-entre-pequim-madri-e-sao-paulo-em-2027_233493.html",
+     "publicado_em": "2026-11-09",
+     "resumo": "A Air China manterá quatro voos semanais na rota Pequim–Madri–São Paulo (Guarulhos) durante todo o ano de 2027. A operação é feita com Boeing 787-9, com escala em Madri e conexões para a China e outros mercados asiáticos pelo hub de Pequim.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Turkish Airlines suspende venda de bilhetes SOTO por agências brasileiras a partir de 13/11",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/turkish-airlines-restringe-venda-de-passagens-aereas-sem-origem-ou-destino-no-brasil_233573.html",
+     "publicado_em": "2026-11-11",
+     "resumo": "A Turkish Airlines suspenderá, a partir de 13 de novembro, a venda no Brasil de bilhetes ponto a ponto que não tenham o país como origem ou destino. Bilhetes com origem ou destino no Brasil continuam autorizados; reembolsos de passagens já emitidas podem ser processados por NDC ou GDS, e reemissões devem ser tratadas com o Help Desk Agências.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Corazul suspende cruzeiros do Buenavista no Brasil até 30 de novembro",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/corazul-suspende-cruzeiros-no-buenavista-no-brasil-ate-30-de-novembro-entenda_233595.html",
+     "publicado_em": "2026-11-12",
+     "resumo": "A Corazul suspendeu os cruzeiros do Buenavista no Brasil até 30 de novembro, ampliando em mais de duas semanas o período de ajustes técnicos e operacionais. As saídas de 13 e 14 de novembro foram canceladas; passageiros podem remarcar ou cancelar com reembolso integral.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Argo investe R$ 80 milhões e lança Hoovie, plataforma de gestão de viagens e despesas com IA",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/tecnologia/2026/11/argo-investe-r-80-milhoes-e-lanca-hoovie-plataforma-de-gestao-de-viagens-e-despesas-com-ia_233543.html",
+     "publicado_em": "2026-11-11",
+     "resumo": "A Argo Solutions lançou o Hoovie, plataforma de gestão de viagens e despesas corporativas com recursos de inteligência artificial, a partir de um ciclo de R$ 80 milhões em investimentos. A ferramenta reúne etapas da jornada de viagem, conectando aéreas, hotéis, locadoras e despesas; a empresa opera em 16 países da América Latina.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Expedia confirma ataque cibernético por fornecedor terceirizado",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/12/expedia-confirms-cyberattack-through-third-party-vendor/",
+     "publicado_em": "2026-11-12",
+     "resumo": "A Expedia Group confirmou que atacantes chegaram a seus sistemas por meio de um fornecedor comprometido, em um ataque de cadeia de suprimentos que também atingiu outras empresas. A empresa não divulgou a extensão de eventual exposição de dados e informou que suas plataformas permaneciam seguras para viajantes e parceiros.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    },
+    {
+     "titulo": "United Airlines restringirá agentes pessoais de IA nas reservas de voos",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/11/united-airlines-moves-to-block-personal-ai-agents-from-booking-flights/",
+     "publicado_em": "2026-11-11",
+     "resumo": "A United Airlines informou que restringirá o acesso de agentes pessoais de IA de terceiros em suas plataformas digitais e também via agências online e agregadores. A companhia citou riscos de segurança e regulação, incluindo o compartilhamento de credenciais e compras automatizadas que podem desrespeitar regras da FAA e do Departamento de Transportes.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Festuris projeta R$ 600 milhões em negócios em sua 38ª edição",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/feiras/2026/11/festuris-projeta-r-600-milhoes-em-negocios-em-sua-38a-edicao-veja-fotos-da-abertura_233611.html",
+     "publicado_em": "2026-11-13",
+     "resumo": "A 38ª edição do Festuris foi aberta em 12 de novembro, em Gramado, com expectativa de gerar R$ 600 milhões em negócios, ante R$ 552 milhões em 2025. A feira projeta 18 mil participantes, cerca de 2,6 mil marcas, 65 destinos internacionais, 834 compradores e 8.040 reuniões de negócios pré-agendadas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Dino mantém início do fim da escala 6x1 em dezembro e flexibiliza folgas",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/legislacao/noticia/2026/11/12/fim-da-jornada-6x1-veja-os-principais-pontos-da-liminar-concedida-por-flavio-dino.ghtml",
+     "publicado_em": "2026-11-12",
+     "resumo": "A transição para a jornada 5x2 prevê 42 horas semanais a partir de 16 de dezembro de 2026 e 40 horas a partir de 16 de dezembro de 2027. A liminar permite distribuir as 42 horas em cinco dias de até 8h24, sem adicional de hora extra pelos 24 minutos excedentes, e dá 90 dias para revisar contrapartidas de acordos em vigor.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Pacote fiscal frustra e amplia distância entre mercado e governo",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/financas/intraday/post/2026/11/pacote-fiscal-frustra-e-amplia-distancia-entre-mercado-e-governo.ghtml",
+     "publicado_em": "2026-11-14",
+     "resumo": "Com o dólar a R$ 5,65 e os juros longos de volta à casa dos 15%, o mercado vê no pacote aprovado no Senado um ajuste parcial, que ainda depende de contenção de despesas discricionárias e de restrições a créditos tributários. O J.P. Morgan estima que parte relevante da melhora de R$ 45 bilhões a R$ 54 bilhões projetada para o primário de 2027 apenas compensa medidas pré-eleitorais. O banco mantém projeção de Selic em 13,75% até o fim de 2027, com risco de alta.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Receita Federal libera novas APIs de apuração da CBS e exige nova credencial",
+     "fonte": "Ministério da Fazenda",
+     "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
+     "publicado_em": "2026-11-09",
+     "resumo": "As versões 2.0 das APIs de consulta à apuração de débitos e créditos de CBS estão disponíveis desde 28 de outubro em produção restrita e produção beta. Para usar os serviços, contribuintes ou procuradores digitais precisam gerar uma chave de acesso; quem já tinha chave deve cancelá-la e emitir outra.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Incêndios em Alter do Chão mobilizam brigadistas e Pará decreta emergência ambiental",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/13/incendios-florestais-seguem-mobilizando-brigadistas-em-alter-do-chao-para-decreta-emergencia.ghtml",
+     "publicado_em": "2026-11-13",
+     "resumo": "Incêndios florestais mobilizaram equipes em áreas próximas a Pindobal, Irurama e Areia Branca, em Alter do Chão, em 12 de novembro. O governo do Pará decretou emergência ambiental e climática em todo o estado por 120 dias e suspendeu permissões de queima em 31 municípios.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Brasil é o 4º maior mercado das Américas em gastos com viagens corporativas",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/estudos/2026/11/brasil-e-o-4o-maior-mercado-das-americas-em-gastos-com-viagens-corporativas_233529.html",
+     "publicado_em": "2026-11-10",
+     "resumo": "Segundo o WTTC, o Brasil é o quarto maior mercado das Américas em gastos com viagens corporativas, com US$ 12,7 bilhões projetados para 2026. Os gastos a negócios na região devem chegar a US$ 565 bilhões, equivalentes a 23% do total de gastos turísticos das Américas.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "66% dos brasileiros pretendem usar IA para planejar viagens, aponta Booking.com",
+     "fonte": "Travel Tech Hub",
+     "url": "https://www.traveltechhub.com.br/noticias/66-dos-brasileiros-pretendem-usar-ia-para-planejar-viagens-aponta-estudo",
+     "publicado_em": "2026-11-13",
+     "resumo": "O Relatório de Tendências de Viagem da Booking.com indica que 66% dos brasileiros pretendem usar inteligência artificial para planejar viagens e 42% já usam a tecnologia ativamente. Entre os que adotam, 72% buscam tirar dúvidas sobre o destino, 70% pedem dicas de atrações locais e 67% querem itinerários personalizados. O mercado global de IA no turismo pode chegar a US$ 13,4 bilhões até 2030.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 125
+}

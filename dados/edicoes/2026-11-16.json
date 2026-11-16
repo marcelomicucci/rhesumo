@@ -1,0 +1,160 @@
+{
+ "id": "2026-11-16",
+ "data": "2026-11-16",
+ "semanal": false,
+ "numero": 21,
+ "manchete": "Clima e aviação exigem atenção operacional, enquanto trabalho, café e editais abrem decisões para o Grupo Rhes",
+ "resumo_executivo": [
+  "A falha no tráfego aéreo dos Estados Unidos ainda produzia efeitos em voos Brasil-EUA; a Anac orientou confirmação do voo antes do deslocamento e detalhou direitos em caso de atraso ou cancelamento.",
+  "Tempestades no Centro-Sul e a emergência por incêndios em 61 municípios do Pará reforçam a necessidade de revisar itinerários, atividades externas e operações amazônicas.",
+  "O julgamento presencial sobre a transição do fim da escala 6x1 e a tramitação do ajuste fiscal mantêm pressão sobre planejamento de pessoas, custos e gestão.",
+  "A demanda turística americana para o Thanksgiving recua marginalmente sob custos mais altos, enquanto a Índia simplifica vistos; no Grupo Rhes, café, alimentação, eventos e três editais de viagens completam o radar de oportunidades."
+ ],
+ "alertas": [
+  {
+   "titulo": "Falha no tráfego aéreo dos EUA ainda afeta voos e conexões",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/falha-aerea-nos-eua-cancela-sete-voos-e-atrasa-outros-14-no-brasil",
+   "publicado_em": "2026-11-14",
+   "categoria": "sistemas",
+   "local": "Estados Unidos e voos Brasil–Estados Unidos",
+   "periodo": "13–14/11, com efeitos residuais no fim de semana",
+   "resumo": "Sete dos 29 voos programados do Brasil para os Estados Unidos entre o fim da tarde de 13/11 e as 14h de 14/11 foram cancelados, e outros 14 partiram com atraso. A FAA informou mais de 16 mil cancelamentos nos Estados Unidos nos dois dias, após uma falha de comunicação nos centros de controle de tráfego aéreo.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Tempestades e granizo atingem o Centro-Sul e áreas do Norte e Nordeste",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-preve-tempestades-no-centro-sul-do-pais-ate-segunda-feira",
+   "publicado_em": "2026-11-15",
+   "categoria": "clima",
+   "local": "Belo Horizonte, São Paulo, Mato Grosso do Sul, Rio de Janeiro, Paraná, Goiás, Santa Catarina, Mato Grosso, Tocantins, Pará, Maranhão, Pernambuco e Bahia",
+   "periodo": "15–16/11; alerta amarelo até o fim de 15/11",
+   "resumo": "Chuva forte com granizo atingiu Belo Horizonte, que estava em alerta amarelo para tempestades. O Inmet previu tempestades no Centro-Sul até 16/11, com continuidade e intensificação das instabilidades também em áreas que não tinham registrado chuvas significativas nos últimos dias.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Incêndios florestais levam 61 municípios do Pará a situação de emergência",
+   "fonte": "Agência Pará",
+   "url": "https://agenciapara.com.br/noticia/80595/governo-federal-reconhece-situacao-de-emergencia-em-61-municipios-paraenses-afetados-por-incendios-florestais",
+   "publicado_em": "2026-11-15",
+   "categoria": "clima",
+   "local": "61 municípios do Pará, além de outros 50 municípios já em emergência por queimadas e estiagem",
+   "periodo": "Desde 15/11; emergência estadual nas áreas atingidas por 180 dias",
+   "resumo": "O Governo Federal reconheceu a situação de emergência em 61 municípios paraenses afetados por incêndios florestais. O Pará também informou emergência de Nível II nas áreas atingidas, e duas aeronaves de grande porte foram autorizadas para reforçar o combate ao fogo.",
+   "severo": true,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Anac registra 211 casos de indisciplina de passageiros desde setembro",
+     "fonte": "g1",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/16/anac-registra-211-casos-de-indisciplina-apos-regra-que-pune-ma-conduta-de-passageiros.ghtml",
+     "publicado_em": "2026-11-16",
+     "resumo": "A Anac registrou 211 ocorrências envolvendo passageiros indisciplinados desde setembro, quando entraram em vigor novas regras para punir esse comportamento. Foram 179 atos de indisciplina, 31 casos graves e um gravíssimo; a norma prevê multa de até R$ 17,5 mil e, nos casos extremos, suspensão do direito de embarcar em voos domésticos por até um ano.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Índia simplifica vistos, mas turismo segue 16% abaixo do nível pré-pandemia",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/16/indias-visa-overhaul-fixes-the-easy-part-of-its-tourism-problem/",
+     "publicado_em": "2026-11-16",
+     "resumo": "O Ministério do Interior da Índia reduziu as categorias principais de visto de 13 para nove, as subcategorias de 49 para 23 e cortou em até 70% as informações exigidas nos formulários; o novo sistema deve entrar em vigor até o fim de 2026. O V-1 permite múltiplas entradas e estadias de até 30 dias para turismo, reuniões de negócios, consultas médicas e retiros de bem-estar; as chegadas de turistas estrangeiros foram de 9,2 milhões em 2025, cerca de 16% abaixo de 2019.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Fux leva decisão sobre transição do fim da escala 6x1 a julgamento presencial no STF",
+     "fonte": "O Liberal",
+     "url": "https://www.oliberal.com/economia/fux-pede-destaque-e-leva-decisao-de-dino-sobre-fim-da-escala-6x1-a-julgamento-presencial-no-stf-1.1194413",
+     "publicado_em": "2026-11-14",
+     "resumo": "Luiz Fux pediu destaque e interrompeu o julgamento virtual da decisão de Flávio Dino, que manteve o início da transição para o fim da escala 6x1 em 16 de dezembro. A análise da liminar irá ao plenário físico; Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes haviam acompanhado o relator, que retirou restrições temporais semanais e mensais para a concessão de folgas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Alckmin diz que projeto de ajuste fiscal vai na direção correta e espera votação na Câmara nesta semana",
+     "fonte": "g1",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
+     "publicado_em": "2026-11-15",
+     "resumo": "Geraldo Alckmin afirmou que o projeto de ajuste fiscal do governo vai na direção correta e disse esperar sua votação na Câmara nesta semana. O texto-base já havia sido aprovado pelo Senado.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Pará reconhece emergência em 61 municípios afetados por incêndios florestais",
+     "fonte": "Agência Pará",
+     "url": "https://agenciapara.com.br/noticia/80595/governo-federal-reconhece-situacao-de-emergencia-em-61-municipios-paraenses-afetados-por-incendios-florestais",
+     "publicado_em": "2026-11-15",
+     "resumo": "O reconhecimento federal permite que as prefeituras dos 61 municípios solicitem recursos para defesa civil; outros 50 municípios do Pará também estão em emergência por queimadas e estiagem. O governo informou que duas aeronaves de grande porte, com capacidade de transportar água, foram autorizadas para reforçar o combate ao fogo.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café sobe mais de 1% em Nova York e recupera parte das perdas",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431396-cafe-sobe-mais-de-1-em-nova-york-nesta-2-e-inicia-semana-recuperando-parte-das-perdas-recentes.html",
+     "publicado_em": "2026-11-16",
+     "resumo": "Os futuros do arábica abriram a semana em alta na ICE Futures US: o contrato dezembro/26 subia 1,18%, a 281,95 centavos de dólar por libra-peso, e março/27 avançava 0,95%, a 276,10 centavos. O mercado acompanha expectativas de melhora da oferta brasileira, estoques certificados, clima nas regiões produtoras e comportamento do dólar.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Chuvas atípicas e El Niño levam preço do tomate ao maior patamar histórico",
+     "fonte": "g1",
+     "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/chuvas-atipicas-e-el-nino-fazem-preco-do-tomate-disparar-e-atingir-maior-patamar-historico-no-brasil.ghtml",
+     "publicado_em": "2026-11-15",
+     "resumo": "Chuvas atípicas e o fenômeno El Niño fizeram o preço do tomate disparar no Brasil, com alta de até 181%, segundo reportagem do Fantástico. Em Tocantins, um comerciante relatou ter pago mais de R$ 100 por 4,7 kg do produto.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "AAA projeta 81,5 milhões de viajantes no Thanksgiving, primeira queda desde a recessão de 2008",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/16/thanksgiving-travel-decline-aaa/",
+     "publicado_em": "2026-11-16",
+     "resumo": "A AAA projeta 81,5 milhões de americanos viajando ao menos 50 milhas de casa entre 24 e 30 de novembro, queda de 0,1% ante os 81,6 milhões de 2025 e a primeira redução da projeção do feriado desde a recessão de 2008, excluindo 2020. A gasolina está perto de US$ 4 por galão, a tarifa aérea doméstica média de ida e volta é de US$ 402, alta de 31%, e viagens de carro e aéreas recuam 0,3% e 0,2%, enquanto trem, ônibus e cruzeiros crescem cerca de 4%.",
+     "tipo": "estudo",
+     "idioma_original": "en"
+    },
+    {
+     "titulo": "Campo Futuro: seis de 14 modelos de café não cobrem o custo total",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431223-cafeicultores-encerram-2026-com-margens-apertadas-e-podem-enfrentar-cenario-ainda-pior-em-2027-aponta-campo-futuro.html",
+     "publicado_em": "2026-11-12",
+     "resumo": "O levantamento da CNA e do Senar mostrou que oito dos 14 modelos analisados cobriram o Custo Total com preços atualizados até outubro; uma queda de 10% nos preços reduziria esse número para três, e uma redução de 20% na produtividade deixaria apenas dois. No arábica mecanizado, o custo total médio foi de R$ 1.237 por saca contra preço médio de R$ 1.594; no canéfora, R$ 932 ficou abaixo do custo total de R$ 1.059.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 17
+}

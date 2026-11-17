@@ -1,0 +1,210 @@
+{
+ "id": "2026-11-17",
+ "data": "2026-11-17",
+ "semanal": false,
+ "numero": 22,
+ "manchete": "Turismo internacional acelera, enquanto clima e interrupções em hubs exigem controle operacional",
+ "resumo_executivo": [
+  "O Brasil superou em outubro a meta anual de turistas internacionais de 2026: foram 7.594.425 visitantes, com 71% chegando de avião; o Pará registrou alta de 29,6% nas entradas.",
+  "Tempestades com avisos laranja atingem áreas do Norte, Nordeste, Centro-Oeste, Sudeste e Sul até quarta-feira (18), enquanto mpox soma 396 casos confirmados e uma morte no Rio de Janeiro em 2026.",
+  "Greve ferroviária na Espanha, restrições de voos em Manila, fechamento do aeroporto de Nápoles e cancelamentos da Etihad exigem confirmação individual de itinerários internacionais.",
+  "A hotelaria combina expansão de demanda com pressão de custos e retenção de receita; café, câmbio, regulação paraense e editais de eventos e turismo completam as decisões do dia."
+ ],
+ "alertas": [
+  {
+   "titulo": "Tempestades e granizo atingem várias regiões do Brasil",
+   "fonte": "INMET",
+   "url": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-ter%C3%A7a-feira-17-e-quarta-feira-18",
+   "publicado_em": "2026-11-16",
+   "categoria": "clima",
+   "local": "Sul do Pará, Tocantins, Bahia, norte de Goiás, norte de Minas Gerais e áreas das regiões Norte, Nordeste, Centro-Oeste, Sudeste e Sul",
+   "periodo": "17–18/11/2026",
+   "resumo": "O INMET prevê chuvas intensas e tempestades em áreas do Norte, Nordeste, Centro-Oeste e Sudeste, com acumulados que podem superar 50 mm em 24 horas. Há aviso laranja para tempestades no centro e sul de Tocantins, na Bahia, no norte de Goiás e no norte de Minas Gerais; no Sul, há possibilidade de granizo e ventos fortes.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Mpox leva o Rio de Janeiro a atualizar dados diariamente",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/mpox-com-quase-400-casos-rio-passa-atualizar-diariamente-os-dados",
+   "publicado_em": "2026-11-16",
+   "categoria": "saude",
+   "local": "Estado do Rio de Janeiro, com concentração no município do Rio",
+   "periodo": "A partir de 16/11/2026; dados referentes a 2026",
+   "resumo": "A Secretaria Estadual de Saúde passou a atualizar diariamente os dados de mpox. O estado tinha 396 casos confirmados, uma morte e 281 casos em investigação em 2026; as notificações semanais passaram de 13 para 206 entre a semana de 13 a 19 de setembro e a de 8 a 14 de novembro.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Greve da Renfe reduz trens em toda a Espanha nesta terça-feira",
+   "fonte": "Travel Monitor",
+   "url": "https://www.travelmonitor.com.au/daily-watch-list-what-is-affecting-travel-today-17-november-2026/",
+   "publicado_em": "2026-11-17",
+   "categoria": "greve",
+   "local": "Espanha",
+   "periodo": "17/11/2026, das 00h às 23h59",
+   "resumo": "Funcionários da Renfe estão em greve nesta terça-feira. Os serviços mínimos exigem 72% dos trens de alta velocidade e longa distância, 65% dos trens regionais de média distância, 75% dos trens de subúrbio nos horários de pico e 50% no restante do dia.",
+   "severo": false,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Etihad cancela voos para Riade e Dammam até 19 de novembro",
+   "fonte": "Travel Monitor",
+   "url": "https://www.travelmonitor.com.au/daily-watch-list-what-is-affecting-travel-today-17-november-2026/",
+   "publicado_em": "2026-11-17",
+   "categoria": "outro",
+   "local": "Rotas Abu Dhabi–Riade e Abu Dhabi–Dammam",
+   "periodo": "Até 19/11/2026",
+   "resumo": "A Etihad informou que todos os voos de passageiros e de carga entre Abu Dhabi e Riade e entre Abu Dhabi e Dammam estão cancelados até quinta-feira (19). A companhia informou que a programação pode mudar.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Voos de Manila são cancelados ou remarcados durante a Cúpula da Asean",
+   "fonte": "Travel Monitor",
+   "url": "https://www.travelmonitor.com.au/daily-watch-list-what-is-affecting-travel-today-17-november-2026/",
+   "publicado_em": "2026-11-17",
+   "categoria": "aeroporto",
+   "local": "Manila, aeroporto internacional Ninoy Aquino (NAIA), Filipinas",
+   "periodo": "14–18/11/2026",
+   "resumo": "A Philippine Airlines cancelou ou remarcou voos domésticos e internacionais de e para Manila entre 14 e 18 de novembro, durante a chegada de delegados para a 49ª Cúpula da Asean. O Departamento de Transportes filipino informou que mais de 300 voos são afetados; há opção de remarcação sem multa, reembolso integral ou crédito de viagem.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Aeroporto de Nápoles permanece fechado para obras na pista",
+   "fonte": "Travel Monitor",
+   "url": "https://www.travelmonitor.com.au/daily-watch-list-what-is-affecting-travel-today-17-november-2026/",
+   "publicado_em": "2026-11-17",
+   "categoria": "aeroporto",
+   "local": "Aeroporto de Nápoles (Capodichino), Itália",
+   "periodo": "1–30/11/2026",
+   "resumo": "O aeroporto de Nápoles está fechado para obras de requalificação da pista. Parte do tráfego foi transferida para o aeroporto Salerno Costa d’Amalfi, e foram adicionados ônibus e serviços entre Nápoles, Salerno e os terminais ferroviários.",
+   "severo": true,
+   "idioma_original": "en"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Brasil supera meta de turistas internacionais de 2026 com dois meses de antecedência",
+     "fonte": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-alcanca-meta-de-turismo-internacional-de-2026",
+     "publicado_em": "2026-11-16",
+     "resumo": "De janeiro a outubro, o Brasil recebeu 7.594.425 visitantes estrangeiros, superando a meta anual de 7,5 milhões. Sete em cada dez turistas (71%) chegaram de avião; os gastos de janeiro a setembro somaram mais de US$ 8,38 bilhões. O Pará registrou alta de 29,6% nas entradas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Consolidador espanhol cresce 88%, impulsionado pelas operações aéreas",
+     "fonte": "Hosteltur",
+     "url": "https://hosteltur.com/180014_vendittur-despega-con-fuerza-los-vuelos-impulsan-su-crecimiento-un-88.html",
+     "publicado_em": "2026-11-17",
+     "resumo": "A plataforma B2B Vendittur encerrou os dez primeiros meses de 2026 com alta de 88% nos serviços contratados. O segmento aéreo cresceu 194% e representa 62% das operações; a empresa passou de 250 para mais de 300 agências cadastradas, superou 1.000 usuários e tem catálogo hoteleiro acima de 1 milhão de estabelecimentos.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    },
+    {
+     "titulo": "Grupo Adani transforma aeroportos indianos em plataforma para novos hotéis",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/16/adani-turns-its-airports-into-a-hotel-business/",
+     "publicado_em": "2026-11-16",
+     "resumo": "O Adani Group assinou acordos com a Indian Hotels Company e a IHG Hotels & Resorts para construir cerca de 3.500 quartos nos oito aeroportos que administra, usando terrenos próprios e deixando a operação com as redes hoteleiras. O plano inclui oito hotéis com mais de 2.000 quartos em Mumbai, Ahmedabad, Lucknow e Guwahati e cinco hotéis com quase 1.500 quartos em outras cidades.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    },
+    {
+     "titulo": "Hotelaria dos Estados Unidos retém parcela menor do gasto dos hóspedes",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/16/u-s-hotels-are-keeping-less-and-less-of-every-guest-dollar/",
+     "publicado_em": "2026-11-16",
+     "resumo": "A receita por quarto disponível nos Estados Unidos deve subir 4,4% em 2026, mas despesas projetadas pela Kalibri crescem de 5% a 10% ao ano, contra crescimento do RevPAR de estável a 3%. A retenção de receita caiu 1,11 ponto percentual em 2025, o que representou US$ 2,3 bilhões e quase US$ 30 bilhões em valor de ativos; o custo de construção subiu cerca de 50% em cinco anos.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Cidade do Panamá busca ser base latino-americana de associações internacionais",
+     "fonte": "Skift Meetings",
+     "url": "https://meetings.skift.com/2026/11/16/panama-wants-to-become-latin-americas-home-for-international-associations",
+     "publicado_em": "2026-11-16",
+     "resumo": "O Panamá apresentou a iniciativa Panama Association Hub para atrair escritórios regionais de associações internacionais, com apoio do City of Knowledge e mudanças no marco legislativo. O congresso da ICCA reuniu 1.293 delegados de 80 países, e o Panama Convention Center já realizou mais de 400 eventos em cinco anos, com 85 eventos reservados ou em negociação final para 2027.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Dólar sobe 2,15% e fecha a R$ 5,7767, maior nível em 19 meses",
+     "fonte": "Valor Investe",
+     "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/16/ibovespa-cai-quase-2percent-e-dolar-vai-a-r-577-com-ruidos-sobre-lula-4-e-fuga-de-estrangeiros.ghtml",
+     "publicado_em": "2026-11-16",
+     "resumo": "O dólar à vista subiu 2,15% e fechou a R$ 5,7767, maior patamar desde 17 de abril de 2025. O Ibovespa caiu quase 2%, em sessão pressionada por dúvidas sobre a composição do próximo governo, saída de investidores estrangeiros e incertezas sobre o pacote fiscal no Congresso.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Pará abre credenciamento para 875 autorizações de transporte intermunicipal de pequeno porte",
+     "fonte": "Agência Pará",
+     "url": "https://agenciapara.com.br/noticia/80612/artran-abre-credenciamento-para-operadores-do-transporte-intermunicipal-de-pequeno-porte-no-para",
+     "publicado_em": "2026-11-16",
+     "resumo": "A Artran abriu inscrições do Processo Seletivo 001/2026, com 875 autorizações para operadores autônomos de lotação de pequeno porte. O nordeste paraense concentra 482 autorizações (55%) e a Região Metropolitana de Belém, 131 (15%); as inscrições vão até 27 de novembro e as autorizações terão validade de cinco anos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café arábica sobe em Nova York e preços físicos avançam até 3,49% no Brasil",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431466-cafe-arabica-sobe-em-nova-york-com-atencao-aos-estoques-da-ice-precos-avancam-ate-3-5-no-br.html",
+     "publicado_em": "2026-11-16",
+     "resumo": "Os contratos futuros do arábica avançaram em Nova York, sustentados pela atenção aos estoques certificados da ICE. No mercado físico brasileiro, os preços subiram até 3,49%; em Machado (MG), a saca de 60 quilos chegou a R$ 1.780,00, e em Guaxupé (MG), a R$ 1.802,00.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Levantamento da Livelo aponta São Paulo e Lisboa como destinos mais buscados em 2026",
+     "fonte": "Livelo / PR Newswire",
+     "url": "https://prnewswire.com/br/comunicados-para-a-imprensa/sao-paulo-e-lisboa-lideram-buscas-por-destinos-de-viagem-na-livelo-302940595.html",
+     "publicado_em": "2026-11-16",
+     "resumo": "Levantamento com buscas realizadas entre janeiro e setembro de 2026, em uma plataforma com mais de 60 milhões de clientes, colocou São Paulo no topo do ranking nacional e Lisboa no internacional. Para dezembro e janeiro, Orlando lidera as intenções internacionais, enquanto Recife, Salvador e Fortaleza concentram a procura doméstica no Nordeste.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Hotel Report 2026: Foz do Iguaçu cresce 16,3% em diárias e 18,8% em tarifa média",
+     "fonte": "Hotelier News",
+     "url": "https://hoteliernews.com.br/hotel-report-foz-do-iguacu-ganha-volume-sem-ceder-preco/",
+     "publicado_em": "2026-11-12",
+     "resumo": "O levantamento da Omnibees com o Hotelier News mostra que, entre janeiro e setembro, Foz do Iguaçu cresceu 16,3% em room nights e 18,8% na tarifa média ante 2025. No Paraná, as altas foram de 11,1% em diárias e 15,7% em tarifa, contra médias nacionais de 5,1% e 6%; a diária média de Foz chegou a R$ 618 em 2026.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 25
+}

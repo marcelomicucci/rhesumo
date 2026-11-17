@@ -12,11 +12,11 @@
 
 ---
 
-### Hoje no Rhesumo · 16/11/2026
+### Hoje no Rhesumo · 17/11/2026
 
-> **Clima e aviação exigem atenção operacional, enquanto trabalho, café e editais abrem decisões para o Grupo Rhes**
+> **Turismo internacional acelera, enquanto clima e interrupções em hubs exigem controle operacional**
 >
-> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-16)
+> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-17)
 
 ---
 
@@ -40,8 +40,8 @@ Pará, Amazônia & Sustentabilidade · Café & Foodservice · Estudos & Pesquisa
 
 ## Uma memória do turismo
 
-Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **21 edições**, **312 notícias**
-e **93 alertas de viagem**, de **84 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
+Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **22 edições**, **325 notícias**
+e **99 alertas de viagem**, de **88 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
 frase exata, período, seção, fonte, tipo (notícia, estudo, alerta) e idioma original.
 
 ## Dados abertos
@@ -56,13 +56,13 @@ Tudo está disponível em formatos simples, para ler ou reutilizar:
 
 ## Últimas edições
 
+- [17/11/2026](edicoes/2026/11/2026-11-17.md) — Turismo internacional acelera, enquanto clima e interrupções em hubs exigem controle operacional
 - [16/11/2026](edicoes/2026/11/2026-11-16.md) — Clima e aviação exigem atenção operacional, enquanto trabalho, café e editais abrem decisões para o Grupo Rhes
 - [14/11/2026 · Rhesumo da Semana](edicoes/2026/11/semana-2026-11-14.md) — mobilidade e tecnologia em ajuste, com oportunidades na Amazônia e nos eventos
 - [13/11/2026](edicoes/2026/11/2026-11-13.md) — Alertas de clima, sistemas e cruzeiros dividem espaço com ajustes regulatórios e demanda do turismo
 - [12/11/2026](edicoes/2026/11/2026-11-12.md) — Aviação ajusta distribuição enquanto clima e COP31 pressionam a operação
 - [11/11/2026](edicoes/2026/11/2026-11-11.md) — Greves e clima pressionam a mobilidade, enquanto IA avança nas viagens corporativas
 - [10/11/2026](edicoes/2026/11/2026-11-10.md) — Interrupções de viagem e transição trabalhista exigem atenção, enquanto IA, cruzeiros e eventos ampliam oportunidades
-- [09/11/2026](edicoes/2026/11/2026-11-09.md) — Greves e clima elevam a atenção operacional enquanto turismo, IA e gestão de custos avançam
 
 [Ver todas as edições →](edicoes/README.md)
 

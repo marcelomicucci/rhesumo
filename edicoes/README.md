@@ -5,6 +5,7 @@
 
 ## Novembro de 2026
 
+- [18/11/2026](2026/11/2026-11-18.md) — Aviação reforça a alta temporada enquanto tecnologia, tributos e infraestrutura redesenham a operação
 - [17/11/2026](2026/11/2026-11-17.md) — Turismo internacional acelera, enquanto clima e interrupções em hubs exigem controle operacional
 - [16/11/2026](2026/11/2026-11-16.md) — Clima e aviação exigem atenção operacional, enquanto trabalho, café e editais abrem decisões para o Grupo Rhes
 - [14/11/2026 · Rhesumo da Semana](2026/11/semana-2026-11-14.md) — mobilidade e tecnologia em ajuste, com oportunidades na Amazônia e nos eventos

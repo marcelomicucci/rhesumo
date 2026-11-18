@@ -1,0 +1,165 @@
+{
+ "id": "2026-11-18",
+ "data": "2026-11-18",
+ "semanal": false,
+ "numero": 23,
+ "manchete": "Aviação reforça a alta temporada enquanto tecnologia, tributos e infraestrutura redesenham a operação",
+ "resumo_executivo": [
+  "Fortaleza terá mais de 170 voos extras entre dezembro de 2026 e janeiro de 2027, com reforços de Azul, Latam e Gol; a oferta também cresce em Jericoacoara e no Nordeste.",
+  "Falhas de sistemas continuam sendo risco operacional para viagens: uma pane da United durou cerca de 100 minutos e coincidiu com aproximadamente 600 atrasos registrados na operação da companhia nos EUA.",
+  "A reforma tributária entra no planejamento de hotéis, restaurantes e serviços: o ministro da Fazenda defendeu CBS efetiva de 8,5% e redução de 40% para restaurantes e hotéis, mas a alíquota ainda depende de definição do Senado.",
+  "O STF manteve a transição para a escala 5x2 a partir de 16 de dezembro, com jornada de 42 horas semanais no primeiro estágio, exigindo revisão de escalas e custos de pessoal.",
+  "A agenda combina expansão da conectividade turística com oportunidades concretas: o Terminal Hidroviário de Mocajuba será entregue em dezembro e dois municípios abriram licitações de agenciamento de viagens."
+ ],
+ "alertas": [
+  {
+   "titulo": "Alerta laranja de tempestade em sete estados",
+   "fonte": "Clima ao Vivo",
+   "url": "https://www.climaaovivo.com.br/noticias/alerta-laranja-do-inmet-coloca-sete-estados-sob-risco-de-tempestade-e-ventos-de-ate-100-km-h-nesta-terca-17-11-26",
+   "publicado_em": "2026-11-17",
+   "categoria": "clima",
+   "local": "Norte de Minas Gerais, Bahia, centro-sul do Maranhão e do Piauí, Goiás, Mato Grosso e Tocantins; alerta amarelo em outras áreas de Minas Gerais, Espírito Santo, Distrito Federal e Mato Grosso do Sul",
+   "periodo": "17/11/2026, até 23h59",
+   "resumo": "O INMET emitiu alerta laranja para tempestades, com previsão de chuva de 30 a 60 mm por hora ou de 50 a 100 mm no dia, ventos de 60 a 100 km/h e queda de granizo. O aviso aponta risco de alagamentos, queda de árvores e interrupção de energia.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "United normaliza pane, mas atrasos persistem nos EUA",
+   "fonte": "TecStudio",
+   "url": "https://www.tecstudio.com.br/tecnologia/falha-da-united-airlines-atrasou-cerca-de-600-voos-nos-eua/",
+   "publicado_em": "2026-11-17",
+   "categoria": "sistemas",
+   "local": "Aeroportos dos Estados Unidos, com atenção a grandes hubs",
+   "periodo": "16 a 18/11/2026",
+   "resumo": "Uma falha tecnológica da United durou cerca de 100 minutos e impediu que alguns aviões recebessem informações necessárias para decolar. A FlightAware registrou aproximadamente 600 voos da companhia atrasados naquela noite; a empresa disse que resolveu o problema e não identificou incidente de cibersegurança.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Tripulantes da Azores Airlines convocam greve",
+   "fonte": "Público",
+   "url": "https://www.publico.pt/2026/11/17/economia/noticia/tripulantes-cabine-azores-airlines-vao-greve-dezembro-2195303",
+   "publicado_em": "2026-11-17",
+   "categoria": "greve",
+   "local": "Rotas de e para os Açores operadas pela Azores Airlines/SATA Internacional",
+   "periodo": "1º a 3/12/2026",
+   "resumo": "O SNPVAC convocou greve dos tripulantes de cabine da Azores Airlines/SATA Internacional entre 1º e 3 de dezembro. O sindicato cita incumprimento do acordo de empresa, tratamento diferenciado e falhas na comunicação de cancelamentos; a paralisação pode afetar as rotas de e para os Açores.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Fortaleza terá mais de 170 voos extras entre dezembro e janeiro",
+     "fonte": "Diário do Nordeste",
+     "url": "https://diariodonordeste.verdesmares.com.br/negocios/alta-temporada-vai-movimentar-ao-menos-170-voos-extras-em-fortaleza-1.3805559",
+     "publicado_em": "2026-11-17",
+     "resumo": "A malha aérea de Fortaleza receberá mais de 170 voos extras entre dezembro de 2026 e janeiro de 2027. A Latam elevará Congonhas–Fortaleza de 24 frequências semanais em novembro para 28 em dezembro e 31 em janeiro, estreará Fortaleza–Goiânia e aumentará Fortaleza–Lisboa de duas para cinco frequências semanais. A Azul programou 72 voos extras entre 21 de dezembro e 4 de janeiro, com mais de 11,5 mil assentos adicionais; a Gol informou alta de 40% na oferta de assentos em Fortaleza e de 126% em Jericoacoara.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Gol fecha acordo interline com Alaska Airlines e amplia conexões nos Estados Unidos",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/gol-fecha-acordo-com-alaska-airlines-e-amplia-conexoes-nos-estados-unidos_233733.html",
+     "publicado_em": "2026-11-17",
+     "resumo": "O acordo interline permite combinar voos da Gol e da Alaska Airlines em um único bilhete, com acesso a 168 rotas operadas pela companhia norte-americana. A parceria amplia as opções de conexão entre o Brasil e destinos dos Estados Unidos atendidos pela Alaska.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Brasil registra mais de 7,5 milhões de chegadas internacionais até outubro",
+     "fonte": "Secretaria de Comunicação Social",
+     "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/brasil-amplia-presenca-no-mercado-internacional-e-registra-recordes-no-turismo",
+     "publicado_em": "2026-11-17",
+     "resumo": "O Brasil recebeu 7.594.425 turistas estrangeiros entre janeiro e outubro de 2026, segundo maior resultado da série histórica para o período. Entre janeiro e setembro, os visitantes deixaram R$ 45,6 bilhões na economia; as receitas com turistas estrangeiros ultrapassaram US$ 8,38 bilhões, alta de 10,17% sobre o mesmo período de 2025. A Região Norte registrou 209 mil chegadas, com alta de 149,5% em relação a 2023; o Pará teve alta de 100,6%.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Falha da United atrasa cerca de 600 voos nos Estados Unidos",
+     "fonte": "TecStudio",
+     "url": "https://www.tecstudio.com.br/tecnologia/falha-da-united-airlines-atrasou-cerca-de-600-voos-nos-eua/",
+     "publicado_em": "2026-11-17",
+     "resumo": "Uma falha tecnológica da United atrapalhou partidas em aeroportos dos Estados Unidos na segunda-feira, 16 de novembro de 2026. O problema durou cerca de 100 minutos e impediu que alguns aviões recebessem informações necessárias para decolar; a FlightAware registrou aproximadamente 600 voos da companhia atrasados naquela noite. A United informou que resolveu a pane e que não havia indícios de incidente de cibersegurança.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Aeroporto de Dubai caminha para queda de 26% no tráfego",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/17/dubai-airport-heads-for-26-traffic-drop-as-nearly-half-its-airlines-stay-away/",
+     "publicado_em": "2026-11-17",
+     "resumo": "O Aeroporto Internacional de Dubai caminha para cerca de 70 milhões de passageiros em 2026, queda de 26% ante os 95,2 milhões de 2025. Nos nove primeiros meses, o terminal movimentou 50,4 milhões de passageiros, recuo de 28,1%, e passou a operar com 57 companhias, contra 108 no ano anterior. Hubs rivais absorveram parte do tráfego de conexão perdido por Dubai.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "CBS efetiva será de 8,5%, com corte de 40% para hotéis e restaurantes, diz ministro",
+     "fonte": "Senado Notícias",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo",
+     "publicado_em": "2026-11-17",
+     "resumo": "O ministro da Fazenda, Dario Durigan, previu alíquota efetiva de 8,5% para a CBS em 2027. A audiência no Senado registrou reduções de 40% para restaurantes e hotéis, 60% para cultura e arte e 70% para locação de imóveis. O Senado tem até 15 de dezembro para definir a alíquota; sem decisão, será adotada provisoriamente a referência de 11,3% do TCU.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Dino leva mérito da escala 5x2 ao plenário do STF e mantém transição para 16 de dezembro",
+     "fonte": "CBN",
+     "url": "https://cbn.globo.com/politica/noticia/2026/11/17/dino-mantem-transicao-para-escala-5x2-ate-julgamento-presencial-no-stf.ghtml",
+     "publicado_em": "2026-11-17",
+     "resumo": "Flávio Dino determinou que o plenário presencial do STF julgue o mérito das ações sobre o fim da escala 6x1, após pedido de destaque interromper o julgamento virtual. Até o julgamento, seguem em vigor as cautelares que mantêm o início da transição em 16 de dezembro, com jornada reduzida de 44 para 42 horas semanais; sem acordo coletivo, as categorias poderão cumprir até 8h24 por dia durante a transição.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Terminal Hidroviário de Mocajuba será entregue em dezembro",
+     "fonte": "Agência Pará",
+     "url": "https://agenciapara.com.br/noticia/80632/com-avanco-das-obras-terminal-hidroviario-de-mocajuba-sera-entregue-em-dezembro",
+     "publicado_em": "2026-11-17",
+     "resumo": "As obras do Terminal Hidroviário de Cargas e Passageiros de Mocajuba, no Baixo Tocantins, avançam para a finalização e o equipamento será entregue em dezembro. A estrutura busca oferecer mais segurança, conforto e acessibilidade no embarque e desembarque; o governo informa que já entregou 33 terminais hidroviários e portos desde 2019.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Arábica sobe 1,14% e fecha a R$ 1.688 a saca",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/cotacoes/cafe/indicador-cepea-esalq-cafe-arabica",
+     "publicado_em": "2026-11-17",
+     "resumo": "O indicador Cepea/Esalq do café arábica fechou a R$ 1.688,00 a saca de 60 kg em 17 de novembro, alta de 1,14% sobre o dia anterior.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "USDA eleva safra de café do Brasil 2026/27 para 72,5 milhões de sacas",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431556-adido-do-usda-eleva-previsao-de-safra-de-cafe-do-brasil",
+     "publicado_em": "2026-11-17",
+     "resumo": "O escritório do USDA em Brasília elevou a estimativa da safra brasileira de café 2026/27 para 72,5 milhões de sacas, alta de 0,8% sobre a projeção anterior. A produção de arábica foi revisada para 49,2 milhões de sacas, aumento de 29,5% sobre 2025/26, enquanto o canéfora caiu para 23,3 milhões por causa do clima adverso no Espírito Santo. O USDA manteve as exportações em 49 milhões de sacas, alta de 26% no ciclo.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 24
+}

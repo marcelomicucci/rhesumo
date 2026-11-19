@@ -12,11 +12,11 @@
 
 ---
 
-### Hoje no Rhesumo · 18/11/2026
+### Hoje no Rhesumo · 19/11/2026
 
-> **Aviação reforça a alta temporada enquanto tecnologia, tributos e infraestrutura redesenham a operação**
+> **Clima pressiona a operação aérea enquanto conectividade, IA e novas regras redesenham o turismo**
 >
-> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-18)
+> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-19)
 
 ---
 
@@ -40,8 +40,8 @@ Pará, Amazônia & Sustentabilidade · Café & Foodservice · Estudos & Pesquisa
 
 ## Uma memória do turismo
 
-Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **23 edições**, **337 notícias**
-e **102 alertas de viagem**, de **94 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
+Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **24 edições**, **355 notícias**
+e **107 alertas de viagem**, de **100 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
 frase exata, período, seção, fonte, tipo (notícia, estudo, alerta) e idioma original.
 
 ## Dados abertos
@@ -56,13 +56,13 @@ Tudo está disponível em formatos simples, para ler ou reutilizar:
 
 ## Últimas edições
 
+- [19/11/2026](edicoes/2026/11/2026-11-19.md) — Clima pressiona a operação aérea enquanto conectividade, IA e novas regras redesenham o turismo
 - [18/11/2026](edicoes/2026/11/2026-11-18.md) — Aviação reforça a alta temporada enquanto tecnologia, tributos e infraestrutura redesenham a operação
 - [17/11/2026](edicoes/2026/11/2026-11-17.md) — Turismo internacional acelera, enquanto clima e interrupções em hubs exigem controle operacional
 - [16/11/2026](edicoes/2026/11/2026-11-16.md) — Clima e aviação exigem atenção operacional, enquanto trabalho, café e editais abrem decisões para o Grupo Rhes
 - [14/11/2026 · Rhesumo da Semana](edicoes/2026/11/semana-2026-11-14.md) — mobilidade e tecnologia em ajuste, com oportunidades na Amazônia e nos eventos
 - [13/11/2026](edicoes/2026/11/2026-11-13.md) — Alertas de clima, sistemas e cruzeiros dividem espaço com ajustes regulatórios e demanda do turismo
 - [12/11/2026](edicoes/2026/11/2026-11-12.md) — Aviação ajusta distribuição enquanto clima e COP31 pressionam a operação
-- [11/11/2026](edicoes/2026/11/2026-11-11.md) — Greves e clima pressionam a mobilidade, enquanto IA avança nas viagens corporativas
 
 [Ver todas as edições →](edicoes/README.md)
 

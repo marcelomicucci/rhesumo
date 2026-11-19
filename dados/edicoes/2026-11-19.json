@@ -1,0 +1,226 @@
+{
+ "id": "2026-11-19",
+ "data": "2026-11-19",
+ "semanal": false,
+ "numero": 24,
+ "manchete": "Clima pressiona a operação aérea enquanto conectividade, IA e novas regras redesenham o turismo",
+ "resumo_executivo": [
+  "O INMET prevê tempestades na véspera e no feriado em grande parte do Brasil, com avisos amarelos e acumulados acima de 50 mm em 24 horas em áreas como MATOPIBA, sudeste do Pará, Centro-Oeste, Sudeste e Sul; São Paulo e os aeroportos de Miami e Fort Lauderdale já registraram impactos operacionais.",
+  "A conectividade regional avança com a nova rota Confins–Parnaíba da Azul e o acordo interline SKY–Avianca, mas a Gol adiou para o primeiro trimestre de 2027 a previsão de chegada dos cinco A330neo que sustentariam voos para Orlando e Paris.",
+  "A IA já responde por aproximadamente 8% das vendas da Despegar, enquanto a fusão Limber–PWI reúne operações que comercializam 52 milhões de ingressos por ano e projeta crescer 120% em três anos.",
+  "O dólar fechou a R$ 5,868, alta de 1,48%, e a Receita informou que a referência de 11,3% para a CBS valerá apenas em 2027, se confirmada, com recálculo anual a partir de 2028.",
+  "A agenda regulatória e climática ganhou prazos concretos: operadores aéreos acima de 10 mil toneladas de CO2 por ano devem entregar plano à Anac até 15 de dezembro, e o Brasil apresentou na COP31 o inventário de emissões e um guia de princípios regenerativos para o turismo."
+ ],
+ "alertas": [
+  {
+   "titulo": "INMET prevê tempestades em grande parte do Brasil no feriado",
+   "fonte": "Inmet",
+   "url": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-quinta-feira-19-e-sexta-feira-20",
+   "publicado_em": "2026-11-18",
+   "categoria": "clima",
+   "local": "MATOPIBA, sudeste do Pará, Mato Grosso, Goiás, Distrito Federal, Minas Gerais, Espírito Santo, Paraná, Santa Catarina e outras áreas do Brasil",
+   "periodo": "19 e 20/11/2026",
+   "resumo": "O INMET prevê calor, chuva e tempestades em grande parte do país, com avisos amarelos em áreas do Norte, Nordeste, Centro-Oeste, Sudeste e Sul. Os acumulados podem superar 50 mm em 24 horas, especialmente no MATOPIBA, sudeste do Pará, Centro-Oeste, Minas Gerais, Espírito Santo, Paraná e Santa Catarina.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Chuva altera voos no aeroporto de Congonhas",
+   "fonte": "CNN Brasil",
+   "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuva-causa-transtornos-em-sao-paulo-cidade-recebeu-80-do-volume-esperado/",
+   "publicado_em": "2026-11-18",
+   "categoria": "clima",
+   "local": "São Paulo, com atenção ao aeroporto de Congonhas e à Marginal Tietê",
+   "periodo": "18/11/2026",
+   "resumo": "A chuva provocou alagamentos, quedas de árvores e transtornos em Congonhas. A Gol informou que cinco voos foram alternados, a Azul cancelou dois voos entre Congonhas e Santos Dumont e a Latam relatou cancelamentos e alternâncias sem detalhar.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Tempestades provocam ground stops em Miami e Fort Lauderdale",
+   "fonte": "Latin Times",
+   "url": "https://www.latintimes.com/weather-ground-stops-miami-fort-lauderdale-airports-601520",
+   "publicado_em": "2026-11-18",
+   "categoria": "clima",
+   "local": "Aeroportos de Miami e Fort Lauderdale, na Flórida (EUA)",
+   "periodo": "18/11/2026; alerta de enchente até 19/11/2026",
+   "resumo": "A FAA suspendeu chegadas a Fort Lauderdale entre 8h30 e 9h45 e a Miami entre 8h57 e 10h15 por trovoadas, baixa visibilidade e risco de alagamento. Um alerta de enchente seguia vigente para Miami-Dade, Broward e Palm Beach, com previsão de 2 a 4 polegadas de chuva.",
+   "severo": false,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Investigação da FAA segue sem causa raiz para a pane de roteadores",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
+   "publicado_em": "2026-11-18",
+   "categoria": "sistemas",
+   "local": "Rede de comunicações e dados de radar da FAA nos Estados Unidos",
+   "periodo": "Após a falha de 13/11/2026; investigação em 18/11/2026",
+   "resumo": "Investigadores reproduziram em laboratório a sobrecarga que derrubou o sistema da FAA, mas ainda não identificaram a causa raiz nos dois roteadores em análise; a paralisação de 13 de novembro durou mais de quatro horas.",
+   "severo": false,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Plus Ultra mantém Buenos Aires–Madri suspenso até 15 de dezembro",
+   "fonte": "La Nación",
+   "url": "https://www.lanacion.com.ar/economia/crece-la-incertidumbre-por-los-vuelos-de-plus-ultra-que-pasara-con-los-pasajes-comprados-nid18112026/",
+   "publicado_em": "2026-11-18",
+   "categoria": "outro",
+   "local": "Rota Buenos Aires–Madri, com passageiros em origem ou destino na Argentina e na Espanha",
+   "periodo": "Até 15/12/2026; reservas posteriores ainda sem definição",
+   "resumo": "A Plus Ultra informou que a interrupção da rota Buenos Aires–Madri se estenderá, em princípio, até 15 de dezembro. Passageiros com voos até essa data podem pedir reembolso, enquanto reservas posteriores ainda não aparecem como canceladas e permanecem sem definição.",
+   "severo": false,
+   "idioma_original": "es"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Azul inaugura rota Confins–Parnaíba com duas frequências semanais",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/11/azul-anuncia-voo-entre-confins-mg-e-parnaiba-pi-e-amplia-acesso-ao-litoral-piauiense_233779.html",
+     "publicado_em": "2026-11-18",
+     "resumo": "A Azul inaugurou a rota entre Confins e Parnaíba, operada duas vezes por semana, às quartas-feiras e aos sábados, com Embraer 195-E2 de 136 lugares. A ligação amplia a conectividade entre Minas Gerais e o litoral piauiense e o acesso ao Delta do Parnaíba e à Rota das Emoções.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Atraso dos A330neo deixa voos da Gol para Orlando e Paris sem data de venda",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/atraso-dos-a330neo-deixa-voos-da-gol-para-paris-e-orlando-sem-data_233778.html",
+     "publicado_em": "2026-11-18",
+     "resumo": "A Gol ainda não definiu quando abrirá as vendas dos voos Galeão–Orlando e Galeão–Paris. A chegada dos cinco Airbus A330-900neo, inicialmente prevista para o fim de 2026, foi transferida para o primeiro trimestre de 2027; a companhia citou baixa disponibilidade de instalações de manutenção, componentes e peças.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "SKY e Avianca abrem mais de 30 destinos em um único bilhete",
+     "fonte": "ATV (Peru)",
+     "url": "https://www.atv.pe/noticia/sky-avianca-anuncian-potenciar-conectividad-colombia-peru-chile/",
+     "publicado_em": "2026-11-18",
+     "resumo": "A SKY e a Avianca anunciaram acordo para ampliar a conectividade entre Colômbia, Peru e Chile, com acesso a mais de 30 destinos domésticos operados pela SKY no Peru e no Chile a partir de Bogotá.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Agente de IA da Despegar já responde por aproximadamente 8% das vendas",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/11/na-phocuswright-conference-despegar-mostra-como-ia-esta-mudando-a-distribuicao-de-viagens_233771.html",
+     "publicado_em": "2026-11-18",
+     "resumo": "Na Phocuswright Conference, a Despegar informou que sua agente de IA, Sofia, responde por aproximadamente 8% das vendas, volume equivalente ao de cerca de 400 lojas físicas na América Latina. A Prosus investe cerca de US$ 100 milhões por ano em IA, e a maior parte das transações da Sofia ainda envolve produtos individuais.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Limber e PWI unem operações de turismo e criam grupo de software para parques",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/11/grupo-limber-e-pwi-unem-operacoes-de-turismo-e-criam-gigante-de-software-para-parques_233766.html",
+     "publicado_em": "2026-11-18",
+     "resumo": "A Limber fundiu sua vertical de turismo com a PWI Sistemas; juntas, as operações comercializam 52 milhões de ingressos por ano em parques, atrações e destinos turísticos. O grupo projeta crescer 120% no segmento em três anos e iniciar expansão internacional em 2027, com oportunidades mapeadas no México, Argentina, Chile, Paraguai e Uruguai.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Dólar fecha a R$ 5,868, maior nível em 19 meses",
+     "fonte": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
+     "publicado_em": "2026-11-18",
+     "resumo": "O dólar comercial subiu 1,48% e fechou a R$ 5,868, na quinta alta consecutiva e no maior valor desde 15 de abril de 2025. O Ibovespa caiu 1,34%, aos 167.537,95 pontos, e o Banco Central realizou dois leilões de linha que somaram US$ 1 bilhão.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Alíquota de referência de 11,3% da CBS vale apenas em 2027, diz Receita",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
+     "publicado_em": "2026-11-18",
+     "resumo": "O secretário da Receita Federal afirmou que a alíquota de referência de 11,3% proposta pelo TCU para a CBS valerá apenas em 2027, se confirmada pelo Senado até 15 de dezembro. A partir de 2028, o percentual será recalculado ano a ano com base na arrecadação efetiva, podendo subir ou cair para preservar a carga tributária até 2032.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Anac regulamenta monitoramento e metas de redução de emissões da aviação doméstica",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/anac-aprova-regras-para-metas-de-reducao-de-emissoes-na-aviacao-domestica_233746.html",
+     "publicado_em": "2026-11-18",
+     "resumo": "A Resolução nº 820 regulamenta monitoramento, reporte, verificação e fiscalização das metas anuais de redução de emissões no ProBioQAV. Operadores que emitem mais de 10 mil toneladas de CO2 por ano devem enviar à Anac o Plano de Monitoramento de Emissões até 15 de dezembro de 2026; as metas obrigatórias começam em 1º de janeiro de 2027, com redução mínima de 1% no primeiro ano.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Brasil apresenta inventário de emissões e guia regenerativo do turismo na COP31",
+     "fonte": "Secom / Governo Federal",
+     "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/brasil-destaca-avancos-na-agenda-climatica-do-turismo-durante-cop31-na-turquia",
+     "publicado_em": "2026-11-18",
+     "resumo": "Durante o Dia do Turismo da COP31, o Brasil apresentou a conclusão da metodologia do Inventário de Emissões de Gases de Efeito Estufa do Turismo Brasileiro e o Guia com Princípios Regenerativos para a Ação Climática no Turismo. Os instrumentos seriam detalhados em agendas de 19 de novembro; o país preside em 2026 o Conselho Executivo da ONU Turismo e o Grupo de Trabalho sobre Turismo e Ação Climática no biênio 2026–2027.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café recua nas bolsas e no físico brasileiro",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431636-em-dia-de-pressao-geral-nas-commodities-cafe-tem-forte-recuo-nas-bolsas.amp.html",
+     "publicado_em": "2026-11-18",
+     "resumo": "O café teve perdas expressivas nas bolsas internacionais em um dia de aversão ao risco. No físico brasileiro, o arábica tipo 6 caiu para R$ 1.797 por saca na Cooxupé, recuo de 2,18%, e para R$ 1.680 em Varginha, queda de 2,33%; a alta do dólar a R$ 5,86 não sustentou os preços pagos aos produtores.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "IDET: 72,73% das empresas de turismo cresceram em outubro, mas pessimismo bate recorde",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/11/idet-panrotas-73-das-empresas-de-turismo-crescem-em-outubro-mas-pessimismo-avanca_233772.html",
+     "publicado_em": "2026-11-18",
+     "resumo": "No IDET Panrotas, 72,73% das 33 empresas analisadas cresceram em outubro ante outubro de 2025, com avanço médio de 22,44%, e 51,52% ampliaram a margem. Para os seis meses seguintes, 36,36% dos empresários esperam cenário pior ou muito pior, o maior índice de pessimismo da série; entre as TMCs, 54,55% esperam melhora.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Relatório TOURISE/Euromonitor: 59% usam IA para buscar viagens, mas só 12% delegariam a decisão",
+     "fonte": "Estado de Minas",
+     "url": "https://www.em.com.br/mundo-corporativo/2026/11/7541013-novo-relatorio-da-tourise-revela-como-as-expectativas-dos-viajantes-estao-mudando-as-regras-do-turismo-global.html",
+     "publicado_em": "2026-11-18",
+     "resumo": "O relatório O Viajante do Futuro, da TOURISE com a Euromonitor International, aponta que 59% dos usuários de IA generativa a utilizam para obter informações e recomendações de viagens, mas apenas 12% dos consumidores se sentem confortáveis em deixar a IA tomar decisões sozinha. O estudo recomenda facilitar busca e reserva por IA sem perder a confiança do viajante e o relacionamento com o cliente.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Venture capital no Brasil cresce 56,2% no terceiro trimestre e chega a US$ 609 milhões",
+     "fonte": "Radar Startups",
+     "url": "https://radarstartups.com.br/materia/venture-capital-no-brasil-salta-56-2-no-3-trimestre-e-chega/",
+     "publicado_em": "2026-11-18",
+     "resumo": "Os aportes em startups brasileiras somaram US$ 609 milhões no terceiro trimestre de 2026, alta de 56,2%, segundo levantamento da KPMG. No mesmo período, o mercado global recuou 28,5% e os Estados Unidos caíram 39,9%; os fundos priorizaram fintechs e ferramentas de IA embarcadas em softwares corporativos já existentes.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 30
+}

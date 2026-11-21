@@ -5,6 +5,7 @@
 
 ## Novembro de 2026
 
+- [21/11/2026 · Rhesumo da Semana](2026/11/semana-2026-11-21.md) — demanda e conectividade avançam, enquanto IA, regulação, clima e conflitos exigem resposta operacional
 - [19/11/2026](2026/11/2026-11-19.md) — Clima pressiona a operação aérea enquanto conectividade, IA e novas regras redesenham o turismo
 - [18/11/2026](2026/11/2026-11-18.md) — Aviação reforça a alta temporada enquanto tecnologia, tributos e infraestrutura redesenham a operação
 - [17/11/2026](2026/11/2026-11-17.md) — Turismo internacional acelera, enquanto clima e interrupções em hubs exigem controle operacional

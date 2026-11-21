@@ -1,0 +1,267 @@
+{
+ "id": "semana-2026-11-21",
+ "data": "2026-11-21",
+ "semanal": true,
+ "numero": 25,
+ "manchete": "demanda e conectividade avançam, enquanto IA, regulação, clima e conflitos exigem resposta operacional",
+ "resumo_executivo": [
+  "A demanda turística internacional e a conectividade aérea ampliaram alternativas para a operação de viagens e receptivo.",
+  "A inteligência artificial passou a ocupar espaço mais concreto na distribuição e na jornada de viagens, com impacto competitivo para TMCs e plataformas.",
+  "A reforma tributária e a transição para a escala 5x2 mantêm pressão sobre precificação, contratos, escalas e orçamento de hotéis, restaurantes, eventos e serviços.",
+  "Clima extremo, incêndios, conflitos e interrupções de infraestrutura reforçaram a necessidade de reconfirmar itinerários e revisar atividades externas.",
+  "Câmbio, café, parques, cruzeiros e editais no Norte e Nordeste combinaram pressão de custos com oportunidades comerciais para o Grupo Rhes."
+ ],
+ "alertas": [
+  {
+   "titulo": "Tempestades atingem o feriado e há aviso laranja no Sul e Sudeste",
+   "fonte": "Inmet",
+   "url": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-sexta-feira-20-s%C3%A1bado-21-domingo-22-e-segunda-feira-23",
+   "publicado_em": "2026-11-19",
+   "categoria": "clima",
+   "local": "Brasil; aviso laranja em áreas do Sul e do Sudeste, e aviso amarelo em áreas do Nordeste, Norte, Centro-Oeste e outras partes do Sul e Sudeste",
+   "periodo": "20–23/11/2026",
+   "resumo": "O feriado prolongado e a segunda-feira (23) terão chuva em todas as regiões do Brasil, com massa de ar quente e úmido e cavados favorecendo tempestades. Há aviso laranja de perigo para tempestades em áreas do Sul e do Sudeste e aviso amarelo em outras áreas. Em Belém, a máxima chega a 36 °C no sábado (21) e no domingo (22); em Teresina, pode atingir 40 °C.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Ataque russo atinge pontes em Kyiv e afeta serviços essenciais",
+   "fonte": "Kyiv Independent",
+   "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
+   "publicado_em": "2026-11-20",
+   "categoria": "conflito",
+   "local": "Kyiv, Ucrânia, e margem do rio Dnipro",
+   "periodo": "20/11/2026",
+   "resumo": "Um ataque russo com mísseis e drones durou horas na madrugada de 20 de novembro e matou ao menos nove pessoas. Três pontes em Kyiv foram danificadas, afetando energia, aquecimento e água; a Força Aérea ucraniana contabilizou 84 mísseis de cruzeiro, 404 drones de ataque e 27 mísseis balísticos, segundo Zelensky. Dois mísseis russos caíram em território polonês, segundo autoridades da Polônia.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Vazamentos de petroleiros fecham praias nos Emirados e ameaçam mergulho em Omã",
+   "fonte": "Skift",
+   "url": "https://skift.com/2026/11/20/oil-spills-affect-uae-oman-beaches-as-hormuz-strikes-go-on/",
+   "publicado_em": "2026-11-20",
+   "categoria": "conflito",
+   "local": "Praias dos Emirados Árabes Unidos e pontos de mergulho em Omã",
+   "periodo": "Desde 28/02/2026; dados de ataques até 19/11/2026",
+   "resumo": "Óleo de navios-tanque atacados no Estreito de Ormuz está atingindo praias dos Emirados Árabes Unidos e ameaça pontos de mergulho em Omã. Mais de 600 vazamentos foram identificados no Golfo desde o início da guerra entre Estados Unidos e Irã, em 28 de fevereiro, e houve mais de 160 ataques a petroleiros até 19 de novembro, segundo Greenpeace e Kpler. A ocupação hoteleira em Dubai caiu para 68,4% em outubro, 16,5 pontos abaixo de 84,9% um ano antes.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Incêndios mantêm 61 municípios do Pará em situação de emergência",
+   "fonte": "Agência Pará",
+   "url": "https://agenciapara.com.br/noticia/80595/governo-federal-reconhece-situacao-de-emergencia-em-61-municipios-paraenses-afetados-por-incendios-florestais",
+   "publicado_em": "2026-11-15",
+   "categoria": "clima",
+   "local": "61 municípios do Pará, além de outros 50 municípios já em emergência por queimadas e estiagem",
+   "periodo": "Desde 15/11; emergência estadual nas áreas atingidas por 180 dias",
+   "resumo": "O Governo Federal reconheceu a situação de emergência em 61 municípios paraenses afetados por incêndios florestais. O Pará também informou emergência de Nível II nas áreas atingidas, e duas aeronaves de grande porte foram autorizadas para reforçar o combate ao fogo.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Mpox leva o Rio de Janeiro a atualizar dados diariamente",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/mpox-com-quase-400-casos-rio-passa-atualizar-diariamente-os-dados",
+   "publicado_em": "2026-11-16",
+   "categoria": "saude",
+   "local": "Estado do Rio de Janeiro, com concentração no município do Rio",
+   "periodo": "A partir de 16/11/2026; dados referentes a 2026",
+   "resumo": "A Secretaria Estadual de Saúde passou a atualizar diariamente os dados de mpox. O estado tinha 396 casos confirmados, uma morte e 281 casos em investigação em 2026; as notificações semanais passaram de 13 para 206 entre a semana de 13 a 19 de setembro e a de 8 a 14 de novembro.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Aeroporto de Nápoles permanece fechado para obras na pista",
+   "fonte": "Travel Monitor",
+   "url": "https://www.travelmonitor.com.au/daily-watch-list-what-is-affecting-travel-today-17-november-2026/",
+   "publicado_em": "2026-11-17",
+   "categoria": "aeroporto",
+   "local": "Aeroporto de Nápoles (Capodichino), Itália",
+   "periodo": "1–30/11/2026",
+   "resumo": "O aeroporto de Nápoles está fechado para obras de requalificação da pista. Parte do tráfego foi transferida para o aeroporto Salerno Costa d’Amalfi, e foram adicionados ônibus e serviços entre Nápoles, Salerno e os terminais ferroviários.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Tripulantes da Azores Airlines convocam greve em dezembro",
+   "fonte": "Público",
+   "url": "https://www.publico.pt/2026/11/17/economia/noticia/tripulantes-cabine-azores-airlines-vao-greve-dezembro-2195303",
+   "publicado_em": "2026-11-17",
+   "categoria": "greve",
+   "local": "Rotas de e para os Açores operadas pela Azores Airlines/SATA Internacional",
+   "periodo": "1º–3/12/2026",
+   "resumo": "O SNPVAC convocou greve dos tripulantes de cabine da Azores Airlines/SATA Internacional entre 1º e 3 de dezembro. O sindicato cita incumprimento do acordo de empresa, tratamento diferenciado e falhas na comunicação de cancelamentos; a paralisação pode afetar as rotas de e para os Açores.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Plus Ultra mantém Buenos Aires–Madri suspenso até 15 de dezembro",
+   "fonte": "La Nación",
+   "url": "https://www.lanacion.com.ar/economia/crece-la-incertidumbre-por-los-vuelos-de-plus-ultra-que-pasara-con-los-pasajes-comprados-nid18112026/",
+   "publicado_em": "2026-11-18",
+   "categoria": "outro",
+   "local": "Rota Buenos Aires–Madri, com passageiros em origem ou destino na Argentina e na Espanha",
+   "periodo": "Até 15/12/2026; reservas posteriores ainda sem definição",
+   "resumo": "A Plus Ultra informou que a interrupção da rota Buenos Aires–Madri se estenderá, em princípio, até 15 de dezembro. Passageiros com voos até essa data podem pedir reembolso, enquanto reservas posteriores ainda não aparecem como canceladas e permanecem sem definição.",
+   "severo": false,
+   "idioma_original": "es"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Brasil supera meta de turistas internacionais de 2026 com dois meses de antecedência",
+     "fonte": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-alcanca-meta-de-turismo-internacional-de-2026",
+     "publicado_em": "2026-11-16",
+     "resumo": "De janeiro a outubro, o Brasil recebeu 7.594.425 visitantes estrangeiros, superando a meta anual de 7,5 milhões. Sete em cada dez turistas (71%) chegaram de avião; os gastos de janeiro a setembro somaram mais de US$ 8,38 bilhões. O Pará registrou alta de 29,6% nas entradas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Gol fecha acordo interline com Alaska Airlines e amplia conexões nos Estados Unidos",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/gol-fecha-acordo-com-alaska-airlines-e-amplia-conexoes-nos-estados-unidos_233733.html",
+     "publicado_em": "2026-11-17",
+     "resumo": "O acordo interline permite combinar voos da Gol e da Alaska Airlines em um único bilhete, com acesso a 168 rotas operadas pela companhia norte-americana. A parceria amplia as opções de conexão entre o Brasil e destinos dos Estados Unidos atendidos pela Alaska.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Lufthansa corta 1.000 postos em Frankfurt e Munique após terceiro ano de prejuízo",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/20/luftahnsa-to-cut-1000-jobs/",
+     "publicado_em": "2026-11-20",
+     "resumo": "A Lufthansa Airlines vai cortar 1.000 postos de trabalho em tempo integral nos hubs de Frankfurt e Munique, segundo carta da direção obtida por veículos de imprensa. O conselho afirma que é o terceiro ano consecutivo sem resultado financeiro positivo e que a companhia não é competitiva em custos, eficiência e produtividade. A aérea teve prejuízo operacional de € 180 milhões nos nove primeiros meses do ano, enquanto o grupo manteve lucro operacional ajustado de € 1,4 bilhão no terceiro trimestre.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    },
+    {
+     "titulo": "Maior acionista da Accor pede saída do CEO após compra da Ennismore por € 1,6 bilhão",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/20/accors-largest-shareholder-moves-to-oust-ceo-after-ennismore-buyout/",
+     "publicado_em": "2026-11-20",
+     "resumo": "A Parvus Asset Management, maior acionista da Accor com cerca de 14,1% do capital, informou que pedirá a destituição de Sébastien Bazin como presidente e CEO na próxima assembleia anual. O fundo cita a compra de € 1,6 bilhão da participação dos sócios na Ennismore e o desempenho inferior ao de pares: as ações da Accor tiveram retorno de 99% entre dezembro de 2013 e novembro de 2026, contra 593% da IHG, 863% da Hilton e 950% da Marriott. A Accor vai comprar 44,3% da Ennismore em três tranches até janeiro de 2028.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Agente de IA da Despegar já responde por aproximadamente 8% das vendas",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/11/na-phocuswright-conference-despegar-mostra-como-ia-esta-mudando-a-distribuicao-de-viagens_233771.html",
+     "publicado_em": "2026-11-18",
+     "resumo": "Na Phocuswright Conference, a Despegar informou que sua agente de IA, Sofia, responde por aproximadamente 8% das vendas, volume equivalente ao de cerca de 400 lojas físicas na América Latina. A Prosus investe cerca de US$ 100 milhões por ano em IA, e a maior parte das transações da Sofia ainda envolve produtos individuais.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Sindepat: parques têm mais de R$ 12 bilhões em investimentos, mas temem custo da reforma e do fim da 6x1",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/11/sindepat-parques-vivem-momento-de-expansao-com-mais-de-r-12-bilhoes-de-investimentos_233820.html",
+     "publicado_em": "2026-11-19",
+     "resumo": "O setor de parques temáticos, atrações e entretenimento vive expansão no Brasil, com mais de R$ 12 bilhões em investimentos previstos ou em andamento, segundo o Sindepat. O panorama da entidade aponta mais de 143 milhões de visitantes nos parques e atrativos turísticos do país. A entidade alerta que reforma tributária, fim da escala 6x1 e juros elevados podem represar parte dos investimentos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "CBS efetiva será de 8,5%, com corte de 40% para hotéis e restaurantes, diz ministro",
+     "fonte": "Senado Notícias",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo",
+     "publicado_em": "2026-11-17",
+     "resumo": "O ministro da Fazenda, Dario Durigan, previu alíquota efetiva de 8,5% para a CBS em 2027. A audiência no Senado registrou reduções de 40% para restaurantes e hotéis, 60% para cultura e arte e 70% para locação de imóveis. O Senado tem até 15 de dezembro para definir a alíquota; sem decisão, será adotada provisoriamente a referência de 11,3% do TCU.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "FecomercioSP vê lacunas no decreto da escala 5x2 e alerta para insegurança jurídica",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/11/fecomerciosp-aponta-lacunas-em-decreto-que-regulamenta-a-escala-5x2_233831.html",
+     "publicado_em": "2026-11-19",
+     "resumo": "A FecomercioSP avalia que o Decreto 13.173/2026, publicado nesta quinta-feira (19) no Diário Oficial da União, não representa avanço significativo na segurança jurídica para a implantação da Emenda Constitucional 141/2026. A federação aponta que a norma avança em competência do Legislativo ao fixar divisores de cálculo do salário-hora e reduz o espaço da negociação coletiva. Também faltam definições sobre organização das escalas, distribuição de descansos e mecanismos de compensação, pontos críticos para comércio, serviços e turismo.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025 mesmo após leilão do BC",
+     "fonte": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
+     "publicado_em": "2026-11-19",
+     "resumo": "O dólar comercial fechou em R$ 5,932 nesta quinta-feira (19), alta de 1,1% e maior valor desde 8 de abril de 2025, quando terminou em R$ 5,9985. A alta ocorreu mesmo após o Banco Central vender US$ 1 bilhão em operação à vista entre 12h03 e 12h08. O Ibovespa recuou 0,69%, influenciado também pela queda das bolsas de Nova York.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Belém recebe primeiro barco a hidrogênio verde da América Latina para coletar resíduos nas ilhas",
+     "fonte": "Agência Belém",
+     "url": "https://agencia.belem.pa.gov.br/belem-recebe-primeiro-barco-a-hidrogenio-verde-da-america-latina/",
+     "publicado_em": "2026-11-19",
+     "resumo": "Belém recebeu nesta quinta-feira (19) a primeira embarcação movida 100% a hidrogênio verde da América Latina, inaugurada na UFPA junto com o píer de onde sairá. O barco será usado na coleta seletiva das ilhas do Combu, Cotijuba e Ilha Grande, ampliando programa que hoje atende 11 estabelecimentos no Combu e já coletou mais de 12 toneladas de resíduos. A meta é alcançar os 72 estabelecimentos da ilha e ampliar a frequência da coleta para três vezes por semana.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Arábica cai 2,57% em Nova York com estoques pendentes de certificação nos EUA",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431738-cafe-arabica-fecha-em-queda-superior-a-2-em-nova-york.html",
+     "publicado_em": "2026-11-20",
+     "resumo": "Os contratos futuros do arábica fecharam em forte queda nesta sexta-feira (20) em Nova York, devolvendo os ganhos da véspera: dezembro de 2026 recuou 2,57%, a US$ 2,74 por libra-peso, e março de 2027 caiu 2,36%. A pressão veio da expectativa de maior oferta brasileira, com 248.175 sacas aguardando classificação nos armazéns da ICE, o maior volume pendente em três anos e nove meses. O dólar próximo de R$ 5,93 estimula os exportadores, após volume recorde de 5,3 milhões de sacas exportadas em outubro, segundo o Cecafé.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Estudo Sita: 42% dos viajantes já desistiram de uma viagem por estresse esperado",
+     "fonte": "PANROTAS",
+     "url": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/11/42-dos-passageiros-ja-desistiram-de-viajar-pelo-estresse-veja-dados_233803.html",
+     "publicado_em": "2026-11-19",
+     "resumo": "A pesquisa 2026 Passenger IT Insights, da Sita, mostra que 42% dos viajantes deixaram de fazer uma viagem por esperar que ela fosse muito estressante. Entre passageiros frequentes, seis em cada dez desistiram de um deslocamento pelo mesmo motivo, e o índice também passa da metade entre os viajantes com menos de 30 anos. Um terço dos passageiros diz se sentir ansioso no intervalo entre a segurança e o embarque, o triplo de 2023.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "CLIA: cruzeiros movem € 198,4 bilhões e sustentam 1,95 milhão de empregos no mundo",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/180152_los-cruceros-disparan-su-impacto-economico-mundial-hasta-los-198400-m-eur-un-97-mas.html",
+     "publicado_em": "2026-11-21",
+     "resumo": "A indústria mundial de cruzeiros gerou impacto econômico de aproximadamente € 198,4 bilhões em 2025, alta de 9,7% sobre 2024, segundo resultados preliminares do estudo da CLIA. A contribuição ao PIB mundial chegou a € 98,8 bilhões, e o setor sustenta 1,95 milhão de empregos, incluindo 75 mil agentes de viagens. Mais de 37,2 milhões de passageiros viajaram de cruzeiro em 2025, e 90% dizem intenção de repetir a experiência.",
+     "tipo": "estudo",
+     "idioma_original": "es"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 85
+}

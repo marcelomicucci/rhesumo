@@ -1,4 +1,176 @@
 {
- "atualizado": null,
- "feiras": []
+ "atualizado": "2026-11-24",
+ "feiras": [
+  {
+   "nome": "ExpoTEA 2026",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "inicio": "2026-11-27",
+   "fim": "2026-11-29",
+   "setor": "saude",
+   "url": "https://www.expotea.com.br/"
+  },
+  {
+   "nome": "CCXP26",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "inicio": "2026-12-03",
+   "fim": "2026-12-06",
+   "setor": "outro",
+   "url": "https://ccxp.com.br/"
+  },
+  {
+   "nome": "Feira Pará Negócios 2026",
+   "cidade": "Belém",
+   "pais": "Brasil",
+   "inicio": "2026-12-04",
+   "fim": "2026-12-06",
+   "setor": "multissetorial",
+   "url": "https://feiraparanegocios.com.br/"
+  },
+  {
+   "nome": "CES 2027",
+   "cidade": "Las Vegas",
+   "pais": "Estados Unidos",
+   "inicio": "2027-01-06",
+   "fim": "2027-01-09",
+   "setor": "tecnologia",
+   "url": "https://www.ces.tech/"
+  },
+  {
+   "nome": "NRF 2027: Retail's Big Show",
+   "cidade": "Nova York",
+   "pais": "Estados Unidos",
+   "inicio": "2027-01-10",
+   "fim": "2027-01-12",
+   "setor": "varejo",
+   "url": "https://nrfbigshow.nrf.com/"
+  },
+  {
+   "nome": "Heimtextil 2027",
+   "cidade": "Frankfurt",
+   "pais": "Alemanha",
+   "inicio": "2027-01-12",
+   "fim": "2027-01-15",
+   "setor": "industria",
+   "url": "https://heimtextil.messefrankfurt.com/frankfurt/en.html"
+  },
+  {
+   "nome": "Dinetec 2027",
+   "cidade": "Canarana",
+   "pais": "Brasil",
+   "inicio": "2027-01-13",
+   "fim": "2027-01-15",
+   "setor": "agro",
+   "url": "https://www.dinetec.com.br/"
+  },
+  {
+   "nome": "Ferien-Messe Wien 2027",
+   "cidade": "Viena",
+   "pais": "Áustria",
+   "inicio": "2027-01-14",
+   "fim": "2027-01-17",
+   "setor": "outro",
+   "url": "https://www.ferien-messe.at/"
+  },
+  {
+   "nome": "FITUR 2027",
+   "cidade": "Madri",
+   "pais": "Espanha",
+   "inicio": "2027-01-20",
+   "fim": "2027-01-24",
+   "setor": "outro",
+   "url": "https://www.ifema.es/en/fitur"
+  },
+  {
+   "nome": "Matka 2027",
+   "cidade": "Helsinque",
+   "pais": "Finlândia",
+   "inicio": "2027-01-21",
+   "fim": "2027-01-24",
+   "setor": "outro",
+   "url": "https://matka.messukeskus.com/"
+  },
+  {
+   "nome": "Sigep World 2027",
+   "cidade": "Rimini",
+   "pais": "Itália",
+   "inicio": "2027-01-23",
+   "fim": "2027-01-27",
+   "setor": "alimentos",
+   "url": "https://www.sigep.it/en/"
+  },
+  {
+   "nome": "Ambiente 2027",
+   "cidade": "Frankfurt",
+   "pais": "Alemanha",
+   "inicio": "2027-01-29",
+   "fim": "2027-02-02",
+   "setor": "varejo",
+   "url": "https://ambiente.messefrankfurt.com/frankfurt/en.html"
+  },
+  {
+   "nome": "ISM 2027",
+   "cidade": "Colônia",
+   "pais": "Alemanha",
+   "inicio": "2027-01-31",
+   "fim": "2027-02-03",
+   "setor": "alimentos",
+   "url": "https://www.ism-cologne.com/"
+  },
+  {
+   "nome": "NY NOW Winter 2027",
+   "cidade": "Nova York",
+   "pais": "Estados Unidos",
+   "inicio": "2027-01-31",
+   "fim": "2027-02-02",
+   "setor": "varejo",
+   "url": "https://nynow.com/"
+  },
+  {
+   "nome": "Madrid Fusión 2027",
+   "cidade": "Madri",
+   "pais": "Espanha",
+   "inicio": "2027-02-01",
+   "fim": "2027-02-03",
+   "setor": "alimentos",
+   "url": "https://www.madridfusion.net/"
+  },
+  {
+   "nome": "Show Rural Coopavel 2027",
+   "cidade": "Cascavel",
+   "pais": "Brasil",
+   "inicio": "2027-02-01",
+   "fim": "2027-02-05",
+   "setor": "agro",
+   "url": "https://www.showrural.com.br/"
+  },
+  {
+   "nome": "Spielwarenmesse 2027",
+   "cidade": "Nuremberg",
+   "pais": "Alemanha",
+   "inicio": "2027-02-02",
+   "fim": "2027-02-06",
+   "setor": "varejo",
+   "url": "https://www.spielwarenmesse.de/en/"
+  },
+  {
+   "nome": "Fruit Logistica 2027",
+   "cidade": "Berlim",
+   "pais": "Alemanha",
+   "inicio": "2027-02-03",
+   "fim": "2027-02-05",
+   "setor": "alimentos",
+   "url": "https://www.fruitlogistica.com/en"
+  },
+  {
+   "nome": "BioFach 2027",
+   "cidade": "Nuremberg",
+   "pais": "Alemanha",
+   "inicio": "2027-02-16",
+   "fim": "2027-02-19",
+   "setor": "alimentos",
+   "url": "https://www.biofach.de/en"
+  }
+ ]
 }

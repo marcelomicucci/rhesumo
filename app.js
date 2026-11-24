@@ -1,9 +1,12 @@
 /* Rhesumo — Diário de Bordo do Grupo Rhes. Página estática: edição do dia, arquivo e busca avançada.
-   window.RHESUMO = { base: "<url do site público>/", diretoria: null | { id, interacoes, radar, licitacoes } } */
+   window.RHESUMO = { base: "<url do site público>/", diretoria: null | { id, interacoes, radar, licitacoes },
+                      excluir: [títulos de seção a esconder], cta: null | { texto, url }, ctaAlerta: true|false } */
 (function () {
   const CFG = window.RHESUMO || {};
   const BASE = CFG.base || "";
   const DIR = CFG.diretoria || null;
+  const EXC = CFG.excluir || [];
+  const CTA = CFG.cta && CFG.cta.url ? CFG.cta : null;
   const $ = (s) => document.querySelector(s);
   const app = $("#app");
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -17,7 +20,15 @@
   const cache = {};
 
   async function getJSON(p) { const r = await fetch(BASE + p, { cache: "no-cache" }); if (!r.ok) throw new Error(p + " " + r.status); return r.json(); }
-  async function indice() { return INDICE || (INDICE = await getJSON("dados/indice.json")); }
+  async function indice() {
+    if (INDICE) return INDICE;
+    INDICE = await getJSON("dados/indice.json");
+    if (EXC.length) {  // versão sem algumas seções: tira os itens e refaz as contagens
+      INDICE.itens = INDICE.itens.filter((i) => !EXC.includes(i.secao));
+      INDICE.edicoes.forEach((e) => (e.n = INDICE.itens.filter((i) => i.ed === e.id && !i.alerta).length));
+    }
+    return INDICE;
+  }
   async function edicao(id) { return cache[id] || (cache[id] = await getJSON(`dados/edicoes/${id}.json`)); }
 
   function marcar(texto, termos) {
@@ -58,7 +69,8 @@
     return `<div class="alerta${a.severo ? " grave" : ""}"><h3>${tituloLink(a, esc(a.titulo))}</h3>
       <div class="loc">${esc(a.local)}${a.periodo ? " · " + esc(a.periodo) : ""}</div>
       <p>${esc(a.resumo)}</p>${DIR && DIR.impactos && DIR.impactos[a.url] ? `<div class="impacto"><b>Impacto para o grupo:</b> ${esc(DIR.impactos[a.url])}</div>` : ""}
-      ${a.idioma_original && a.idioma_original !== "pt" ? `<div class="meta">${badges({ idioma: a.idioma_original })}</div>` : ""}${porque(a.url)}${fonteLinha(a)}</div>`;
+      ${a.idioma_original && a.idioma_original !== "pt" ? `<div class="meta">${badges({ idioma: a.idioma_original })}</div>` : ""}${porque(a.url)}${fonteLinha(a)}
+      ${CTA && CFG.ctaAlerta ? `<div class="cta-alerta">Tem viajante nessa rota? <a href="${esc(CTA.url)}" target="_blank" rel="noopener">Nossa equipe ajuda a remarcar →</a></div>` : ""}</div>`;
   }
 
   function navTopo(ativo) {
@@ -82,7 +94,7 @@
     if (DIR && !comAnalise) h += `<p class="res-info">Esta é a versão pública desta edição. As análises da Diretoria aparecem apenas na edição do link recebido.</p>`;
     if (e.alertas && e.alertas.length) h += `<div class="alertas"><h2>⚠ Alertas de viagem</h2>${e.alertas.map(cardAlerta).join("")}</div>`;
     h += `<div class="bloco"><h2>${e.semanal ? "A semana em resumo" : "Resumo executivo"}</h2><ul>${(comAnalise && DIR.resumo_executivo ? DIR.resumo_executivo : e.resumo_executivo).map((b) => `<li>${esc(b)}</li>`).join("")}</ul></div>`;
-    for (const s of e.secoes) h += `<section class="sec"><h2>${esc(s.titulo)}</h2>${s.noticias.map(cardNoticia).join("")}</section>`;
+    for (const s of e.secoes.filter((s) => !EXC.includes(s.titulo))) h += `<section class="sec"><h2>${esc(s.titulo)}</h2>${s.noticias.map(cardNoticia).join("")}</section>`;
     if (comAnalise && DIR.licitacoes && DIR.licitacoes.length)
       h += `<section class="sec"><h2>Licitações & Oportunidades<span class="priv">Diretoria</span></h2>${DIR.licitacoes.map(cardNoticia).join("")}</section>`;
     if (comAnalise && DIR.radar && DIR.radar.length)
@@ -179,6 +191,11 @@
     const rot = () => { bt.textContent = escuroAgora() ? "☀ Claro" : "☾ Escuro"; bt.setAttribute("aria-label", escuroAgora() ? "Mudar para tema claro" : "Mudar para tema escuro"); };
     bt.onclick = () => { raizHtml.dataset.theme = escuroAgora() ? "light" : "dark"; try { localStorage.setItem("rhesumo-tema", raizHtml.dataset.theme); } catch (e) {} rot(); };
     rot(); nav.appendChild(bt);
+  }
+  if (CTA) {  // botão fixo de contato (versão para clientes)
+    const c = document.createElement("a");
+    c.className = "cta-fixo"; c.href = CTA.url; c.target = "_blank"; c.rel = "noopener"; c.textContent = CTA.texto || "Fale conosco";
+    document.body.appendChild(c);
   }
   window.addEventListener("hashchange", rota);
   rota();

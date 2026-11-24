@@ -69,3 +69,15 @@ footer.rod{border-top:1px solid var(--line);padding:14px 0 30px;font-size:.82rem
 .tema:hover{background:var(--sky);border-color:var(--sky)}
 .card h3 a,.alerta h3 a{color:inherit}.card h3 a:hover,.alerta h3 a:hover{color:var(--blue)}
 .card h3 a::after,.alerta h3 a::after{content:" ↗";font-size:.8em;color:var(--ink2)}
+/* versão Flytour */
+body.flytour header.top{background:#0F069F;border-bottom-color:#F7941D}
+body.flytour header.top img{height:40px}
+body.flytour header.top nav a{border-color:#3b33c0}
+body.flytour header.top nav a.on,body.flytour header.top nav a:hover,body.flytour .tema:hover{background:#F7941D;border-color:#F7941D}
+body.flytour .tema{border-color:#3b33c0}
+body.flytour .cab-ed .ed{background:#0F069F}
+body.flytour .manchete{border-left-color:#F7941D}body.flytour .manchete small{color:#F7941D}
+.cta-alerta{margin-top:6px;font-size:.9rem;font-weight:600}
+.cta-fixo{position:fixed;right:16px;bottom:16px;z-index:10;background:#F7941D;color:#fff!important;font-weight:700;border-radius:24px;padding:11px 20px;box-shadow:0 4px 14px rgba(0,0,0,.25);text-decoration:none!important}
+.cta-fixo:hover{filter:brightness(1.05)}
+footer.rod a{color:inherit;text-decoration:underline}

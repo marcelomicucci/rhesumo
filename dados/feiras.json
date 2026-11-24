@@ -5,6 +5,7 @@
    "nome": "ExpoTEA 2026",
    "cidade": "São Paulo",
    "pais": "Brasil",
+   "uf": "SP",
    "inicio": "2026-11-27",
    "fim": "2026-11-29",
    "setor": "saude",
@@ -14,6 +15,7 @@
    "nome": "APAS Conecta 2026",
    "cidade": "São Paulo",
    "pais": "Brasil",
+   "uf": "SP",
    "inicio": "2026-12-01",
    "fim": "2026-12-01",
    "setor": "varejo",
@@ -23,6 +25,7 @@
    "nome": "CCXP26",
    "cidade": "São Paulo",
    "pais": "Brasil",
+   "uf": "SP",
    "inicio": "2026-12-03",
    "fim": "2026-12-06",
    "setor": "outro",
@@ -32,6 +35,7 @@
    "nome": "Feira Pará Negócios 2026",
    "cidade": "Belém",
    "pais": "Brasil",
+   "uf": "PA",
    "inicio": "2026-12-04",
    "fim": "2026-12-06",
    "setor": "multissetorial",
@@ -41,6 +45,7 @@
    "nome": "Marketplace Trade Show 2026",
    "cidade": "São Paulo",
    "pais": "Brasil",
+   "uf": "SP",
    "inicio": "2026-12-05",
    "fim": "2026-12-06",
    "setor": "varejo",
@@ -77,6 +82,7 @@
    "nome": "Dinetec 2027",
    "cidade": "Canarana",
    "pais": "Brasil",
+   "uf": "MT",
    "inicio": "2027-01-13",
    "fim": "2027-01-15",
    "setor": "agro",
@@ -176,6 +182,7 @@
    "nome": "Show Rural Coopavel 2027",
    "cidade": "Cascavel",
    "pais": "Brasil",
+   "uf": "PR",
    "inicio": "2027-02-01",
    "fim": "2027-02-05",
    "setor": "agro",
@@ -225,6 +232,96 @@
    "fim": "2027-02-19",
    "setor": "alimentos",
    "url": "https://www.biofach.de/en"
+  },
+  {
+   "nome": "Expo Revestir 2027",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "uf": "SP",
+   "inicio": "2027-02-22",
+   "fim": "2027-02-26",
+   "setor": "construcao",
+   "url": "https://www.exporevestir.com.br/"
+  },
+  {
+   "nome": "Tecnoshow Comigo 2027",
+   "cidade": "Rio Verde",
+   "pais": "Brasil",
+   "uf": "GO",
+   "inicio": "2027-04-05",
+   "fim": "2027-04-09",
+   "setor": "agro",
+   "url": "https://www.tecnoshowcomigo.com.br/"
+  },
+  {
+   "nome": "Feicon 2027",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "uf": "SP",
+   "inicio": "2027-04-06",
+   "fim": "2027-04-09",
+   "setor": "construcao",
+   "url": "https://www.feicon.com.br/"
+  },
+  {
+   "nome": "Intermodal South America 2027",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "uf": "SP",
+   "inicio": "2027-04-13",
+   "fim": "2027-04-15",
+   "setor": "outro",
+   "url": "https://www.intermodal.com.br/"
+  },
+  {
+   "nome": "Automec 2027",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "uf": "SP",
+   "inicio": "2027-04-20",
+   "fim": "2027-04-24",
+   "setor": "automotivo",
+   "url": "https://www.automecfeira.com.br/"
+  },
+  {
+   "nome": "Agrishow 2027",
+   "cidade": "Ribeirão Preto",
+   "pais": "Brasil",
+   "uf": "SP",
+   "inicio": "2027-04-26",
+   "fim": "2027-04-30",
+   "setor": "agro",
+   "url": "https://www.agrishow.com.br/"
+  },
+  {
+   "nome": "Bett Brasil 2027",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "uf": "SP",
+   "inicio": "2027-05-04",
+   "fim": "2027-05-07",
+   "setor": "outro",
+   "url": "https://www.bettbrasil.com.br/"
+  },
+  {
+   "nome": "AgroBrasília 2027",
+   "cidade": "Brasília",
+   "pais": "Brasil",
+   "uf": "DF",
+   "inicio": "2027-05-18",
+   "fim": "2027-05-21",
+   "setor": "agro",
+   "url": "https://www.agrobrasilia.com.br/"
+  },
+  {
+   "nome": "Hospitalar 2027",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "uf": "SP",
+   "inicio": "2027-05-18",
+   "fim": "2027-05-21",
+   "setor": "saude",
+   "url": "https://www.hospitalar.com/"
   }
  ]
 }

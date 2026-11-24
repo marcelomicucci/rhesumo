@@ -34,7 +34,7 @@
   const periodo = (f) => f.inicio === f.fim || !f.fim ? curta(f.inicio) : `${curta(f.inicio).slice(0, 5)} a ${curta(f.fim)}`;
   const ctaFeira = () => CTA ? `<div class="cta-alerta">Vai a essa feira? <a href="${esc(CTA.url)}" target="_blank" rel="noopener">A Flytour organiza sua viagem →</a></div>` : "";
   function cardFeira(f) {
-    return `<article class="card feira"><div class="meta"><span class="badge b-feira">${esc(f.setor || "feira")}</span><span>${esc(periodo(f))}</span></div>
+    return `<article class="card feira"><div class="meta"><span class="badge b-feira">${esc(f.setor || "feira")}</span>${f.uf ? `<span class="badge b-idioma">${esc(f.uf)}</span>` : ""}<span>${esc(periodo(f))}</span></div>
       <h3>${tituloLink(f, esc(f.nome))}</h3><p>${esc(f.cidade)}${f.pais ? " · " + esc(f.pais) : ""}</p>
       <div class="fonte">Site oficial: <a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.url.replace(/^https?:\/\/(www\.)?/, "").replace(/\/.*$/, ""))}</a></div>${ctaFeira()}</article>`;
   }
@@ -43,7 +43,7 @@
     const ag = await feiras();
     const lista = ag.feiras || [];
     app.innerHTML = `<h2>Próximas feiras e grandes eventos</h2>
-      <p class="res-info">Feiras comerciais e industriais dos próximos 90 dias, com datas conferidas no site oficial de cada uma${ag.atualizado ? " (agenda atualizada em " + curta(ag.atualizado) + ")" : ""}. Confirme sempre no site oficial antes de reservar.</p>
+      <p class="res-info">Feiras comerciais e industriais dos próximos 90 dias (180 dias nos estados onde o Grupo Rhes atua), com datas conferidas no site oficial de cada uma${ag.atualizado ? " (agenda atualizada em " + curta(ag.atualizado) + ")" : ""}. Confirme sempre no site oficial antes de reservar.</p>
       ${lista.length ? lista.map(cardFeira).join("") : `<p class="vazio">A agenda está sendo montada.</p>`}`;
     window.scrollTo(0, 0);
   }

@@ -11,6 +11,15 @@
    "url": "https://www.expotea.com.br/"
   },
   {
+   "nome": "APAS Conecta 2026",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "inicio": "2026-12-01",
+   "fim": "2026-12-01",
+   "setor": "varejo",
+   "url": "https://www.apasconecta.com.br/"
+  },
+  {
    "nome": "CCXP26",
    "cidade": "São Paulo",
    "pais": "Brasil",
@@ -27,6 +36,15 @@
    "fim": "2026-12-06",
    "setor": "multissetorial",
    "url": "https://feiraparanegocios.com.br/"
+  },
+  {
+   "nome": "Marketplace Trade Show 2026",
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "inicio": "2026-12-05",
+   "fim": "2026-12-06",
+   "setor": "varejo",
+   "url": "https://www.marketplacetradeshow.com.br/"
   },
   {
    "nome": "CES 2027",
@@ -92,6 +110,15 @@
    "url": "https://matka.messukeskus.com/"
   },
   {
+   "nome": "Sirha Lyon 2027",
+   "cidade": "Lyon",
+   "pais": "França",
+   "inicio": "2027-01-21",
+   "fim": "2027-01-25",
+   "setor": "alimentos",
+   "url": "https://www.sirha-lyon.com/"
+  },
+  {
    "nome": "Sigep World 2027",
    "cidade": "Rimini",
    "pais": "Itália",
@@ -99,6 +126,15 @@
    "fim": "2027-01-27",
    "setor": "alimentos",
    "url": "https://www.sigep.it/en/"
+  },
+  {
+   "nome": "WHX Dubai 2027 (ex-Arab Health)",
+   "cidade": "Dubai",
+   "pais": "Emirados Árabes Unidos",
+   "inicio": "2027-01-25",
+   "fim": "2027-01-28",
+   "setor": "saude",
+   "url": "https://www.worldhealthexpo.com/dubai"
   },
   {
    "nome": "Ambiente 2027",
@@ -162,6 +198,24 @@
    "fim": "2027-02-05",
    "setor": "alimentos",
    "url": "https://www.fruitlogistica.com/en"
+  },
+  {
+   "nome": "EMITT 2027",
+   "cidade": "Istambul",
+   "pais": "Turquia",
+   "inicio": "2027-02-04",
+   "fim": "2027-02-06",
+   "setor": "outro",
+   "url": "https://www.emittistanbul.com/"
+  },
+  {
+   "nome": "BIT Milano 2027",
+   "cidade": "Milão",
+   "pais": "Itália",
+   "inicio": "2027-02-09",
+   "fim": "2027-02-11",
+   "setor": "outro",
+   "url": "https://bit.fieramilano.it/en/"
   },
   {
    "nome": "BioFach 2027",

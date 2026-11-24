@@ -81,3 +81,5 @@ body.flytour .manchete{border-left-color:#F7941D}body.flytour .manchete small{co
 .cta-fixo{position:fixed;right:16px;bottom:16px;z-index:10;background:#F7941D;color:#fff!important;font-weight:700;border-radius:24px;padding:11px 20px;box-shadow:0 4px 14px rgba(0,0,0,.25);text-decoration:none!important}
 .cta-fixo:hover{filter:brightness(1.05)}
 footer.rod a{color:inherit;text-decoration:underline}
+.b-feira{background:#7a4cc2}
+.radar.feiras{border-color:#7a4cc2}.radar.feiras h2{color:#7a4cc2}

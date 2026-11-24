@@ -29,6 +29,24 @@
     }
     return INDICE;
   }
+  let FEIRAS = null;
+  async function feiras() { if (FEIRAS) return FEIRAS; try { FEIRAS = await getJSON("dados/feiras.json"); } catch (e) { FEIRAS = { feiras: [] }; } return FEIRAS; }
+  const periodo = (f) => f.inicio === f.fim || !f.fim ? curta(f.inicio) : `${curta(f.inicio).slice(0, 5)} a ${curta(f.fim)}`;
+  const ctaFeira = () => CTA ? `<div class="cta-alerta">Vai a essa feira? <a href="${esc(CTA.url)}" target="_blank" rel="noopener">A Flytour organiza sua viagem →</a></div>` : "";
+  function cardFeira(f) {
+    return `<article class="card feira"><div class="meta"><span class="badge b-feira">${esc(f.setor || "feira")}</span><span>${esc(periodo(f))}</span></div>
+      <h3>${tituloLink(f, esc(f.nome))}</h3><p>${esc(f.cidade)}${f.pais ? " · " + esc(f.pais) : ""}</p>
+      <div class="fonte">Site oficial: <a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.url.replace(/^https?:\/\/(www\.)?/, "").replace(/\/.*$/, ""))}</a></div>${ctaFeira()}</article>`;
+  }
+  async function verFeiras() {
+    navTopo("feiras");
+    const ag = await feiras();
+    const lista = ag.feiras || [];
+    app.innerHTML = `<h2>Próximas feiras e grandes eventos</h2>
+      <p class="res-info">Feiras comerciais e industriais dos próximos 90 dias, com datas conferidas no site oficial de cada uma${ag.atualizado ? " (agenda atualizada em " + curta(ag.atualizado) + ")" : ""}. Confirme sempre no site oficial antes de reservar.</p>
+      ${lista.length ? lista.map(cardFeira).join("") : `<p class="vazio">A agenda está sendo montada.</p>`}`;
+    window.scrollTo(0, 0);
+  }
   async function edicao(id) { return cache[id] || (cache[id] = await getJSON(`dados/edicoes/${id}.json`)); }
 
   function marcar(texto, termos) {
@@ -99,6 +117,11 @@
       h += `<section class="sec"><h2>Licitações & Oportunidades<span class="priv">Diretoria</span></h2>${DIR.licitacoes.map(cardNoticia).join("")}</section>`;
     if (comAnalise && DIR.radar && DIR.radar.length)
       h += `<div class="radar"><h2>Radar<span class="priv">Diretoria</span></h2><ul>${DIR.radar.map((r) => `<li>${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.titulo)}</a>` : esc(r.titulo)}</li>`).join("")}</ul></div>`;
+    const ag = await feiras();
+    const hoje = new Date().toISOString().slice(0, 10);
+    const lim = new Date(Date.now() + 30 * 864e5).toISOString().slice(0, 10);
+    const proxFeiras = (ag.feiras || []).filter((f) => (f.fim || f.inicio) >= hoje && f.inicio <= lim).slice(0, 6);
+    if (proxFeiras.length) h += `<div class="radar feiras"><h2>Próximas feiras (30 dias)</h2><ul>${proxFeiras.map((f) => `<li><b>${esc(periodo(f))}</b> · <a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.nome)}</a> — ${esc(f.cidade)}</li>`).join("")}</ul><p class="fonte"><a href="#/feiras">Ver a agenda completa (90 dias) →</a></p></div>`;
     app.innerHTML = h;
     $("#selEd").onchange = (ev) => (location.hash = "#/e/" + ev.target.value);
     window.scrollTo(0, 0);
@@ -176,6 +199,7 @@
       if (h.startsWith("#/e/")) await verEdicao(decodeURIComponent(h.slice(4)));
       else if (h.startsWith("#/busca")) await verBusca(new URLSearchParams(h.split("?")[1] || ""));
       else if (h.startsWith("#/arquivo")) await verArquivo();
+      else if (h.startsWith("#/feiras")) await verFeiras();
       else await verEdicao(null);
     } catch (err) { app.innerHTML = `<p class="vazio">Não foi possível carregar o conteúdo agora. Tente recarregar a página.</p>`; console.error(err); }
   }

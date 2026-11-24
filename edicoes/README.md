@@ -5,6 +5,7 @@
 
 ## Novembro de 2026
 
+- [24/11/2026](2026/11/2026-11-24.md) — Clima e câmbio elevam o risco operacional enquanto turismo e infraestrutura mantêm demanda
 - [23/11/2026](2026/11/2026-11-23.md) — Interrupções de viagem elevam a necessidade de contingência enquanto novos canais redesenham a distribuição
 - [21/11/2026 · Rhesumo da Semana](2026/11/semana-2026-11-21.md) — demanda e conectividade avançam, enquanto IA, regulação, clima e conflitos exigem resposta operacional
 - [19/11/2026](2026/11/2026-11-19.md) — Clima pressiona a operação aérea enquanto conectividade, IA e novas regras redesenham o turismo

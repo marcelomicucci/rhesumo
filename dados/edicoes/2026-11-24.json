@@ -1,0 +1,228 @@
+{
+ "id": "2026-11-24",
+ "data": "2026-11-24",
+ "semanal": false,
+ "numero": 27,
+ "manchete": "Clima e câmbio elevam o risco operacional enquanto turismo e infraestrutura mantêm demanda",
+ "resumo_executivo": [
+  "O Inmet colocou áreas do Sul em alerta vermelho para tempestade em 24/11; chuvas recentes em São Paulo já provocaram remarcações e perda de conexões em voos para Belém.",
+  "Os Estados Unidos alertaram o setor aéreo sobre ameaças terroristas, sem identificar ameaça específica, enquanto a espanhola Plus Ultra suspendeu todas as operações desde 23/11.",
+  "A aviação brasileira somou 110,9 milhões de embarques domésticos e internacionais de janeiro a outubro, alta de cerca de 3,8% sobre 2025, mas o mercado doméstico de outubro recuou 1,1%.",
+  "O dólar chegou a R$ 6 e o Ministério da Fazenda reduziu a projeção de crescimento de 2026 para 1,9%; a portaria da escala 5x2 prevê redução gradual da jornada de 44 para 40 horas semanais sem redução salarial.",
+  "Em Belém, a Feira Pará Negócios espera 40 mil visitantes e R$ 40 milhões em negócios; no exterior, Europa e Estados Unidos concentraram aproximadamente 76% dos gastos internacionais de brasileiros com cartões no terceiro trimestre."
+ ],
+ "alertas": [
+  {
+   "titulo": "Inmet emite alerta vermelho de tempestade para o Sul nesta terça-feira (24)",
+   "fonte": "CNN Brasil",
+   "url": "https://www.cnnbrasil.com.br/nacional/sul/brasil-emite-alerta-vermelho-de-tempestade-para-sul-nesta-terca-feira-24/",
+   "publicado_em": "2026-11-24",
+   "categoria": "clima",
+   "local": "Áreas do Rio Grande do Sul, Santa Catarina e Paraná",
+   "periodo": "24/11, das 00h às 23h59",
+   "resumo": "O Inmet emitiu alerta vermelho de grande perigo para tempestade, com previsão de chuva acima de 100 milímetros, ventos superiores a 100 km/h e queda de granizo.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "EUA alertam setor aéreo sobre ameaças terroristas contra a aviação comercial",
+   "fonte": "Panrotas",
+   "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/eua-alertam-setor-aereo-sobre-ameacas-terroristas-contra-aviacao-comercial_233866.html",
+   "publicado_em": "2026-11-23",
+   "categoria": "conflito",
+   "local": "Setor de aviação comercial dos Estados Unidos",
+   "periodo": "Comunicado enviado em 21/11; sem prazo informado",
+   "resumo": "FBI, DHS e TSA alertaram companhias aéreas, empresas de carga e aeroportos sobre novas ameaças terroristas contra a aviação comercial. As autoridades disseram que não há ameaça específica identificada.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Plus Ultra suspende todos os seus voos desde esta segunda-feira",
+   "fonte": "Hosteltur",
+   "url": "https://www.hosteltur.com/180194_plus-ultra-suspende-todos-sus-vuelos-desde-este-lunes.html",
+   "publicado_em": "2026-11-23",
+   "categoria": "aeroporto",
+   "local": "Conexões da Espanha com a Venezuela, incluindo Caracas",
+   "periodo": "Desde 23/11; prazo de retomada não informado",
+   "resumo": "A companhia espanhola Plus Ultra suspendeu todas as operações, que estavam limitadas às conexões com a Venezuela. O site deixou de permitir reservas para Caracas, no contexto de um processo de reestruturação.",
+   "severo": false,
+   "idioma_original": "es"
+  },
+  {
+   "titulo": "Chuvas em São Paulo deixam paraenses ilhados e mudam voos para Belém",
+   "fonte": "O Liberal",
+   "url": "https://www.oliberal.com/belem/fortes-chuvas-em-sao-paulo-deixam-paraenses-ilhados-e-mudam-voos-para-belem-1.1197561",
+   "publicado_em": "2026-11-23",
+   "categoria": "aeroporto",
+   "local": "São Paulo, com reflexos em voos para Belém via Congonhas e Confins",
+   "periodo": "Últimos dias; ocorrência reportada no voo de 22/11",
+   "resumo": "As fortes chuvas em São Paulo provocaram remarcações de voos para Belém. Passageiros relataram perda de conexões depois que uma aeronave da Azul não conseguiu pousar em Congonhas após seis tentativas de aproximação.",
+   "severo": false,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Aviação brasileira supera marca de 100 milhões de passageiros em 2026",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/empresas/2026/11/aviacao-brasileira-supera-marca-de-100-milhoes-de-passageiros-em-2026_233891.html",
+     "publicado_em": "2026-11-23",
+     "resumo": "De janeiro a outubro, a aviação brasileira transportou 110,9 milhões de passageiros domésticos e internacionais, alta de cerca de 3,8% sobre os 106,8 milhões de 2025. Em outubro, o mercado internacional somou 2,5 milhões de passageiros, alta de 6,6%, enquanto o doméstico ficou em 8,8 milhões, 1,1% abaixo de outubro do ano anterior.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Lisboa concentra metade dos pernoites de brasileiros em Portugal",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/11/lisboa-concentra-a-metade-dos-pernoites-de-brasileiros-em-portugal_233872.html",
+     "publicado_em": "2026-11-23",
+     "resumo": "Portugal registrou 29,2 milhões de pernoites no terceiro trimestre de 2026, alta de 1,9% na comparação anual. Entre brasileiros, a Grande Lisboa concentrou 49,2% das diárias entre julho e setembro.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Itaipu Parquetec e Infraero assinam acordo para modernização de aeroportos",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/aeroportos/2026/11/itaipu-parquetec-e-infraero-assinam-acordo-de-cooperacao-para-modernizacao-de-aeroportos_233895.html",
+     "publicado_em": "2026-11-23",
+     "resumo": "Itaipu Parquetec e Infraero firmaram protocolo de intenções para identificar oportunidades de inovação em mais de 20 aeroportos administrados pela empresa federal. As frentes incluem modernização de infraestrutura, transformação digital, gestão de ativos, conectividade, integração de radares, monitoramento de pistas, cibersegurança e gestão energética.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Pressões sobre o B2B da Expedia",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/23/the-pressures-on-expedia-b2b/",
+     "publicado_em": "2026-11-23",
+     "resumo": "As reservas brutas B2B da Expedia cresceram 19% no terceiro trimestre e a receita B2B, 23%, mas o CFO afirmou que o ritmo deve moderar no quarto trimestre. A empresa citou uma base de comparação de US$ 8,7 bilhões em reservas B2B, demanda mais fraca ligada ao ciclo eleitoral nos Estados Unidos e disrupções geopolíticas afetando viagens de longa distância.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "WTM Latin America lança o tema de 2027 e prevê ajustes na planta da feira",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/feiras/2026/11/wtm-latin-america-lanca-o-tema-e-preve-ajustes-na-planta-para-a-edicao-2027_233869.html",
+     "publicado_em": "2026-11-23",
+     "resumo": "A WTM Latin America confirmou a edição de 13 a 15 de abril de 2027, no Expo Center Norte, em São Paulo, e anunciou ajustes na planta para acomodar crescimento de 10% no número de expositores. A edição de 2026 reuniu 935 expositores de 53 países, 35 mil profissionais e 70 conferências.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Feira Pará Negócios espera movimentar R$ 40 milhões e receber 40 mil visitantes em Belém",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/pa/para/noticia/2026/11/23/feira-para-negocios-espera-movimentar-r-40-milhoes-e-reunir-40-mil-visitantes-em-belem.ghtml",
+     "publicado_em": "2026-11-23",
+     "resumo": "A 12ª Feira Pará Negócios será realizada de 4 a 6 de dezembro no Hangar, em Belém, com o tema Inovação e Negócios Sustentáveis na Amazônia. A organização espera 40 mil visitantes, 360 expositores, R$ 40 milhões em negócios e a capacitação de cerca de 11 mil pessoas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "A tempestade perfeita, dentro e fora do Brasil, fez o dólar chegar a R$ 6",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/24/a-tempestade-perfeita-dentro-e-fora-do-brasil-que-fez-dolar-chegar-a-r-6.ghtml",
+     "publicado_em": "2026-11-24",
+     "resumo": "O dólar atingiu R$ 6 pela primeira vez desde abril de 2025 na segunda-feira (23), depois de o real liderar as perdas entre as principais moedas emergentes desde o fim de outubro. A matéria relaciona a disparada a fatores internos e externos, incluindo a análise e votação do pacote de ajuste fiscal na Câmara.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Ministério do Trabalho publica portaria que regulamenta descansos da escala 5x2",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
+     "publicado_em": "2026-11-23",
+     "resumo": "A portaria regulamenta a duração do trabalho e o descanso na escala 5x2, assegurando dois dias de repouso semanal de 24 horas consecutivas, um deles preferencialmente aos domingos. Também prevê redução gradual da jornada de 44 para 40 horas semanais sem redução salarial; outras três portarias devem ser publicadas até 16 de dezembro, quando entra em vigor a emenda constitucional.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Moradias de uso turístico passam a aplicar IVA de 10% em 1º de dezembro, equiparando-se aos hotéis",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/180176_los-pisos-turisticos-incorporan-el-10-de-iva-el-1-de-diciembre-equiparandose-a-los-hoteles.html",
+     "publicado_em": "2026-11-24",
+     "resumo": "A partir de 1º de dezembro, as moradias de uso turístico na Espanha aplicarão IVA de 10%, como os hotéis. Os proprietários terão de decidir se repassam o imposto às tarifas ou absorvem a redução de margem, e poderão deduzir o IVA de serviços de gestão, limpeza e utilidades; a mudança alcança estadias de até 30 noites.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Mancha verde no Xingu: bactérias tóxicas deixam comunidades sem água no Pará",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/pa/para/noticia/2026/11/23/comunidades-indigenas-e-ribeirinhas-entram-em-colapso-com-contaminacao-ha-um-mes-em-rios-no-para.ghtml",
+     "publicado_em": "2026-11-23",
+     "resumo": "Uma mancha verde se estende há um mês por mais de 30 quilômetros nos rios Bacajá e Xingu e no igarapé Pariaxá. Laudos confirmaram proliferação de cianobactérias com nível do poluente quatro vezes acima do limite de segurança; cerca de 100 famílias deixaram suas casas, e uma força-tarefa prevê perfurar poços em oito aldeias.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Pará celebra quatro anos do Plano Estadual de Bioeconomia e um ano do parque de inovação",
+     "fonte": "Agência Pará",
+     "url": "https://agenciapara.com.br/noticia/80720/para-celebra-quatro-anos-do-plano-estadual-de-bioeconomia-e-um-ano-do-parque-de-bioeconomia-e-inovacao-da-amazonia",
+     "publicado_em": "2026-11-23",
+     "resumo": "O Governo do Pará realizará em 30 de novembro o evento O Pará da Bioeconomia, que marca quatro anos do Plano Estadual de Bioeconomia e o primeiro ano do Parque de Bioeconomia e Inovação da Amazônia. A programação será das 14h às 20h e reunirá poder público, setor produtivo, pesquisa, sociedade civil e comunidades tradicionais.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café recua em Nova York e perde até 3,26% no Brasil; robusta fecha misto em Londres",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431817-cafe-recua-em-nova-york-e-perde-ate-3-26-no-brasil-robusta-fecha-misto-em-londres.html",
+     "publicado_em": "2026-11-23",
+     "resumo": "Os futuros do arábica recuaram em Nova York e houve perdas de até 3,26% em importantes praças do físico brasileiro. O contrato dezembro de 2026 fechou a 274,35 centavos de dólar por libra-peso; março de 2027 recuou a 267,75 centavos e maio de 2027 a 261,15 centavos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Reservas hoteleiras com mais de 90 dias de antecedência chegam a 32,3% na Espanha",
+     "fonte": "Hosteltur",
+     "url": "https://www.hosteltur.com/180170_las-reservas-hoteleras-con-mas-de-90-dias-de-antelacion-alcanzan-el-323-en-espana.html",
+     "publicado_em": "2026-11-24",
+     "resumo": "Entre 16 e 22 de novembro, reservas hoteleiras na Espanha feitas com mais de 90 dias de antecedência representaram 32,3% do total intermediado pela Travelgate, alta de 4,1 pontos porcentuais sobre a semana anterior. A participação vem subindo desde agosto e acelerou nas três semanas anteriores à Black Friday de 27 de novembro.",
+     "tipo": "estudo",
+     "idioma_original": "es"
+    },
+    {
+     "titulo": "Europa e Estados Unidos concentram aproximadamente 76% dos gastos de brasileiros no exterior",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/11/europa-e-eua-concentram-quase-80-dos-gastos-de-brasileiros-no-exterior_233878.html",
+     "publicado_em": "2026-11-23",
+     "resumo": "Segundo levantamento da Abecs, brasileiros gastaram R$ 14,8 bilhões em cartões na Europa no terceiro trimestre de 2026, alta de 17,4% sobre o mesmo período de 2025. Nos Estados Unidos foram R$ 10,7 bilhões, crescimento de 39%; juntos, os dois mercados responderam por aproximadamente 76% dos gastos internacionais do período.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 36
+}

@@ -83,3 +83,8 @@ body.flytour .manchete{border-left-color:#F7941D}body.flytour .manchete small{co
 footer.rod a{color:inherit;text-decoration:underline}
 .b-feira{background:#7a4cc2}
 .radar.feiras{border-color:#7a4cc2}.radar.feiras h2{color:#7a4cc2}
+/* alinhamento do logo com o título */
+header.top .wrap>a{display:flex;align-items:center;line-height:0}
+header.top img{display:block}
+body.flytour header.top img{height:46px}
+body.flytour header.top .wrap>a+div{border-left:1px solid #3b33c0;padding-left:16px}

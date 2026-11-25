@@ -1,0 +1,186 @@
+{
+ "id": "2026-11-25",
+ "data": "2026-11-25",
+ "semanal": false,
+ "numero": 28,
+ "manchete": "Clima pressiona operações enquanto aviação, IA e eventos redesenham oportunidades para 2027",
+ "resumo_executivo": [
+  "Alertas de tempestade abrangem capitais do Sudeste e do Sul; uma nova frente fria pode trazer acumulados de até 200 milímetros em São Paulo.",
+  "A Latam liderou o mercado doméstico em outubro, com 39,8% dos passageiros.",
+  "No canal corporativo, a Latam liderou as vendas da Abracorp; o Air Monitor 2027 prevê alta de até 5,3% nas tarifas econômicas entre países da América do Sul.",
+  "A IA já é usada pela Accor para converter avaliações de hóspedes em planos de ação; a HSMAI também discutiu agentes de IA e mudanças na distribuição hoteleira.",
+  "No Pará, o Centro de Convenções de Castanhal chegou a 65% da obra, enquanto a Semas interditou a extração de cobre em Tucumã após denúncias de contaminação de rios."
+ ],
+ "alertas": [
+  {
+   "titulo": "Maior parte do Brasil está sob alerta para tempestades nesta quarta-feira (25)",
+   "fonte": "CNN Brasil",
+   "url": "https://www.cnnbrasil.com.br/nacional/brasil/maior-parte-do-brasil-esta-sob-alerta-para-tempestades-nesta-quarta-25/",
+   "publicado_em": "2026-11-25",
+   "categoria": "clima",
+   "local": "São Paulo, Rio de Janeiro, Paraná, Minas Gerais, Santa Catarina e Mato Grosso do Sul; alerta amarelo também alcança outras áreas do país",
+   "periodo": "25/11, ao longo de todo o dia",
+   "resumo": "O Inmet emitiu alerta laranja de perigo para tempestades em áreas de São Paulo, Paraná, Minas Gerais, Santa Catarina, Mato Grosso do Sul e todo o Rio de Janeiro. A previsão inclui chuva de 30 a 60 milímetros por hora ou de 50 a 100 milímetros no acumulado, ventos de 60 a 100 km/h e possibilidade de granizo.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Frente fria deve provocar chuva forte em SP e no Rio, com acumulados de até 200 mm",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/25/frente-fria-sudeste-sul-tera-novos-temporais.ghtml",
+   "publicado_em": "2026-11-25",
+   "categoria": "clima",
+   "local": "São Paulo, Rio de Janeiro, Minas Gerais e Sul do Brasil",
+   "periodo": "25 e 26/11",
+   "resumo": "Uma frente fria avança pelo Sudeste e pode provocar acumulados de até 200 milímetros em São Paulo. Rio de Janeiro e Minas Gerais também terão instabilidades, com até 120 milímetros no leste mineiro; no Sul, permanecem as pancadas com risco de temporais e chegada de ar frio.",
+   "severo": true,
+   "idioma_original": "pt"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Latam atinge 40% de participação no mercado doméstico em outubro; Gol e Azul seguem coladas",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/11/latam-atinge-40-de-participacao-de-mercado-domestico-em-outubro-gol-e-azul-seguem-coladas_233902.html",
+     "publicado_em": "2026-11-24",
+     "resumo": "O mercado aéreo doméstico transportou cerca de 8,84 milhões de passageiros em outubro. A Latam liderou, com 3,51 milhões e 39,8% de participação, seguida por Gol, com 30,6%, e Azul, com 29,6%; em RPK, as participações foram de 41,2%, 29,9% e 28,8%, respectivamente.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Abracorp: Latam lidera vendas aéreas e Gol registra maior crescimento em 2026",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/aviacao/2026/11/abracorp-latam-lidera-vendas-aereas-e-gol-registra-maior-crescimento-em-2026_233913.html",
+     "publicado_em": "2026-11-24",
+     "resumo": "No acumulado de janeiro a outubro, a Latam liderou as vendas aéreas nacionais e internacionais da Abracorp. No ranking nacional, teve cerca de R$ 2,05 bilhões e 42,26% de participação; Gol ficou com R$ 1,50 bilhão e 30,95%, e Azul com R$ 1,30 bilhão e 26,78%. Nas vendas internacionais, a Latam movimentou R$ 638,1 milhões.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Accor usa IA para transformar avaliações de hóspedes em planos de ação nos hotéis",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/hotelaria/tecnologia/2026/11/accor-usa-ia-para-transformar-avaliacoes-de-hospedes-em-planos-de-acao-nos-hoteis_233923.html",
+     "publicado_em": "2026-11-24",
+     "resumo": "A ferramenta de IA da Accor analisa avaliações de hóspedes e gera recomendações de melhoria. Implementada em 2024, ela já analisou mais de 1,5 milhão de comentários, contribuiu para aumento de até 2,6% na satisfação geral e redução de 10% nos comentários negativos, e está em todos os hotéis da companhia nas Américas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Google incorpora anúncios hoteleiros à busca e muda compra e mensuração",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/24/google-folds-hotel-ads-into-search-upending-how-properties-bid-and-measure/",
+     "publicado_em": "2026-11-24",
+     "resumo": "O Google está aposentando campanhas hoteleiras independentes e incorporando os links de reserva pagos ao produto principal de publicidade de busca. As campanhas devem ser convertidas para Search campaigns for Travel no primeiro semestre de 2027; a mudança altera lances, orçamentos e métricas, enquanto os links gratuitos de reserva permanecem inalterados.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "HSMAI reúne 150 profissionais para debater estratégia comercial na hotelaria",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/hotelaria/eventos/2026/11/hsmai-debate-desafios-e-oportunidades-da-estrategia-comercial-na-hotelaria_233926.html",
+     "publicado_em": "2026-11-24",
+     "resumo": "A Commercial Strategy Conference 2026 da HSMAI Brasil reuniu 150 participantes presenciais e on-line em São Paulo para discutir marketing e vendas na hotelaria. O encontro abordou agentes de IA, distribuição, revenue management e mudanças na estratégia comercial.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Feiras & Grandes Eventos",
+   "noticias": [
+    {
+     "titulo": "Fitur 2027 terá programação dedicada a tecnologia, inovação e transformação digital",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/feiras/2026/11/fitur-2027-tera-programacao-dedicada-a-tecnologia-inovacao-e-transformacao-digital_233909.html",
+     "publicado_em": "2026-11-24",
+     "resumo": "A Fitur 2027 ocorrerá de 20 a 24 de janeiro no Ifema Madrid, na Espanha, com programação de inovação e transformação tecnológica nos dias profissionais. Entre os destaques estão o Fitur TechY e o Fitur Know-How & Export, que chega à 15ª edição.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Centro de Convenções de Castanhal chega a 65% das obras e gera mais de 170 empregos",
+     "fonte": "Agência Pará",
+     "url": "https://agenciapara.com.br/noticia/80736/centro-de-convencoes-de-castanhal-alcanca-65-de-obras-executadas-e-gera-mais-de-170-empregos-locais",
+     "publicado_em": "2026-11-24",
+     "resumo": "O Centro de Convenções de Castanhal chegou a 65% de execução, com acabamento do pavilhão de feiras e cobertura de auditórios e teatro. O equipamento prevê pavilhão para feiras e exposições, salão de eventos, oito salas multiuso e entrega no primeiro semestre de 2027; a obra gera mais de 170 empregos locais.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Semas multa mineradora em R$ 16,9 milhões e interdita extração de cobre em Tucumã",
+     "fonte": "Agência Pará",
+     "url": "https://agenciapara.com.br/noticia/80737/apos-denuncias-de-mortandade-de-peixes-semas-multa-mineradora-em-r-169-milhoes-e-interdita-extracao-de-cobre-em-tucuma",
+     "publicado_em": "2026-11-24",
+     "resumo": "A Semas aplicou duas multas que somam R$ 16.932.250,00 à Mineração Caraíba S.A., interditou a extração e o beneficiamento de cobre em Tucumã e informou que efluente industrial ácido chegou a um afluente do rio Jatobá. A empresa tem 15 dias para entregar relatório de medidas de emergência e 20 dias úteis para apresentar defesa, pedir conciliação ou pagar as multas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Sem acordo na COP31, destinos perdem sinal mais forte para resiliência climática",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/24/without-a-cop31-deal-destinations-have-a-weaker-signal-for-climate-resilience/",
+     "publicado_em": "2026-11-24",
+     "resumo": "A COP31 terminou sem acordo sobre o Pacto de Antalya. O texto final previa impulsionar eletrificação, energia limpa e financiamento climático e reconhecia o excesso em relação à meta de 1,5°C do Acordo de Paris, mas não mencionava combustíveis fósseis; para o Skift, destinos perdem um sinal de investimento de longo prazo e respaldo político para adaptação climática.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café amplia baixas em Nova York em manhã de aversão ao risco",
+     "fonte": "Notícias Agrícolas",
+     "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431903-cafe-amplia-baixas-em-ny-em-manha-de-aversao-ao-risco-nesta-4-feira-25.html",
+     "publicado_em": "2026-11-25",
+     "resumo": "Os futuros do café arábica recuavam entre 0,67% e 0,86% em Nova York por volta das 7h35, com março de 2027 a 260,45 cents de dólar por libra-peso, maio a 255,45 cents e julho a 251,10 cents. O movimento acompanhava a pressão sobre commodities e a aversão ao risco, com preocupação sobre novas tarifas comerciais dos Estados Unidos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Estudo Amex GBT prevê alta de até 5,3% nas tarifas econômicas da América do Sul em 2027",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/viagens-corporativas/aviacao/2026/11/amex-gbt-preve-passagens-mais-caras-e-aponta-pressao-sobre-viagens-corporativas-em-2027_233906.html",
+     "publicado_em": "2026-11-24",
+     "resumo": "O Air Monitor 2027, da American Express Global Business Travel, prevê alta de 4,2% a 5,3% nas tarifas de classe econômica em voos dentro da América do Sul, de 1,8% a 2,3% entre a região e a Europa e de 1,9% a 2,4% entre a região e a América do Norte. Em 2025, a receita acessória de 58 companhias comparáveis cresceu 13,4%, contra 7,2% da receita total.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Estudo do WTTC projeta déficit de 925 mil trabalhadores no turismo do Reino Unido até 2036",
+     "fonte": "Panrotas",
+     "url": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/11/turismo-do-reino-unido-podera-ter-deficit-de-925-mil-trabalhadores-ate-2036-alerta-wttc_233904.html",
+     "publicado_em": "2026-11-24",
+     "resumo": "O WTTC projeta falta de 925 mil profissionais no setor de Viagens e Turismo do Reino Unido até 2036, diferença de 17,9% entre demanda e oferta de mão de obra. A escassez pode colocar em risco US$ 84 bilhões de contribuição econômica em 2036.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 19
+}

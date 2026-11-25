@@ -121,7 +121,7 @@
     const hoje = new Date().toISOString().slice(0, 10);
     const lim = new Date(Date.now() + 30 * 864e5).toISOString().slice(0, 10);
     const proxFeiras = (ag.feiras || []).filter((f) => (f.fim || f.inicio) >= hoje && f.inicio <= lim).slice(0, 6);
-    if (proxFeiras.length) h += `<div class="radar feiras"><h2>Próximas feiras (30 dias)</h2><ul>${proxFeiras.map((f) => `<li><b>${esc(periodo(f))}</b> · <a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.nome)}</a> — ${esc(f.cidade)}</li>`).join("")}</ul><p class="fonte"><a href="#/feiras">Ver a agenda completa (90 dias) →</a></p></div>`;
+    if (proxFeiras.length) h += `<div class="radar feiras"><h2>Próximas feiras (30 dias)</h2><ul>${proxFeiras.map((f) => `<li><b>${esc(periodo(f))}</b> · <a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.nome)}</a> — ${esc(f.cidade)}</li>`).join("")}</ul><p class="fonte"><a href="#/feiras">Ver a agenda completa →</a></p></div>`;
     app.innerHTML = h;
     $("#selEd").onchange = (ev) => (location.hash = "#/e/" + ev.target.value);
     window.scrollTo(0, 0);
@@ -215,6 +215,24 @@
     const rot = () => { bt.textContent = escuroAgora() ? "☀ Claro" : "☾ Escuro"; bt.setAttribute("aria-label", escuroAgora() ? "Mudar para tema claro" : "Mudar para tema escuro"); };
     bt.onclick = () => { raizHtml.dataset.theme = escuroAgora() ? "light" : "dark"; try { localStorage.setItem("rhesumo-tema", raizHtml.dataset.theme); } catch (e) {} rot(); };
     rot(); nav.appendChild(bt);
+    // celular: Arquivo e tema vão para um menu (☰) no canto do cabeçalho
+    const wrap = nav.parentElement;
+    const mb = document.createElement("button");
+    mb.className = "menu-bt"; mb.type = "button"; mb.setAttribute("aria-label", "Mais opções"); mb.setAttribute("aria-expanded", "false"); mb.textContent = "☰";
+    const mm = document.createElement("div");
+    mm.className = "menu-mob";
+    const arq = nav.querySelector('a[data-v="arquivo"]');
+    const ma = document.createElement("a"); ma.href = arq ? arq.getAttribute("href") : "#/arquivo"; ma.textContent = "Arquivo de edições";
+    const mt = document.createElement("button"); mt.type = "button";
+    const rotm = () => (mt.textContent = escuroAgora() ? "☀ Tema claro" : "☾ Tema escuro");
+    mt.onclick = () => { bt.click(); rotm(); fechar(); };
+    const oldClick = bt.onclick; bt.onclick = () => { oldClick(); rotm(); };
+    rotm(); mm.append(ma, mt);
+    const fechar = () => { mm.classList.remove("aberto"); mb.setAttribute("aria-expanded", "false"); };
+    mb.onclick = (ev) => { ev.stopPropagation(); const ab = mm.classList.toggle("aberto"); mb.setAttribute("aria-expanded", String(ab)); };
+    ma.onclick = fechar;
+    document.addEventListener("click", (ev) => { if (!mm.contains(ev.target)) fechar(); });
+    wrap.insertBefore(mb, nav); wrap.appendChild(mm);
   }
   if (CTA) {  // botão fixo de contato (versão para clientes)
     const c = document.createElement("a");

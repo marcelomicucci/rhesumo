@@ -32,7 +32,7 @@
   let FEIRAS = null;
   async function feiras() { if (FEIRAS) return FEIRAS; try { FEIRAS = await getJSON("dados/feiras.json"); } catch (e) { FEIRAS = { feiras: [] }; } return FEIRAS; }
   const periodo = (f) => f.inicio === f.fim || !f.fim ? curta(f.inicio) : `${curta(f.inicio).slice(0, 5)} a ${curta(f.fim)}`;
-  const ctaFeira = () => CTA ? `<div class="cta-alerta">Vai a essa feira? <a href="${esc(CTA.url)}" target="_blank" rel="noopener">A Flytour organiza sua viagem →</a></div>` : "";
+  const ctaFeira = () => CTA ? `<div class="cta-alerta">Vai a essa feira? <a href="${esc(CTA.url)}" target="_blank" rel="noopener" data-umami-event="whatsapp-feira">A Flytour organiza sua viagem →</a></div>` : "";
   function cardFeira(f) {
     return `<article class="card feira"><div class="meta"><span class="badge b-feira">${esc(f.setor || "feira")}</span>${f.uf ? `<span class="badge b-idioma">${esc(f.uf)}</span>` : ""}<span>${esc(periodo(f))}</span></div>
       <h3>${tituloLink(f, esc(f.nome))}</h3><p>${esc(f.cidade)}${f.pais ? " · " + esc(f.pais) : ""}</p>
@@ -70,7 +70,7 @@
     return b;
   }
   const fonteLinha = (n) => `<div class="fonte">Fonte: <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.fonte)}</a>${n.publicado_em ? " · publicado em " + curta(n.publicado_em) : ""}</div>`;
-  const tituloLink = (n, html) => n.url ? `<a href="${esc(n.url)}" target="_blank" rel="noopener" title="Abrir a matéria original">${html}</a>` : html;
+  const tituloLink = (n, html) => n.url ? `<a href="${esc(n.url)}" target="_blank" rel="noopener" title="Abrir a matéria original"${DIR ? "" : ` data-umami-event="materia-original" data-umami-event-fonte="${esc(n.fonte || "")}"`}>${html}</a>` : html;
   function porque(url) {
     if (!DIR || !DIR.interacoes) return "";
     const i = DIR.interacoes[url]; if (!i) return "";
@@ -88,7 +88,7 @@
       <div class="loc">${esc(a.local)}${a.periodo ? " · " + esc(a.periodo) : ""}</div>
       <p>${esc(a.resumo)}</p>${DIR && DIR.impactos && DIR.impactos[a.url] ? `<div class="impacto"><b>Impacto para o grupo:</b> ${esc(DIR.impactos[a.url])}</div>` : ""}
       ${a.idioma_original && a.idioma_original !== "pt" ? `<div class="meta">${badges({ idioma: a.idioma_original })}</div>` : ""}${porque(a.url)}${fonteLinha(a)}
-      ${CTA && CFG.ctaAlerta ? `<div class="cta-alerta">Tem viajante nessa rota? <a href="${esc(CTA.url)}" target="_blank" rel="noopener">Nossa equipe ajuda a remarcar →</a></div>` : ""}</div>`;
+      ${CTA && CFG.ctaAlerta ? `<div class="cta-alerta">Tem viajante nessa rota? <a href="${esc(CTA.url)}" target="_blank" rel="noopener" data-umami-event="whatsapp-alerta">Nossa equipe ajuda a remarcar →</a></div>` : ""}</div>`;
   }
 
   function navTopo(ativo) {
@@ -193,8 +193,17 @@
       <div class="fonte">Na edição: <a href="#/e/${i.ed}">${curta(edNum[i.ed].data)}${edNum[i.ed].semanal ? " (semana)" : ""} — nº ${edNum[i.ed].numero}</a></div></article>`).join("");
   }
 
+  // Umami (sem cookies): página vista por versão e rota; a Diretoria nunca manda o endereço secreto
+  const VERSAO = DIR ? "/diretoria" : (location.pathname.includes("/flytour") ? "/flytour" : "");
+  function pageview(h) {
+    const rotaLimpa = h.replace(/^#/, "").split("?")[0] || "/";
+    const url = (VERSAO + (rotaLimpa === "/" ? "/" : rotaLimpa)).replace(/\/\/+/g, "/");
+    const ir = () => window.umami && window.umami.track((p) => ({ ...p, url, title: document.title, referrer: DIR ? "" : p.referrer }));
+    if (window.umami) ir(); else window.addEventListener("load", ir, { once: true });
+  }
   async function rota() {
     const h = location.hash || "#/";
+    pageview(h);
     try {
       if (h.startsWith("#/e/")) await verEdicao(decodeURIComponent(h.slice(4)));
       else if (h.startsWith("#/busca")) await verBusca(new URLSearchParams(h.split("?")[1] || ""));
@@ -236,7 +245,7 @@
   }
   if (CTA) {  // botão fixo de contato (versão para clientes)
     const c = document.createElement("a");
-    c.className = "cta-fixo"; c.href = CTA.url; c.target = "_blank"; c.rel = "noopener"; c.textContent = CTA.texto || "Fale conosco";
+    c.className = "cta-fixo"; c.setAttribute("data-umami-event", "fale-com-a-flytour"); c.href = CTA.url; c.target = "_blank"; c.rel = "noopener"; c.textContent = CTA.texto || "Fale conosco";
     document.body.appendChild(c);
   }
   window.addEventListener("hashchange", rota);

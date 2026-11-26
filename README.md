@@ -12,11 +12,11 @@
 
 ---
 
-### Hoje no Rhesumo · 25/11/2026
+### Hoje no Rhesumo · 26/11/2026
 
-> **Clima pressiona operações enquanto aviação, IA e eventos redesenham oportunidades para 2027**
+> **Clima pressiona a mobilidade enquanto reforma tributária e IA avançam no turismo e em eventos**
 >
-> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-25)
+> [Abrir a edição completa →](https://rhesumo.rhes.com.br/#/e/2026-11-26)
 
 ---
 
@@ -40,8 +40,8 @@ Pará, Amazônia & Sustentabilidade · Café & Foodservice · Estudos & Pesquisa
 
 ## Uma memória do turismo
 
-Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **28 edições**, **415 notícias**
-e **127 alertas de viagem**, de **105 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
+Cada edição fica guardada e pesquisável. Desde 21/10/2026, já são **29 edições**, **436 notícias**
+e **134 alertas de viagem**, de **119 fontes**. A [busca avançada](https://rhesumo.rhes.com.br/#/busca) filtra por palavra,
 frase exata, período, seção, fonte, tipo (notícia, estudo, alerta) e idioma original.
 
 ## Dados abertos
@@ -56,13 +56,13 @@ Tudo está disponível em formatos simples, para ler ou reutilizar:
 
 ## Últimas edições
 
+- [26/11/2026](edicoes/2026/11/2026-11-26.md) — Clima pressiona a mobilidade enquanto reforma tributária e IA avançam no turismo e em eventos
 - [25/11/2026](edicoes/2026/11/2026-11-25.md) — Clima pressiona operações enquanto aviação, IA e eventos redesenham oportunidades para 2027
 - [24/11/2026](edicoes/2026/11/2026-11-24.md) — Clima e câmbio elevam o risco operacional enquanto turismo e infraestrutura mantêm demanda
 - [23/11/2026](edicoes/2026/11/2026-11-23.md) — Interrupções de viagem elevam a necessidade de contingência enquanto novos canais redesenham a distribuição
 - [21/11/2026 · Rhesumo da Semana](edicoes/2026/11/semana-2026-11-21.md) — demanda e conectividade avançam, enquanto IA, regulação, clima e conflitos exigem resposta operacional
 - [19/11/2026](edicoes/2026/11/2026-11-19.md) — Clima pressiona a operação aérea enquanto conectividade, IA e novas regras redesenham o turismo
 - [18/11/2026](edicoes/2026/11/2026-11-18.md) — Aviação reforça a alta temporada enquanto tecnologia, tributos e infraestrutura redesenham a operação
-- [17/11/2026](edicoes/2026/11/2026-11-17.md) — Turismo internacional acelera, enquanto clima e interrupções em hubs exigem controle operacional
 
 [Ver todas as edições →](edicoes/README.md)
 

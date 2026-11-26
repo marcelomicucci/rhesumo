@@ -1,0 +1,268 @@
+{
+ "id": "2026-11-26",
+ "data": "2026-11-26",
+ "semanal": false,
+ "numero": 29,
+ "manchete": "Clima pressiona a mobilidade enquanto reforma tributária e IA avançam no turismo e em eventos",
+ "resumo_executivo": [
+  "Tempestades, calor, fumaça e incêndios geram alertas em estados prioritários do Rhes; nos Estados Unidos, mais de 6 mil voos atrasaram na véspera de Ação de Graças.",
+  "A Gol lançou uma nova cabine para disputar passageiros corporativos e de maior renda, enquanto a FAA prevê mais de 417 mil voos nos nove dias do período de Ação de Graças nos EUA.",
+  "A reforma tributária já exige organização de contratos, pagamentos, recebimentos e fluxo de caixa no setor de eventos; o Simples Nacional terá novas regras para IBS e CBS e encerrará o regime de caixa para apuração a partir de 2027.",
+  "Belém recebe o Fórum Norte de Economia Circular em dezembro, e a Pesquisa Nacional de Demanda Turística ouviu cerca de 22,5 mil pessoas em 50 cidades brasileiras."
+ ],
+ "alertas": [
+  {
+   "titulo": "Fumaça suspende aulas em quatro cidades do Amazonas",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/25/aulas-da-rede-estadual-sao-suspensas-em-manaus-e-outras-tres-cidades-por-fumaca-e-piora-da-qualidade-do-ar.ghtml",
+   "publicado_em": "2026-11-25",
+   "categoria": "clima",
+   "local": "Manaus, Parintins, Itapiranga e Maués (AM)",
+   "periodo": "25 a 27/11/2026",
+   "resumo": "Aulas foram suspensas por piora da qualidade do ar causada por fumaça de queimadas. Em Manaus, o índice chegou a 153, classificado como insalubre, e sete municípios do interior registraram nível péssimo.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Emergência é reconhecida em dois municípios do Amapá por incêndios florestais",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/25/governo-federal-reconhece-emergencia-em-dois-municipios-do-amapa-por-incendios-florestais.ghtml",
+   "publicado_em": "2026-11-25",
+   "categoria": "clima",
+   "local": "Laranjal do Jari e Vitória do Jari (AP)",
+   "periodo": "Situação reconhecida em 25/11/2026; sem data final informada",
+   "resumo": "O governo federal reconheceu situação de emergência nos dois municípios devido a incêndios florestais, permitindo pedido de apoio financeiro federal para ações da Defesa Civil.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Frente fria traz risco de tempestades e chuva forte em três regiões",
+   "fonte": "Jornal do Brasil",
+   "url": "https://www.jb.com.br/bem-viver/2026/11/1061653-frente-fria-provoca-tempestades-e-chuva-forte-em-tres-regioes-do-pais.html",
+   "publicado_em": "2026-11-25",
+   "categoria": "clima",
+   "local": "Sul, Sudeste e Centro-Oeste; incluindo áreas de PR, MS, SP, MG, RJ, ES e GO",
+   "periodo": "25 a 27/11/2026",
+   "resumo": "O Inmet prevê tempestades e acumulados elevados de chuva, que podem passar de 50 mm em 24 horas. Há risco de raios, rajadas de vento, alagamentos, queda de árvores e interrupções pontuais.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Defesa Civil envia alerta de calor intenso para Fortaleza",
+   "fonte": "GCMais",
+   "url": "https://gcmais.com.br/noticias/2026/11/25/defesa-civil-envia-alerta-de-calor-intenso-para-moradores-de-fortaleza",
+   "publicado_em": "2026-11-25",
+   "categoria": "clima",
+   "local": "Fortaleza, Região Metropolitana e interior do Ceará",
+   "periodo": "25 a 27/11/2026",
+   "resumo": "A Defesa Civil enviou orientações após quatro dias de temperaturas elevadas. A previsão indicava 23°C a 35°C em Fortaleza e máximas próximas ou superiores a 40°C no interior, com umidade entre 20% e 35% em algumas regiões.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Goiânia tem aviso de chuvas intensas nesta quinta-feira",
+   "fonte": "O Hoje",
+   "url": "https://ohoje.com/2026/11/26/goiania-tera-maxima-de-29c-e-trovoadas-nesta-quinta-26-inmet-emite-aviso-de-chuvas-intensas/",
+   "publicado_em": "2026-11-26",
+   "categoria": "clima",
+   "local": "Goiânia e áreas de Goiás e do Distrito Federal",
+   "periodo": "26/11/2026, das 0h às 23h59",
+   "resumo": "O Inmet prevê 20 a 30 mm por hora ou até 50 mm no dia, ventos de 40 a 60 km/h e trovoadas. O aviso aponta baixo risco de alagamentos, queda de galhos, interrupções de energia e descargas elétricas.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Mau tempo atrasa mais de 6 mil voos na véspera de Ação de Graças nos EUA",
+   "fonte": "CNN Brasil",
+   "url": "https://www.cnnbrasil.com.br/internacional/mau-tempo-atrasa-mais-de-6-mil-voos-na-vespera-de-acao-de-gracas-nos-eua/",
+   "publicado_em": "2026-11-26",
+   "categoria": "clima",
+   "local": "Nordeste dos EUA, incluindo Nova York, Washington D.C. e Chicago; Miami também registra atrasos",
+   "periodo": "A partir de 25/11/2026, durante o período de Ação de Graças",
+   "resumo": "Tempestades nas duas costas dos Estados Unidos provocaram mais de 6 mil atrasos na quarta-feira (25). A FAA alerta para problemas de viagem no Nordeste, e companhias oferecem alterações sem custo adicional; em Miami, os atrasos continuaram após a saída de um avião de carga da pista.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Inspeções policiais mais rígidas atrasam fluxos de carga em Guarulhos",
+   "fonte": "The Traveler",
+   "url": "https://www.thetraveler.org/tighter-police-checks-snarl-cargo-flows-at-sao-paulo-gru/",
+   "publicado_em": "2026-11-25",
+   "categoria": "aeroporto",
+   "local": "Terminal de cargas do Aeroporto Internacional de São Paulo–Guarulhos (GRU)",
+   "periodo": "Final de novembro de 2026; atrasos podem durar vários dias",
+   "resumo": "Inspeções intensificadas da Polícia Federal reduziram a velocidade de processamento de cargas de importação e exportação. O GRU Airport Cargo alertou para atrasos em cargas secas gerais, sem suspensão geral das importações.",
+   "severo": false,
+   "idioma_original": "en"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Aviação & Turismo",
+   "noticias": [
+    {
+     "titulo": "Gol lança nova cabine para disputar passageiro corporativo e de maior renda",
+     "fonte": "Valor Econômico",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/25/gol-lana-nova-cabine-para-disputar-passageiro-corporativo-e-de-maior-renda.ghtml",
+     "publicado_em": "2026-11-25",
+     "resumo": "A Gol lançou uma nova cabine para disputar passageiros corporativos e de maior renda. A companhia também incorporou o Airbus A330 à frota e lançou a cabine business de longa distância Insignia; a Latam é hoje a única aérea com cabine premium sem assento do meio nas aeronaves maiores em voos domésticos no Brasil.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "FAA prevê o período de Ação de Graças mais movimentado dos EUA em 16 anos",
+     "fonte": "The Traveler",
+     "url": "https://www.thetraveler.org/faa-projects-busiest-u-s-thanksgiving-skies-in-16-years/",
+     "publicado_em": "2026-11-25",
+     "resumo": "A FAA prevê mais de 417 mil voos nos nove dias do período de Ação de Graças de 2026, com pico superior a 52 mil voos em um único dia. A agência projeta o período mais movimentado em 16 anos, pressionando equipes, tecnologia e a capacidade de resposta a interrupções.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "Tecnologia ajuda o setor de eventos a se preparar para a reforma tributária",
+     "fonte": "Estado de Minas",
+     "url": "https://www.em.com.br/economia/economia-digital/2026/11/7541807-tecnologia-ajuda-setor-de-eventos-a-se-preparar-para-a-reforma-tributaria.html",
+     "publicado_em": "2026-11-25",
+     "resumo": "A plataforma MeEventos atende cerca de 2 mil empresas, possui mais de 10 mil usuários e é usada na gestão de aproximadamente 18 mil eventos por mês. O sistema reúne contratos, fornecedores, pagamentos e despesas para apoiar a transição tributária, que começou em 2026 e seguirá gradualmente até 2033.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Chile inclui a inteligência artificial no debate sobre destinos turísticos",
+     "fonte": "El Enviador",
+     "url": "https://elenviador.com/2026/11/25/chile-inteligencia-artificial-gestion-destinos-turisticos/",
+     "publicado_em": "2026-11-25",
+     "resumo": "O 30º Congresso Nacional da Associação de Municipalidades Turísticas do Chile reúne, de 24 a 27 de novembro, uma agenda sobre IA, dados e gestão local em Villarrica e Pucón. O programa aborda destinos turísticos inteligentes, experiência do visitante, formalização de serviços, tendências climáticas e resiliência.",
+     "tipo": "noticia",
+     "idioma_original": "es"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Belém recebe mais de 100 autoridades no Fórum Norte de Economia Circular",
+     "fonte": "SEMAS/PA",
+     "url": "https://www.semas.pa.gov.br/Home/Noticias/19334/belem-recebe-mais-de-100-autoridades-do-brasil-peru-e-colombia-no-i-forum-norte-de-economia-circular/",
+     "publicado_em": "2026-11-25",
+     "resumo": "O I Fórum Norte de Economia Circular será realizado em Belém de 2 a 4 de dezembro, com mais de 60 atividades gratuitas. O evento reunirá mais de 100 autoridades e especialistas do Brasil, Peru e Colômbia, além de gestores públicos, empreendedores e representantes de comunidades tradicionais.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Feiras & Grandes Eventos",
+   "noticias": [
+    {
+     "titulo": "Congresso de Cardiologia começa em Palmas com foco na prevenção",
+     "fonte": "Conexão Tocantins",
+     "url": "https://conexaoto.com.br/2026/11/25/congresso-de-cardiologia-comeca-em-palmas-com-foco-na-prevencao-de-doencas-do-coracao",
+     "publicado_em": "2026-11-25",
+     "resumo": "O XVIII Congresso Tocantinense de Cardiologia e o III Congresso Multiprofissional de Cardiologia do Tocantins ocorrem de 26 a 28 de novembro, em Palmas. A programação reúne cardiologistas, residentes, acadêmicos e profissionais multiprofissionais para discutir prevenção, diagnóstico e casos clínicos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Ceará contabiliza R$ 297 bilhões em investimentos compromissados até 2035",
+     "fonte": "Jornal Diário do Povo",
+     "url": "https://diario.dopovo.com.br/2026/11/25/ceara-contabiliza-r-297-bilhoes-em-investimentos-compromissados-ate-2035",
+     "publicado_em": "2026-11-25",
+     "resumo": "O Ceará contabiliza R$ 297 bilhões em investimentos compromissados até 2035; R$ 91 bilhões já foram realizados ou correspondem a obras iniciadas entre 2023 e 2026. A primeira fase da Transnordestina ultrapassa 85% de execução, e a conclusão das obras principais está prevista para 2027.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Simples Nacional terá novas regras para IBS e CBS",
+     "fonte": "CBIC",
+     "url": "https://cbic.org.br/reforma-tributaria-simples-nacional-tera-novas-regras-para-ibs-e-cbs/",
+     "publicado_em": "2026-11-25",
+     "resumo": "Resolução do Comitê Gestor do Simples Nacional, publicada em 24/11, regulamenta apuração, recolhimento e creditamento de IBS e CBS por optantes do Simples Nacional, com tabelas e percentuais para 2027 e 2028. O regime de caixa para apuração termina a partir de 2027, e valores ainda não recebidos até 31 de dezembro de 2026 deverão entrar na apuração de dezembro.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "CNI questiona no STF decreto e portaria sobre jornada e escala 5x2",
+     "fonte": "Agro Pujante",
+     "url": "https://agropujante.com.br/noticia/cni-questiona-no-stf-decreto-e-portaria-sobre-jornada-e-escala-5x2",
+     "publicado_em": "2026-11-25",
+     "resumo": "A CNI ajuizou no STF, em 24 de novembro, ação direta de inconstitucionalidade contra o Decreto 13.173/2026 e a Portaria MTE 2.041/2026, que regulamentam a redução da jornada e a escala 5x2 previstas na EC 141/2026. A entidade pede liminar para suspender os atos e a declaração de inconstitucionalidade integral.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "STF mantém indicação de valores como regra em ações trabalhistas",
+     "fonte": "Migalhas",
+     "url": "https://www.migalhas.com.br/quentes/469264/ao-vivo-stf-julga-exigencia-de-valores-em-acoes-trabalhistas",
+     "publicado_em": "2026-11-25",
+     "resumo": "O STF decidiu que o trabalhador deve, como regra, calcular e indicar na petição inicial o valor de cada pedido, que servirá de limite para a condenação. Quando o cálculo for inviável nas hipóteses previstas no CPC, será possível apresentar estimativa fundamentada, e a parte poderá corrigir a petição antes da extinção dos pedidos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Pará, Amazônia & Sustentabilidade",
+   "noticias": [
+    {
+     "titulo": "Um ano após a COP30, ao menos 10 obras seguem inacabadas em Belém",
+     "fonte": "G1",
+     "url": "https://g1.globo.com/pa/para/noticia/2026/11/26/um-ano-apos-cop-30-ao-menos-10-obras-seguem-inacabadas-em-belem.ghtml",
+     "publicado_em": "2026-11-26",
+     "resumo": "Um ano após a COP30, ao menos 10 dos 37 projetos anunciados como intervenções da conferência seguem inacabados em Belém. A reportagem cita, entre outros, a segunda etapa do Parque da Cidade, obra de R$ 980 milhões, além de estruturas sem funcionamento e já vandalizadas.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Café & Foodservice",
+   "noticias": [
+    {
+     "titulo": "Café cai 2,46% nas cotações agro de Minas",
+     "fonte": "O TEMPO",
+     "url": "https://www.otempo.com.br/agro/2026/11/25/cotacoes-do-agro-em-minas-25-11-2026",
+     "publicado_em": "2026-11-25",
+     "resumo": "A saca de 60 kg de café recuou 2,46% na média do dia em Minas e ficou em R$ 1.750,00 na referência de Araguari e Patrocínio. Em 12 meses, a saca está 25,85% abaixo.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Pesquisa do MTur ouve cerca de 22,5 mil turistas em 50 cidades",
+     "fonte": "Ministério do Turismo",
+     "url": "https://www.gov.br/turismo/pt-br/assuntos/noticias/mtur-e-itaipu-parquetec-concluem-pesquisa-inedita-sobre-o-turismo-em-50-cidades-brasileiras",
+     "publicado_em": "2026-11-19",
+     "resumo": "A primeira edição da Pesquisa Nacional de Demanda Turística ouviu cerca de 22,5 mil turistas em 50 cidades das cinco regiões do país. O questionário reuniu dados sobre transporte, hospedagem, permanência, composição dos grupos, atividades e gastos.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Pesquisa aponta os principais golpes de turismo na Black Friday",
+     "fonte": "Meio & Mensagem",
+     "url": "https://www.meioemensagem.com.br/marketing/turismo-e-black-friday-pesquisa-indica-os-maiores-golpes",
+     "publicado_em": "2026-11-24",
+     "resumo": "Pesquisa do Melhores Destinos mostra que 11,4% dos entrevistados já perderam dinheiro em golpes de viagens e 16% quase caíram em uma armadilha. Bilhetes e pacotes inexistentes lideram com 36% das menções, seguidos por acomodações fictícias ou canais falsos de hotéis, com 31,2%; perfis falsos em redes sociais e WhatsApp ou Telegram aparecem com 21%.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 29
+}

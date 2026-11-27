@@ -1,0 +1,198 @@
+{
+ "id": "2026-11-27",
+ "data": "2026-11-27",
+ "semanal": false,
+ "numero": 30,
+ "manchete": "Clima e interrupções elevam a necessidade de contingência; turismo e eventos sustentam a demanda",
+ "resumo_executivo": [
+  "Alertas de tempestades, baixa umidade e fumaça atingem estados prioritários e exigem acompanhamento das condições de deslocamento, especialmente no Amazonas.",
+  "Greve no handling da SATA e suspensão de voos da Norse Atlantic mantêm riscos operacionais em conexões internacionais.",
+  "O turismo internacional deixou R$ 53,8 bilhões no Brasil de janeiro a outubro, enquanto o Réveillon de Fortaleza tem previsão de 760 mil turistas entre 23 de dezembro e 8 de janeiro.",
+  "A escolha de Luiz Carlos Trabuco para a Fazenda em 2027 e a disputa sobre o início da CBS/IBS aumentam a relevância do acompanhamento econômico e regulatório.",
+  "Agoda afirma que a reserva por IA é disruptiva, mas ainda não há modelo comercial definido; a Black Friday de 2026 tem previsão de movimentar R$ 11,5 bilhões no varejo brasileiro."
+ ],
+ "alertas": [
+  {
+   "titulo": "Inmet emite alertas para tempestades e baixa umidade em boa parte do país",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-alerta-para-tempestades-em-boa-parte-do-pais",
+   "publicado_em": "2026-11-26",
+   "categoria": "clima",
+   "local": "Seis estados sob alerta laranja; alerta amarelo de chuvas intensas em partes do Amazonas, Pará, Tocantins, Goiás, São Paulo e outras áreas; alerta amarelo de baixa umidade no Maranhão, Piauí e Ceará",
+   "periodo": "26/11, da 0h às 23h59; baixa umidade no Nordeste, das 10h às 22h",
+   "resumo": "O Inmet previu tempestades com chuva de 30 a 60 mm/h ou até 50 a 100 mm por dia e ventos de 60 a 100 km/h nos estados sob alerta laranja. Também houve alerta amarelo para chuvas intensas e para baixa umidade no Nordeste, com umidade entre 30% e 20%.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Fumaça de queimadas coloca Manaus e interior do Amazonas sob alerta de risco severo para a qualidade do ar",
+   "fonte": "G1 AM",
+   "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/26/fumaca-que-encobre-amazonas-vem-em-grande-parte-de-queimadas-no-para-diz-governo-defesa-civil-emite-alerta-de-risco-severo.ghtml",
+   "publicado_em": "2026-11-26",
+   "categoria": "clima",
+   "local": "Manaus e cidades do interior do Amazonas; fumaça com origem predominante em queimadas no Pará",
+   "periodo": "26/11; alerta da Defesa Civil emitido às 9h59",
+   "resumo": "Manaus e cidades do interior amanheceram encobertas por fumaça. Em 48 horas, o Pará registrou 1.369 focos de calor, contra 77 no Amazonas e 75 no Amapá; a Defesa Civil emitiu alerta de risco severo para a qualidade do ar e recomendou máscara e evitar exposição.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Apagão e falha na internet causam transtornos em Manaus e afetam serviços comerciais",
+   "fonte": "G1 AM",
+   "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/26/falta-de-energia-e-internet-deixa-trabalhadores-sem-conseguir-atender-clientes-em-manaus.ghtml",
+   "publicado_em": "2026-11-26",
+   "categoria": "sistemas",
+   "local": "Manaus e Iranduba, Manacapuru, Presidente Figueiredo, Parintins, Itacoatiara, Silves e Itapiranga (AM)",
+   "periodo": "26/11, a partir das 15h35; 100% da carga interrompida restabelecida por volta das 19h15",
+   "resumo": "A falta de energia e de internet interrompeu pagamentos por cartão e Pix, atendimento por WhatsApp e corridas por aplicativo. Segundo a Âmbar Energia, a causa foi um desligamento intempestivo no Sistema Interligado Nacional.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Greve no handling da SATA nos Açores tem adesão superior a 90%",
+   "fonte": "Correio da Manhã / Lusa",
+   "url": "https://www.cmjornal.pt/sociedade/detalhe/greve-no-handling-da-sata-com-adesao-superior-a-90",
+   "publicado_em": "2026-11-26",
+   "categoria": "greve",
+   "local": "Aeroportos dos Açores, Portugal",
+   "periodo": "26 a 29/11",
+   "resumo": "A greve dos serviços de assistência em terra da SATA teve adesão superior a 90%, segundo um sindicato. A empresa ativou plano de contingência e permitiu alterações de reserva antes ou depois da paralisação, mas o dirigente sindical relatou um enorme número de voos cancelados.",
+   "severo": true,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Drone não identificado viola espaço aéreo da Letónia e mobiliza caças da OTAN",
+   "fonte": "Correio da Manhã",
+   "url": "https://cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/drone-entra-no-espaco-aereo-da-letonia-e-obriga-a-ativar-cacas-da-nato",
+   "publicado_em": "2026-11-27",
+   "categoria": "conflito",
+   "local": "Região de Ludza e município de Balvi, Letónia",
+   "periodo": "27/11; os alertas foram suspensos pouco depois",
+   "resumo": "A entrada de um drone não identificado no espaço aéreo letão levou à ativação de caças da OTAN e de um drone interceptor. Um alerta para Ludza e outro, de menor risco, para Balvi foram rapidamente suspensos.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Mpox chega a quatro casos confirmados no Piauí em 2026",
+   "fonte": "G1 PI",
+   "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/26/mpox-piaui-casos-confirmados.ghtml",
+   "publicado_em": "2026-11-26",
+   "categoria": "saude",
+   "local": "Teresina (PI)",
+   "periodo": "2026; dado informado em 26/11",
+   "resumo": "O Piauí tinha quatro casos confirmados de mpox em 2026, concentrados em Teresina, e outros nove casos suspeitos. Os quatro confirmados eram de homens entre 30 e 49 anos; o Brasil somava 1.631 casos confirmados em 2026.",
+   "severo": false,
+   "idioma_original": "pt"
+  },
+  {
+   "titulo": "Norse Atlantic suspende voos enquanto avalia recuperação financeira",
+   "fonte": "Skift",
+   "url": "https://skift.com/2026/11/26/norse-atlantic-suspends-flights-as-bankruptcy-looms",
+   "publicado_em": "2026-11-26",
+   "categoria": "sistemas",
+   "local": "Voos da Norse Atlantic Airways",
+   "periodo": "A partir de 26/11; sem prazo de normalização informado",
+   "resumo": "A Norse Atlantic Airways suspendeu formalmente todos os voos e informou que o conselho pretende pedir recuperação judicial caso não obtenha financiamento urgente. A companhia disse que negocia uma possível aquisição, mas não detalhou reembolsos ou alternativas de viagem.",
+   "severo": true,
+   "idioma_original": "en"
+  },
+  {
+   "titulo": "Ataques houthis enfraquecem a alta temporada de Riyadh",
+   "fonte": "Skift",
+   "url": "https://skift.com/2026/11/26/houthi-attacks-gut-riyadhs-peak-season",
+   "publicado_em": "2026-11-26",
+   "categoria": "conflito",
+   "local": "Riyadh, Arábia Saudita; King Khalid International Airport e King Abdullah Financial District",
+   "periodo": "Desde outubro; ataque mais recente citado em 24/11",
+   "resumo": "Ataques houthis apoiados pelo Irã contra o aeroporto King Khalid, em outubro, interromperam voos de entrada no início da alta temporada. Uma sequência de ataques, incluindo o mais recente em 24 de novembro no distrito financeiro King Abdullah, manteve companhias estrangeiras, organizadores de eventos e visitantes internacionais afastados.",
+   "severo": true,
+   "idioma_original": "en"
+  }
+ ],
+ "secoes": [
+  {
+   "titulo": "Viagens Corporativas & Tecnologia",
+   "noticias": [
+    {
+     "titulo": "COO da Agoda diz que ninguém sabe ainda qual será o modelo de negócio das reservas por IA",
+     "fonte": "Skift",
+     "url": "https://skift.com/2026/11/27/agodas-coo-on-ai-booking-nobody-knows-the-business-model-yet",
+     "publicado_em": "2026-11-27",
+     "resumo": "O COO da Agoda afirmou que a reserva por IA é disruptiva para o setor, mas que ainda não há clareza sobre o modelo de negócio ou a forma comercial. A agência foi uma das primeiras parceiras de viagens na Ásia a integrar o Meta Muse, agente que pesquisa e reserva em nome do usuário, e vê ChatGPT e Gemini como oportunidade.",
+     "tipo": "noticia",
+     "idioma_original": "en"
+    }
+   ]
+  },
+  {
+   "titulo": "Eventos",
+   "noticias": [
+    {
+     "titulo": "Réveillon de Fortaleza deve movimentar R$ 7 bilhões e gerar mais de 174 mil empregos",
+     "fonte": "Prefeitura de Fortaleza",
+     "url": "https://www.fortaleza.ce.gov.br/noticias/reveillon-de-fortaleza-deve-movimentar-r-7-bilhoes-na-economia-e-gerar-mais-de-174-mil-empregos",
+     "publicado_em": "2026-11-26",
+     "resumo": "A Prefeitura estima impacto econômico de R$ 7 bilhões, sendo R$ 5,1 bilhões diretos, e 174.272 empregos formais e informais. A previsão é receber 760 mil turistas entre 23 de dezembro de 2026 e 8 de janeiro de 2027, com ocupação hoteleira de até 95% e estadia média de nove dias; a programação será distribuída em três polos.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Economia, Gestão & Regulação",
+   "noticias": [
+    {
+     "titulo": "Lula confirma Luiz Carlos Trabuco como novo ministro da Fazenda em 2027",
+     "fonte": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-repercussao-da-escolha-de-trabuco-para-o-ministerio-da-fazenda",
+     "publicado_em": "2026-11-26",
+     "resumo": "O Palácio do Planalto confirmou que Luiz Carlos Trabuco Cappi, presidente do Conselho de Administração do Bradesco, aceitou o convite para comandar o Ministério da Fazenda no próximo mandato de Lula, a partir de 2027.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "IPCA-15 sobe 0,22% em novembro, com queda nas passagens aéreas e nos combustíveis",
+     "fonte": "CNN Brasil / Reuters",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ipca-15-hoje-26-novembro-2026/",
+     "publicado_em": "2026-11-26",
+     "resumo": "O IPCA-15 subiu 0,22% em novembro, ante 0,32% no mês anterior, e acumulou 4,64% em 12 meses. Alimentação e Bebidas avançou 1,51%, enquanto Transportes recuou 0,71%, com passagens aéreas em queda de 9,57% e combustíveis de 0,95%; a Selic estava em 13,75% ao ano.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Agro, comércio e transporte pedem ao STF adiamento do início da CBS e do IBS",
+     "fonte": "Poder360",
+     "url": "https://www.poder360.com.br/poder-justica/agro-comercio-e-transporte-pedem-ao-stf-adiar-a-cbs",
+     "publicado_em": "2026-11-26",
+     "resumo": "CNA, CNC e CNT pediram ao STF o adiamento da cobrança integral da CBS, prevista para 1º de janeiro de 2027, e da cobrança efetiva do IBS. As entidades querem que a CBS comece 90 dias após a publicação das normas pendentes e pedem providências em 30 dias.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    },
+    {
+     "titulo": "Black Friday de 2026 deve movimentar R$ 11,5 bilhões no varejo brasileiro",
+     "fonte": "iG",
+     "url": "https://economia.ig.com.br/2026-11-27/black-friday-deve-movimentar-r--11-5-bilhoes-no-varejo-neste-ano.html",
+     "publicado_em": "2026-11-27",
+     "resumo": "A CNC estima R$ 11,5 bilhões em vendas na Black Friday de 2026, com crescimento real de 1,8% sobre o ano anterior, abaixo da alta de 3,2% registrada em 2025. Juros elevados, endividamento das famílias e concorrência com importados podem limitar o resultado.",
+     "tipo": "noticia",
+     "idioma_original": "pt"
+    }
+   ]
+  },
+  {
+   "titulo": "Estudos & Pesquisas",
+   "noticias": [
+    {
+     "titulo": "Turismo internacional movimenta R$ 53,8 bilhões no Brasil até outubro e supera meta do ano",
+     "fonte": "Secom / Embratur",
+     "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/turismo-internacional-movimenta-r-53-8-bilhoes-no-brasil-ate-outubro-e-supera-meta-do-ano",
+     "publicado_em": "2026-11-26",
+     "resumo": "De janeiro a outubro de 2026, visitantes estrangeiros deixaram R$ 53,8 bilhões no Brasil, 9,52% acima do mesmo período de 2025. Em outubro, os gastos chegaram a US$ 867,2 milhões; o gasto médio por visitante passou de US$ 1.093 para US$ 1.211, alta de 10,8%, e as chegadas por via aérea cresceram 8,7%.",
+     "tipo": "estudo",
+     "idioma_original": "pt"
+    }
+   ]
+  }
+ ],
+ "fontes_consultadas": 18
+}

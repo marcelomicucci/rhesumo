@@ -5,6 +5,7 @@
 
 ## Novembro de 2026
 
+- [27/11/2026](2026/11/2026-11-27.md) — Clima e interrupções elevam a necessidade de contingência; turismo e eventos sustentam a demanda
 - [26/11/2026](2026/11/2026-11-26.md) — Clima pressiona a mobilidade enquanto reforma tributária e IA avançam no turismo e em eventos
 - [25/11/2026](2026/11/2026-11-25.md) — Clima pressiona operações enquanto aviação, IA e eventos redesenham oportunidades para 2027
 - [24/11/2026](2026/11/2026-11-24.md) — Clima e câmbio elevam o risco operacional enquanto turismo e infraestrutura mantêm demanda
